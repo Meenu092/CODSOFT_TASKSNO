@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Category,Product,Region,Customer_Type,Quantity,Unit_Price,Discount_Percent,Revenue,Payment_Method,Customer_Rating
+1,2025-10-07,Electronics,Wireless Headphones,North,Returning,3,40098,23,92626.38,UPI,1
+2,2025-11-29,Electronics,Smartphone,West,New,2,74237,22,115809.72,Cash on Delivery,5
+3,2025-06-22,Fashion,T-Shirt,North,New,2,2776,30,3886.4,Cash on Delivery,1
+4,2025-07-13,Fashion,Sneakers,North,Returning,5,6477,3,31413.45,Net Banking,3
+5,2025-04-30,Sports,Running Shoes,North,Returning,1,2007,27,1465.11,Debit Card,4
+6,2025-02-06,Fashion,Jeans,South,New,3,5990,20,14376.0,Credit Card,4
+7,2025-01-17,Beauty,Perfume,East,Returning,5,758,26,2804.6,Debit Card,1
+8,2025-03-15,Home,Office Chair,East,New,3,22477,14,57990.66,Credit Card,5
+9,2025-09-18,Sports,Cricket Bat,West,New,5,4293,4,20606.4,UPI,1
+10,2025-10-11,Home,Air Fryer,North,New,4,13608,8,50077.44,Net Banking,3
+11,2025-04-02,Fashion,T-Shirt,North,Returning,3,4216,16,10624.32,Net Banking,5
+12,2025-06-15,Home,Air Fryer,West,New,3,18674,19,45377.82,UPI,3
+13,2025-02-05,Fashion,Jeans,South,New,1,1145,26,847.3,Cash on Delivery,5
+14,2025-12-10,Home,Table Lamp,East,Returning,5,7940,12,34936.0,Net Banking,4
+15,2025-04-23,Electronics,Smartphone,North,New,2,16392,18,26882.88,UPI,2
+16,2025-04-20,Electronics,Wireless Headphones,South,Returning,3,17287,15,44081.85,Credit Card,4
+17,2025-08-28,Beauty,Shampoo,North,New,1,3202,13,2785.74,UPI,4
+18,2025-04-04,Fashion,T-Shirt,East,Returning,2,4893,13,8513.82,Credit Card,1
+19,2025-05-02,Beauty,Lipstick,South,Returning,1,420,29,298.2,Cash on Delivery,4
+20,2025-08-21,Home,Vacuum Cleaner,East,Returning,1,13418,29,9526.78,Net Banking,4
+21,2025-06-10,Home,Air Fryer,North,New,3,2916,23,6735.96,Net Banking,4
+22,2025-02-04,Sports,Football,South,Returning,2,1822,19,2951.64,UPI,5
+23,2025-10-17,Home,Office Chair,East,Returning,5,21295,18,87309.5,Credit Card,3
+24,2025-02-07,Home,Table Lamp,North,Returning,4,23009,10,82832.4,Net Banking,5
+25,2025-02-05,Electronics,Wireless Headphones,South,Returning,5,35938,28,129376.8,Debit Card,2
+26,2025-12-06,Beauty,Lipstick,North,New,3,4843,29,10315.59,Debit Card,1
+27,2025-12-18,Electronics,Laptop,East,Returning,2,43697,6,82150.36,Debit Card,1
+28,2025-03-24,Electronics,Bluetooth Speaker,West,Returning,3,13778,8,38027.28,Net Banking,1
+29,2025-03-17,Electronics,Wireless Headphones,West,New,2,79511,17,131988.26,UPI,3
+30,2025-10-14,Fashion,T-Shirt,West,New,3,2544,24,5800.32,Credit Card,2
+31,2025-05-08,Home,Vacuum Cleaner,East,New,1,11885,27,8676.05,UPI,4
+32,2025-01-13,Electronics,Bluetooth Speaker,South,Returning,2,34158,7,63533.88,Debit Card,3
+33,2025-01-15,Electronics,Smartwatch,North,Returning,3,74768,30,157012.8,Credit Card,5
+34,2025-09-19,Fashion,T-Shirt,North,Returning,1,6468,19,5239.08,Net Banking,2
+35,2025-12-10,Fashion,T-Shirt,South,Returning,4,7106,23,21886.48,Cash on Delivery,1
+36,2025-12-08,Fashion,Backpack,West,Returning,3,7873,9,21493.29,Cash on Delivery,3
+37,2025-06-04,Sports,Running Shoes,West,New,2,10784,18,17685.76,Debit Card,3
+38,2025-09-19,Home,Vacuum Cleaner,West,New,5,16236,6,76309.2,UPI,3
+39,2025-04-12,Sports,Football,South,New,3,4380,25,9855.0,UPI,2
+40,2025-07-24,Beauty,Lipstick,South,New,1,1892,15,1608.2,UPI,1
+41,2025-03-04,Beauty,Shampoo,West,New,2,4866,29,6909.72,Cash on Delivery,5
+42,2025-10-08,Sports,Football,West,New,3,7691,26,17074.02,Cash on Delivery,4
+43,2025-02-09,Fashion,Jeans,East,New,3,5634,14,14535.72,Debit Card,3
+44,2025-04-20,Fashion,Backpack,North,Returning,1,2394,22,1867.32,Cash on Delivery,3
+45,2025-10-27,Sports,Dumbbells,North,Returning,4,7081,28,20393.28,Cash on Delivery,1
+46,2025-04-23,Fashion,Sneakers,West,New,4,6623,28,19074.24,Debit Card,4
+47,2025-08-28,Beauty,Face Cream,South,New,4,3612,26,10691.52,Cash on Delivery,5
+48,2025-05-14,Sports,Yoga Mat,West,Returning,1,3677,1,3640.23,Credit Card,4
+49,2025-10-04,Fashion,Sneakers,North,Returning,4,2566,0,10264.0,Credit Card,1
+50,2025-08-31,Electronics,Wireless Headphones,North,New,2,34130,4,65529.6,Cash on Delivery,3
+51,2025-06-09,Fashion,Jeans,West,Returning,5,3048,0,15240.0,Credit Card,1
+52,2025-01-22,Sports,Running Shoes,East,Returning,1,9972,25,7479.0,Debit Card,1
+53,2025-08-24,Sports,Cricket Bat,South,Returning,1,6634,20,5307.2,Credit Card,5
+54,2025-05-06,Fashion,Backpack,North,Returning,5,4068,27,14848.2,Cash on Delivery,2
+55,2025-09-07,Beauty,Lipstick,South,Returning,5,4349,5,20657.75,Debit Card,3
+56,2025-07-28,Fashion,Backpack,West,New,3,2065,23,4770.15,Cash on Delivery,4
+57,2025-10-25,Beauty,Face Cream,East,Returning,1,2293,21,1811.47,Net Banking,5
+58,2025-05-09,Fashion,Jacket,South,New,5,6257,9,28469.35,Credit Card,3
+59,2025-10-29,Electronics,Laptop,East,New,2,33105,23,50981.7,Credit Card,3
+60,2025-01-24,Home,Table Lamp,North,Returning,2,1463,8,2691.92,Credit Card,4
+61,2025-01-27,Electronics,Wireless Headphones,East,Returning,5,45268,5,215023.0,UPI,1
+62,2025-05-08,Beauty,Face Wash,North,Returning,1,4910,2,4811.8,Net Banking,5
+63,2025-10-29,Sports,Running Shoes,West,Returning,5,5571,27,20334.15,Net Banking,5
+64,2025-03-22,Electronics,Laptop,South,New,1,35235,2,34530.3,Net Banking,1
+65,2025-04-29,Home,Coffee Maker,East,Returning,4,23589,1,93412.44,Cash on Delivery,1
+66,2025-03-18,Home,Table Lamp,East,New,5,14930,20,59720.0,UPI,1
+67,2025-12-25,Home,Table Lamp,West,Returning,5,15390,9,70024.5,Net Banking,5
+68,2025-01-14,Beauty,Face Wash,North,New,1,2940,8,2704.8,Net Banking,5
+69,2025-05-23,Electronics,Smartwatch,South,Returning,5,13273,14,57073.9,Cash on Delivery,1
+70,2025-07-30,Beauty,Perfume,West,Returning,4,1156,10,4161.6,Cash on Delivery,5
+71,2025-09-21,Electronics,Bluetooth Speaker,North,Returning,1,49224,27,35933.52,Cash on Delivery,1
+72,2025-10-09,Home,Office Chair,South,Returning,3,21493,8,59320.68,Cash on Delivery,4
+73,2025-10-10,Electronics,Wireless Headphones,West,New,5,39365,0,196825.0,Credit Card,1
+74,2025-09-05,Beauty,Face Cream,West,New,2,4468,13,7774.32,Cash on Delivery,5
+75,2025-08-01,Home,Vacuum Cleaner,East,Returning,2,5473,24,8318.96,UPI,3
+76,2025-06-20,Fashion,Backpack,West,Returning,5,4158,11,18503.1,Debit Card,2
+77,2025-07-15,Home,Office Chair,West,New,4,14460,22,45115.2,Cash on Delivery,1
+78,2025-08-22,Home,Office Chair,North,New,5,4288,16,18009.6,Cash on Delivery,2
+79,2025-06-18,Electronics,Bluetooth Speaker,West,Returning,3,52375,2,153982.5,Cash on Delivery,5
+80,2025-02-16,Electronics,Laptop,West,New,1,38771,23,29853.67,UPI,4
+81,2025-07-11,Home,Table Lamp,West,New,1,11629,11,10349.81,Credit Card,5
+82,2025-05-04,Beauty,Lipstick,West,New,2,3433,21,5424.14,Credit Card,4
+83,2025-03-22,Fashion,Jacket,North,Returning,3,7882,17,19626.18,Debit Card,5
+84,2025-05-02,Fashion,Jacket,West,Returning,3,2131,3,6201.21,Net Banking,3
+85,2025-09-12,Fashion,T-Shirt,East,New,4,5136,23,15818.88,Net Banking,3
+86,2025-11-18,Home,Air Fryer,North,Returning,5,23208,3,112558.8,Cash on Delivery,1
+87,2025-03-09,Sports,Cricket Bat,East,Returning,2,3577,6,6724.76,Credit Card,3
+88,2025-12-13,Beauty,Perfume,West,Returning,3,1453,27,3182.07,UPI,4
+89,2025-11-23,Electronics,Smartwatch,East,New,5,24199,12,106475.6,Credit Card,4
+90,2025-08-26,Electronics,Laptop,East,Returning,5,50992,26,188670.4,UPI,2
+91,2025-07-18,Electronics,Wireless Headphones,West,Returning,3,72569,4,208998.72,Net Banking,4
+92,2025-12-20,Sports,Running Shoes,East,New,4,5283,1,20920.68,Cash on Delivery,4
+93,2025-05-22,Home,Table Lamp,South,New,1,200000,12,16580.08,Cash on Delivery,1
+94,2025-02-05,Home,Office Chair,South,New,1,11928,6,11212.32,Credit Card,3
+95,2025-03-31,Home,Office Chair,North,New,1,5741,25,4305.75,Credit Card,1
+96,2025-08-04,Fashion,Jeans,North,New,5,1927,4,9249.6,Cash on Delivery,4
+97,2025-12-04,Fashion,Backpack,East,Returning,5,4627,1,22903.65,UPI,1
+98,2025-02-11,Beauty,Face Wash,East,New,4,3933,28,11327.04,UPI,2
+99,2025-05-31,Fashion,Backpack,West,Returning,5,3163,16,13284.6,UPI,1
+100,2025-08-01,Sports,Running Shoes,North,Returning,4,8130,12,28617.6,Cash on Delivery,3
+101,2025-02-19,Fashion,Sneakers,East,New,2,1247,13,2169.78,Net Banking,1
+102,2025-12-07,Sports,Football,West,New,5,6493,27,23699.45,Debit Card,5
+103,2025-02-25,Fashion,Sneakers,East,Returning,1,1767,27,1289.91,UPI,3
+104,2025-05-20,Sports,Running Shoes,East,Returning,4,1174,5,4461.2,Debit Card,1
+105,2025-09-29,Home,Air Fryer,South,Returning,5,3280,23,12628.0,Cash on Delivery,4
+106,2025-01-27,Fashion,Jeans,South,New,3,3157,2,9281.58,Net Banking,1
+107,2025-04-21,Electronics,Smartwatch,North,Returning,4,63576,8,233959.68,Cash on Delivery,1
+108,2025-11-03,Fashion,Backpack,North,New,4,3026,12,10651.52,Credit Card,3
+109,2025-08-09,Home,Air Fryer,South,New,3,11751,23,27144.81,Cash on Delivery,5
+110,2025-08-24,Home,Office Chair,North,Returning,5,3361,0,16805.0,Net Banking,4
+111,2025-11-13,Sports,Dumbbells,West,Returning,4,6021,5,22879.8,UPI,4
+112,2025-06-23,Electronics,Smartphone,South,Returning,4,60487,23,186299.96,Credit Card,1
+113,2025-11-27,Sports,Yoga Mat,South,New,5,6452,23,24840.2,UPI,2
+114,2025-08-26,Fashion,Jeans,West,Returning,2,1117,15,1898.9,Debit Card,2
+115,2025-06-30,Beauty,Face Cream,North,Returning,4,2550,1,10098.0,Cash on Delivery,4
+116,2025-09-17,Electronics,Wireless Headphones,West,Returning,3,45627,19,110873.61,Net Banking,5
+117,2025-02-01,Electronics,Bluetooth Speaker,West,New,5,32672,4,156825.6,Debit Card,1
+118,2025-11-09,Sports,Running Shoes,South,Returning,1,9286,16,7800.24,Debit Card,3
+119,2025-02-18,Beauty,Face Wash,West,Returning,3,3041,10,8210.7,Debit Card,5
+120,2025-12-29,Home,Table Lamp,North,Returning,1,12462,19,10094.22,Net Banking,4
+121,2025-01-10,Fashion,Jeans,East,Returning,5,5992,11,26664.4,Credit Card,2
+122,2025-02-21,Fashion,Jacket,North,Returning,2,1769,27,2582.74,Net Banking,2
+123,2025-07-30,Sports,Dumbbells,East,New,2,7870,1,15582.6,Cash on Delivery,5
+124,2025-12-14,Fashion,Jacket,West,Returning,2,3035,11,5402.3,Debit Card,4
+125,2025-11-25,Sports,Football,West,Returning,4,4796,1,18992.16,Net Banking,1
+126,2025-08-12,Sports,Yoga Mat,North,New,3,9110,4,26236.8,Cash on Delivery,3
+127,2025-07-11,Electronics,Bluetooth Speaker,South,New,1,59964,2,58764.72,Debit Card,1
+128,2025-12-28,Fashion,Jeans,West,Returning,2,7297,24,11091.44,Net Banking,1
+129,2025-05-28,Electronics,Wireless Headphones,South,Returning,3,36266,3,105534.06,UPI,1
+130,2025-01-09,Home,Vacuum Cleaner,South,New,5,3058,17,12690.7,Debit Card,4
+131,2025-02-13,Electronics,Laptop,East,New,3,39531,21,93688.47,Net Banking,5
+132,2025-07-18,Sports,Football,East,Returning,5,1413,20,5652.0,UPI,3
+133,2025-06-30,Electronics,Smartwatch,East,New,2,21587,1,42742.26,Cash on Delivery,4
+134,2025-04-13,Home,Air Fryer,North,Returning,1,2211,25,1658.25,Debit Card,5
+135,2025-01-25,Beauty,Lipstick,East,Returning,4,1865,11,6639.4,UPI,3
+136,2025-09-23,Beauty,Face Wash,East,New,4,4364,11,15535.84,Cash on Delivery,1
+137,2025-12-05,Beauty,Lipstick,East,Returning,2,1140,10,2052.0,Cash on Delivery,5
+138,2025-05-21,Beauty,Shampoo,North,New,4,3188,13,11094.24,Cash on Delivery,3
+139,2025-02-04,Sports,Running Shoes,South,Returning,1,1270,4,1219.2,Debit Card,4
+140,2025-02-09,Sports,Yoga Mat,South,Returning,5,6795,14,29218.5,Cash on Delivery,3
+141,2025-10-15,Fashion,Jeans,North,Returning,1,4588,29,3257.48,Debit Card,4
+142,2025-03-30,Home,Office Chair,West,New,3,7559,14,19502.22,Debit Card,3
+143,2025-07-05,Electronics,Laptop,South,New,5,46058,5,218775.5,Credit Card,2
+144,2025-10-10,Home,Vacuum Cleaner,South,New,1,19154,25,14365.5,UPI,3
+145,2025-11-25,Beauty,Face Wash,North,Returning,5,904,10,4068.0,Cash on Delivery,5
+146,2025-03-05,Fashion,Jeans,South,Returning,5,4044,26,14962.8,Credit Card,2
+147,2025-11-22,Fashion,Jeans,East,New,3,7429,6,20949.78,Debit Card,5
+148,2025-11-16,Sports,Yoga Mat,East,New,5,3504,21,13840.8,UPI,1
+149,2025-11-18,Electronics,Laptop,East,Returning,3,35631,28,76962.96,Cash on Delivery,2
+150,2025-09-05,Beauty,Perfume,West,New,4,1594,13,5547.12,Debit Card,5
+151,2025-02-24,Home,Table Lamp,East,New,3,14065,17,35021.85,Cash on Delivery,1
+152,2025-11-12,Fashion,Jacket,West,New,2,914,27,1334.44,Credit Card,3
+153,2025-06-07,Sports,Cricket Bat,West,New,2,8871,28,12774.24,UPI,4
+154,2025-09-11,Sports,Dumbbells,West,Returning,2,1528,9,2780.96,Net Banking,1
+155,2025-07-25,Electronics,Bluetooth Speaker,North,New,2,42664,1,84474.72,Debit Card,5
+156,2025-11-16,Fashion,T-Shirt,North,New,4,6761,26,20012.56,UPI,4
+157,2025-01-21,Fashion,Sneakers,North,New,5,2130,16,8946.0,Credit Card,3
+158,2025-11-10,Beauty,Lipstick,East,New,4,4523,10,16282.8,Cash on Delivery,5
+159,2025-09-01,Fashion,Backpack,North,Returning,3,4860,9,13267.8,Debit Card,1
+160,2025-10-24,Beauty,Lipstick,South,New,3,2475,25,5568.75,Net Banking,4
+161,2025-12-25,Home,Office Chair,North,New,5,5842,18,23952.2,UPI,4
+162,2025-11-10,Fashion,Jacket,West,New,2,2170,24,3298.4,Credit Card,5
+163,2025-09-30,Home,Office Chair,East,Returning,3,18218,14,47002.44,Debit Card,5
+164,2025-05-28,Beauty,Shampoo,South,Returning,2,2142,24,3255.84,Debit Card,4
+165,2025-07-22,Fashion,Backpack,East,New,3,5197,28,11225.52,Debit Card,1
+166,2025-10-03,Fashion,T-Shirt,East,Returning,3,2600,6,7332.0,Credit Card,1
+167,2025-04-30,Sports,Football,North,New,2,4397,20,7035.2,Cash on Delivery,3
+168,2025-09-01,Beauty,Face Cream,West,New,2,3633,29,5158.86,Debit Card,3
+169,2025-04-01,Fashion,T-Shirt,North,Returning,1,6551,13,5699.37,Cash on Delivery,2
+170,2025-08-21,Fashion,T-Shirt,West,New,1,5437,9,4947.67,Net Banking,4
+171,2025-04-06,Fashion,Jeans,North,Returning,1,6489,8,5969.88,Debit Card,5
+172,2025-12-09,Home,Air Fryer,North,New,5,15014,12,66061.6,Credit Card,4
+173,2025-06-18,Fashion,Jeans,East,New,1,2429,30,1700.3,Debit Card,3
+174,2025-12-27,Home,Coffee Maker,East,New,1,11053,16,9284.52,Debit Card,3
+175,2025-08-01,Sports,Running Shoes,West,New,2,10624,11,18910.72,Credit Card,5
+176,2025-02-01,Electronics,Laptop,South,New,4,77228,3,299644.64,Credit Card,3
+177,2025-09-19,Sports,Dumbbells,West,New,1,2189,28,1576.08,Cash on Delivery,2
+178,2025-05-11,Sports,Dumbbells,North,New,4,1056,12,3717.12,Net Banking,1
+179,2025-05-27,Electronics,Bluetooth Speaker,West,New,3,16357,1,48580.29,Credit Card,4
+180,2025-06-28,Fashion,Jacket,North,New,4,1157,20,3702.4,Net Banking,4
+181,2025-10-06,Sports,Running Shoes,West,Returning,2,11734,23,18070.36,Credit Card,2
+182,2025-12-05,Beauty,Perfume,West,New,2,1224,25,1836.0,Credit Card,2
+183,2025-01-23,Electronics,Wireless Headphones,West,Returning,5,12400,23,47740.0,Credit Card,5
+184,2025-12-11,Home,Coffee Maker,East,New,2,10478,19,16974.36,Debit Card,2
+185,2025-03-31,Sports,Running Shoes,West,Returning,4,10393,28,29931.84,UPI,3
+186,2025-10-03,Beauty,Lipstick,West,New,3,2756,5,7854.6,Credit Card,3
+187,2025-05-05,Home,Vacuum Cleaner,East,New,1,14648,12,12890.24,Debit Card,1
+188,2025-07-13,Beauty,Perfume,North,New,1,1860,8,1711.2,Credit Card,5
+189,2025-04-08,Sports,Running Shoes,North,Returning,4,4170,29,11842.8,Credit Card,5
+190,2025-07-03,Home,Vacuum Cleaner,East,Returning,2,10275,20,16440.0,Debit Card,5
+191,2025-07-31,Beauty,Face Wash,North,New,1,1964,10,1767.6,Credit Card,1
+192,2025-07-14,Fashion,Backpack,South,Returning,5,1748,7,8128.2,Net Banking,3
+193,2025-10-07,Fashion,Jacket,West,New,4,6502,4,24967.68,Net Banking,1
+194,2025-02-04,Sports,Yoga Mat,South,New,1,11033,7,10260.69,Credit Card,5
+195,2025-10-10,Beauty,Perfume,West,New,1,428,17,355.24,UPI,5
+196,2025-02-19,Fashion,Backpack,South,New,3,7161,3,20838.51,Credit Card,5
+197,2025-10-17,Sports,Cricket Bat,South,New,3,7352,14,18968.16,Debit Card,1
+198,2025-01-05,Electronics,Wireless Headphones,South,New,4,57710,20,184672.0,Cash on Delivery,4
+199,2025-05-19,Fashion,Backpack,North,New,1,2382,15,2024.7,Debit Card,5
+200,2025-02-09,Sports,Yoga Mat,East,New,2,7225,29,10259.5,Net Banking,2
+201,2025-02-10,Sports,Dumbbells,East,New,5,11993,23,46173.05,UPI,4
+202,2025-04-27,Home,Coffee Maker,East,Returning,3,11694,15,29819.7,Cash on Delivery,2
+203,2025-03-20,Sports,Dumbbells,West,New,1,2044,8,1880.48,Cash on Delivery,3
+204,2025-03-09,Fashion,T-Shirt,North,New,1,4143,3,4018.71,Cash on Delivery,4
+205,2025-02-17,Sports,Football,East,Returning,5,6498,17,26966.7,UPI,3
+206,2025-03-28,Beauty,Face Wash,South,Returning,1,1689,12,1486.32,Debit Card,3
+207,2025-02-09,Beauty,Shampoo,East,Returning,1,3749,15,3186.65,Credit Card,4
+208,2025-07-22,Sports,Football,East,Returning,2,810,30,1134.0,Debit Card,4
+209,2025-04-01,Fashion,Jacket,West,Returning,5,3126,10,14067.0,Debit Card,4
+210,2025-10-16,Sports,Running Shoes,South,New,3,6680,3,19438.8,Net Banking,1
+211,2025-03-13,Beauty,Shampoo,East,New,4,3651,15,12413.4,Debit Card,2
+212,2025-12-21,Beauty,Face Wash,West,New,1,3583,16,3009.72,Debit Card,5
+213,2025-11-10,Sports,Yoga Mat,North,Returning,1,3425,20,2740.0,Debit Card,4
+214,2025-12-19,Electronics,Wireless Headphones,South,Returning,1,41913,18,34368.66,Debit Card,4
+215,2025-08-01,Beauty,Lipstick,North,New,5,4254,9,19355.7,Credit Card,3
+216,2025-08-13,Fashion,Sneakers,West,Returning,4,4456,3,17289.28,UPI,3
+217,2025-03-31,Electronics,Wireless Headphones,South,Returning,1,52967,16,44492.28,Net Banking,4
+218,2025-11-11,Beauty,Shampoo,South,Returning,4,3840,0,15360.0,Net Banking,4
+219,2025-10-02,Beauty,Face Cream,South,Returning,2,812,3,1575.28,Debit Card,2
+220,2025-11-09,Beauty,Face Cream,West,New,3,2867,12,7568.88,Debit Card,3
+221,2025-06-10,Beauty,Lipstick,North,New,2,994,4,1908.48,Debit Card,1
+222,2025-08-05,Home,Table Lamp,South,Returning,2,13729,12,24163.04,Net Banking,2
+223,2025-01-28,Sports,Running Shoes,East,New,4,8089,19,26208.36,Cash on Delivery,2
+224,2025-08-01,Home,Vacuum Cleaner,West,Returning,5,22399,15,95195.75,Credit Card,1
+225,2025-03-28,Sports,Yoga Mat,West,Returning,2,9508,9,17304.56,Net Banking,5
+226,2025-01-22,Electronics,Laptop,West,New,1,43112,26,31902.88,Cash on Delivery,1
+227,2025-03-02,Home,Table Lamp,South,New,1,9611,27,7016.03,Net Banking,3
+228,2025-06-29,Sports,Dumbbells,East,New,2,1672,18,2742.08,Debit Card,3
+229,2025-07-30,Fashion,Backpack,North,Returning,3,7177,30,15071.7,Credit Card,2
+230,2025-11-20,Home,Air Fryer,East,Returning,3,23158,18,56968.68,Cash on Delivery,4
+231,2025-09-07,Electronics,Wireless Headphones,East,New,4,75582,30,211629.6,UPI,4
+232,2025-06-15,Fashion,T-Shirt,East,Returning,5,4019,8,18487.4,Net Banking,5
+233,2025-11-17,Home,Office Chair,West,New,4,23365,3,90656.2,UPI,2
+234,2025-03-23,Beauty,Face Wash,East,New,1,1380,9,1255.8,Debit Card,3
+235,2025-12-02,Electronics,Smartwatch,North,New,2,14787,13,25729.38,UPI,2
+236,2025-12-23,Beauty,Face Cream,East,New,2,3945,0,7890.0,Cash on Delivery,2
+237,2025-07-08,Beauty,Face Cream,East,New,2,1139,10,2050.2,Cash on Delivery,2
+238,2025-04-20,Home,Coffee Maker,South,Returning,5,20998,11,93441.1,Net Banking,4
+239,2025-08-08,Home,Coffee Maker,East,New,1,5035,30,3524.5,Credit Card,3
+240,2025-11-07,Electronics,Smartphone,South,Returning,5,45345,16,190449.0,Debit Card,1
+241,2025-01-07,Home,Vacuum Cleaner,East,Returning,4,8899,28,25629.12,Credit Card,4
+242,2025-10-28,Sports,Dumbbells,North,New,3,1895,0,5685.0,Debit Card,2
+243,2025-12-26,Electronics,Wireless Headphones,West,New,4,74402,13,258918.96,Net Banking,5
+244,2025-03-21,Sports,Running Shoes,East,Returning,3,4029,25,9065.25,Net Banking,1
+245,2025-11-10,Fashion,Jacket,North,Returning,2,1206,14,2074.32,Credit Card,1
+246,2025-05-13,Electronics,Smartphone,South,Returning,1,29473,25,22104.75,Credit Card,3
+247,2025-10-23,Electronics,Wireless Headphones,North,Returning,3,64272,22,150396.48,Cash on Delivery,5
+248,2025-10-21,Fashion,T-Shirt,North,New,4,1788,28,5149.44,Net Banking,1
+249,2025-01-19,Electronics,Wireless Headphones,West,New,2,14026,5,26649.4,Debit Card,2
+250,2025-01-27,Beauty,Perfume,South,New,3,1278,21,3028.86,Net Banking,1
+251,2025-01-05,Beauty,Face Cream,East,New,4,1007,14,3464.08,Debit Card,5
+252,2025-10-07,Fashion,Backpack,South,New,2,5347,23,8234.38,UPI,4
+253,2025-12-03,Electronics,Smartphone,West,Returning,5,53406,0,267030.0,UPI,2
+254,2025-04-29,Sports,Running Shoes,West,Returning,4,2224,1,8807.04,Cash on Delivery,1
+255,2025-10-18,Sports,Yoga Mat,North,Returning,5,1926,18,7896.6,Credit Card,2
+256,2025-05-20,Fashion,Sneakers,South,New,3,7314,14,18870.12,Credit Card,2
+257,2025-03-03,Sports,Yoga Mat,East,New,2,5845,13,10170.3,Cash on Delivery,3
+258,2025-04-21,Beauty,Perfume,East,New,1,2792,1,2764.08,UPI,2
+259,2025-07-27,Fashion,Jacket,West,New,5,2948,0,14740.0,UPI,4
+260,2025-07-25,Electronics,Smartphone,East,New,1,9567,6,8992.98,Net Banking,5
+261,2025-06-19,Fashion,T-Shirt,North,New,1,7893,2,7735.14,Cash on Delivery,1
+262,2025-03-30,Home,Office Chair,East,New,4,17257,13,60054.36,Credit Card,3
+263,2025-09-13,Fashion,Jacket,West,Returning,2,5572,9,10141.04,UPI,1
+264,2025-10-06,Fashion,Jacket,North,Returning,2,5764,20,9222.4,Debit Card,4
+265,2025-06-13,Sports,Dumbbells,South,New,3,3646,0,10938.0,Debit Card,1
+266,2025-05-17,Beauty,Lipstick,North,New,3,2330,7,6500.7,Net Banking,4
+267,2025-12-27,Fashion,Jeans,East,New,2,3105,0,6210.0,Net Banking,2
+268,2025-11-05,Beauty,Lipstick,South,New,3,1039,7,2898.81,Net Banking,4
+269,2025-01-12,Electronics,Smartwatch,South,New,5,34406,1,170309.7,UPI,5
+270,2025-03-11,Fashion,T-Shirt,South,Returning,3,1327,10,3582.9,Cash on Delivery,3
+271,2025-12-19,Home,Office Chair,East,New,5,8315,9,37833.25,Credit Card,1
+272,2025-11-24,Sports,Dumbbells,North,Returning,5,10716,7,49829.4,Credit Card,3
+273,2025-06-21,Electronics,Smartphone,West,New,3,49879,20,119709.6,Debit Card,2
+274,2025-08-13,Home,Coffee Maker,West,New,3,4540,12,11985.6,Cash on Delivery,4
+275,2025-12-18,Beauty,Perfume,South,New,5,4227,20,16908.0,Cash on Delivery,1
+276,2025-07-12,Electronics,Smartwatch,South,New,1,175000,5,47285.3,Net Banking,1
+277,2025-11-07,Fashion,Backpack,West,New,5,753,5,3576.75,UPI,1
+278,2025-05-25,Fashion,Jeans,East,New,2,5039,21,7961.62,UPI,1
+279,2025-02-14,Beauty,Lipstick,East,Returning,5,3255,13,14159.25,Credit Card,1
+280,2025-07-23,Electronics,Smartphone,West,Returning,2,46248,25,69372.0,Debit Card,1
+281,2025-05-15,Sports,Dumbbells,West,Returning,2,8003,1,15845.94,Debit Card,2
+282,2025-06-26,Fashion,Backpack,West,New,1,5967,21,4713.93,Net Banking,1
+283,2025-05-01,Beauty,Lipstick,West,Returning,4,4189,28,12064.32,UPI,4
+284,2025-08-18,Electronics,Laptop,South,New,5,75740,30,265090.0,Credit Card,2
+285,2025-11-01,Home,Coffee Maker,East,Returning,4,23384,4,89794.56,UPI,1
+286,2025-12-25,Beauty,Lipstick,West,New,4,4053,25,12159.0,Cash on Delivery,2
+287,2025-10-02,Home,Office Chair,East,Returning,5,4461,27,16282.65,Debit Card,4
+288,2025-11-13,Beauty,Lipstick,West,New,5,2556,4,12268.8,Cash on Delivery,3
+289,2025-05-24,Home,Coffee Maker,West,New,4,13204,9,48062.56,Credit Card,2
+290,2025-04-19,Fashion,Jacket,West,Returning,3,3914,14,10098.12,Net Banking,3
+291,2025-09-26,Electronics,Laptop,North,New,2,16600,4,31872.0,Credit Card,2
+292,2025-08-26,Electronics,Smartphone,West,New,1,67827,11,60366.03,UPI,2
+293,2025-06-29,Fashion,Jacket,East,New,5,7630,17,31664.5,Debit Card,1
+294,2025-04-24,Fashion,T-Shirt,South,New,4,7494,27,21882.48,Debit Card,4
+295,2025-01-05,Sports,Yoga Mat,South,Returning,1,10549,25,7911.75,Net Banking,3
+296,2025-12-13,Fashion,Jacket,West,New,4,2564,9,9332.96,UPI,5
+297,2025-06-22,Fashion,Backpack,East,Returning,5,6106,2,29919.4,Debit Card,3
+298,2025-12-05,Fashion,Jeans,East,New,2,7870,12,13851.2,UPI,4
+299,2025-10-20,Fashion,Sneakers,South,Returning,4,6535,22,20389.2,Credit Card,5
+300,2025-02-19,Beauty,Perfume,West,New,5,4873,9,22172.15,Debit Card,5
+301,2025-06-19,Home,Table Lamp,East,Returning,1,12641,25,9480.75,Net Banking,3
+302,2025-04-10,Beauty,Face Cream,North,Returning,4,883,28,2543.04,Net Banking,3
+303,2025-08-23,Beauty,Face Cream,South,Returning,2,3652,28,5258.88,Credit Card,1
+304,2025-04-18,Beauty,Perfume,South,New,2,338,8,621.92,Cash on Delivery,1
+305,2025-01-20,Home,Office Chair,South,Returning,4,14218,0,56872.0,UPI,3
+306,2025-06-26,Sports,Running Shoes,East,New,1,4407,22,3437.46,UPI,4
+307,2025-05-29,Sports,Football,West,Returning,3,5585,30,11728.5,Cash on Delivery,2
+308,2025-04-25,Fashion,Jacket,South,New,3,7929,7,22121.91,UPI,5
+309,2025-11-24,Sports,Running Shoes,East,New,1,6847,28,4929.84,Net Banking,1
+310,2025-05-10,Electronics,Wireless Headphones,West,New,1,23176,17,19236.08,Credit Card,1
+311,2025-02-23,Fashion,Jacket,North,Returning,1,5601,26,4144.74,UPI,1
+312,2025-12-27,Beauty,Shampoo,West,Returning,5,4585,11,20403.25,Credit Card,1
+313,2025-02-15,Sports,Dumbbells,North,Returning,2,908,21,1434.64,Credit Card,1
+314,2025-08-26,Sports,Yoga Mat,North,New,1,5550,8,5106.0,Credit Card,1
+315,2025-03-12,Fashion,Sneakers,South,Returning,3,1278,27,2798.82,Debit Card,4
+316,2025-08-22,Sports,Cricket Bat,East,Returning,1,7266,12,6394.08,Cash on Delivery,4
+317,2025-10-19,Home,Coffee Maker,West,New,2,6223,15,10579.1,Net Banking,4
+318,2025-01-24,Fashion,Backpack,North,Returning,1,4498,14,3868.28,Debit Card,1
+319,2025-12-19,Sports,Football,North,Returning,5,9204,16,38656.8,Credit Card,4
+320,2025-08-29,Fashion,Jacket,West,New,2,5770,27,8424.2,UPI,4
+321,2025-07-13,Fashion,Jeans,West,New,3,4652,20,11164.8,UPI,4
+322,2025-12-01,Beauty,Lipstick,North,New,4,2889,15,9822.6,Cash on Delivery,4
+323,2025-04-16,Electronics,Laptop,West,Returning,5,8022,17,33291.3,Debit Card,1
+324,2025-02-19,Home,Vacuum Cleaner,South,New,3,24483,3,71245.53,Debit Card,3
+325,2025-03-13,Fashion,Backpack,West,New,5,1370,15,5822.5,Debit Card,5
+326,2025-08-01,Home,Air Fryer,North,New,1,8064,3,7822.08,Cash on Delivery,4
+327,2025-08-10,Sports,Football,West,New,2,9764,29,13864.88,Net Banking,2
+328,2025-12-21,Home,Coffee Maker,South,Returning,4,17518,19,56758.32,Cash on Delivery,3
+329,2025-12-26,Fashion,Jacket,East,New,2,5435,26,8043.8,Credit Card,2
+330,2025-12-22,Sports,Cricket Bat,East,New,3,8955,17,22297.95,Debit Card,5
+331,2025-08-05,Beauty,Lipstick,North,New,5,4673,28,16822.8,UPI,4
+332,2025-05-09,Home,Coffee Maker,South,New,1,9748,21,7700.92,Debit Card,2
+333,2025-11-28,Sports,Yoga Mat,West,New,3,4375,23,10106.25,Net Banking,3
+334,2025-05-09,Electronics,Bluetooth Speaker,South,Returning,4,62600,0,250400.0,Credit Card,3
+335,2025-12-16,Sports,Football,North,New,5,8053,5,38251.75,Credit Card,5
+336,2025-10-27,Electronics,Bluetooth Speaker,East,New,1,64165,5,60956.75,Debit Card,4
+337,2025-10-21,Home,Coffee Maker,East,New,2,20558,25,30837.0,Debit Card,5
+338,2025-07-26,Home,Air Fryer,North,Returning,5,17552,17,72840.8,Credit Card,2
+339,2025-11-29,Fashion,Sneakers,North,New,3,6665,17,16595.85,Debit Card,4
+340,2025-02-28,Home,Office Chair,West,Returning,5,2306,29,8186.3,Net Banking,3
+341,2025-11-30,Electronics,Laptop,South,Returning,3,75411,9,205872.03,Net Banking,1
+342,2025-11-19,Electronics,Smartphone,South,Returning,5,77888,21,307657.6,UPI,2
+343,2025-02-07,Sports,Dumbbells,North,New,1,1320,2,1293.6,Debit Card,5
+344,2025-08-10,Electronics,Laptop,East,New,2,41901,12,73745.76,Cash on Delivery,1
+345,2025-09-15,Sports,Yoga Mat,North,Returning,5,6560,29,23288.0,Debit Card,5
+346,2025-10-01,Electronics,Smartwatch,South,New,4,57992,5,220369.6,Cash on Delivery,5
+347,2025-01-22,Fashion,Jeans,North,Returning,3,5034,3,14648.94,Net Banking,5
+348,2025-04-05,Electronics,Smartwatch,South,Returning,2,53069,5,100831.1,Credit Card,1
+349,2025-12-10,Home,Office Chair,North,Returning,1,16114,9,14663.74,UPI,2
+350,2025-11-14,Sports,Dumbbells,North,New,3,2339,9,6385.47,Debit Card,4
+351,2025-07-06,Beauty,Perfume,East,Returning,5,1548,18,6346.8,Credit Card,1
+352,2025-06-19,Fashion,Jeans,West,Returning,2,7382,21,11663.56,Cash on Delivery,3
+353,2025-03-13,Fashion,Jacket,South,Returning,5,5788,27,21126.2,UPI,1
+354,2025-10-06,Electronics,Laptop,West,New,1,61101,8,56212.92,Debit Card,4
+355,2025-07-06,Home,Office Chair,North,New,3,16227,12,42839.28,Net Banking,2
+356,2025-03-16,Sports,Running Shoes,West,Returning,4,11503,27,33588.76,UPI,2
+357,2025-09-23,Beauty,Shampoo,East,Returning,1,650,6,611.0,Cash on Delivery,4
+358,2025-10-06,Electronics,Wireless Headphones,South,Returning,3,21529,18,52961.34,Cash on Delivery,3
+359,2025-06-30,Sports,Yoga Mat,East,Returning,5,9160,12,40304.0,Cash on Delivery,5
+360,2025-05-24,Electronics,Laptop,South,New,2,65658,20,105052.8,Credit Card,2
+361,2025-12-12,Fashion,Backpack,West,Returning,1,7145,15,6073.25,Credit Card,5
+362,2025-03-10,Home,Vacuum Cleaner,North,New,1,2413,5,2292.35,UPI,2
+363,2025-05-26,Fashion,Jeans,North,New,5,5117,26,18932.9,Cash on Delivery,5
+364,2025-04-04,Beauty,Face Wash,East,New,2,1469,26,2174.12,Debit Card,4
+365,2025-04-14,Sports,Football,West,New,1,2478,0,2478.0,Net Banking,1
+366,2025-12-04,Home,Vacuum Cleaner,South,New,5,18413,15,78255.25,Cash on Delivery,5
+367,2025-10-29,Beauty,Perfume,North,Returning,1,4249,11,3781.61,Credit Card,3
+368,2025-04-07,Beauty,Shampoo,North,New,1,4754,8,4373.68,Net Banking,5
+369,2025-02-24,Electronics,Laptop,South,Returning,1,57155,11,50867.95,Net Banking,3
+370,2025-10-10,Fashion,Backpack,West,New,4,2757,13,9594.36,Debit Card,5
+371,2025-12-04,Sports,Dumbbells,North,New,3,2962,27,6486.78,Cash on Delivery,2
+372,2025-12-17,Electronics,Smartphone,North,New,5,60502,22,235957.8,Cash on Delivery,1
+373,2025-02-10,Electronics,Smartphone,North,Returning,4,65065,11,231631.4,Cash on Delivery,5
+374,2025-04-14,Sports,Cricket Bat,East,New,5,7892,0,39460.0,UPI,5
+375,2025-01-01,Sports,Football,South,New,2,4619,20,7390.4,Debit Card,4
+376,2025-05-26,Fashion,Jacket,East,Returning,4,625,17,2075.0,Debit Card,2
+377,2025-09-17,Sports,Running Shoes,North,New,4,3567,13,12413.16,Net Banking,3
+378,2025-07-13,Fashion,T-Shirt,West,New,5,7161,30,25063.5,Debit Card,4
+379,2025-04-23,Beauty,Lipstick,South,Returning,1,853,20,682.4,Cash on Delivery,3
+380,2025-06-25,Sports,Football,North,New,1,7236,21,5716.44,Cash on Delivery,3
+381,2025-04-13,Fashion,Jeans,South,New,5,6612,23,25456.2,Debit Card,2
+382,2025-02-10,Home,Air Fryer,West,New,2,6111,29,8677.62,Net Banking,1
+383,2025-09-19,Beauty,Perfume,East,Returning,5,2550,5,12112.5,Credit Card,5
+384,2025-07-21,Home,Coffee Maker,South,Returning,5,16673,11,74194.85,UPI,5
+385,2025-06-16,Beauty,Perfume,East,Returning,1,3408,3,3305.76,Credit Card,5
+386,2025-08-06,Fashion,Jeans,South,Returning,3,3310,15,8440.5,Debit Card,3
+387,2025-05-19,Beauty,Perfume,South,Returning,4,2172,23,6689.76,Cash on Delivery,2
+388,2025-11-19,Home,Air Fryer,East,Returning,4,6787,28,19546.56,Debit Card,3
+389,2025-05-11,Sports,Football,West,New,1,1683,6,1582.02,Cash on Delivery,3
+390,2025-12-14,Fashion,Sneakers,South,New,3,662,11,1767.54,Debit Card,3
+391,2025-03-16,Fashion,Backpack,South,Returning,4,3621,20,11587.2,Cash on Delivery,5
+392,2025-12-01,Sports,Dumbbells,East,Returning,1,5836,10,5252.4,Net Banking,4
+393,2025-01-12,Fashion,Jacket,South,New,3,3891,27,8521.29,Debit Card,1
+394,2025-01-14,Home,Air Fryer,West,New,4,4131,1,16358.76,UPI,3
+395,2025-11-17,Sports,Running Shoes,South,New,1,5355,14,4605.3,Net Banking,2
+396,2025-08-16,Electronics,Wireless Headphones,South,New,3,50624,17,126053.76,Net Banking,5
+397,2025-06-27,Beauty,Lipstick,West,New,4,4672,29,13268.48,UPI,4
+398,2025-03-11,Fashion,Sneakers,East,Returning,4,2986,16,10032.96,Cash on Delivery,5
+399,2025-04-29,Electronics,Bluetooth Speaker,North,Returning,4,47270,19,153154.8,Credit Card,4
+400,2025-05-15,Sports,Dumbbells,North,Returning,4,6899,7,25664.28,Credit Card,5
+401,2025-03-11,Sports,Cricket Bat,East,New,3,1821,5,5189.85,Cash on Delivery,5
+402,2025-10-01,Beauty,Perfume,North,New,5,458,1,2267.1,UPI,3
+403,2025-04-22,Fashion,Jeans,East,Returning,4,1238,15,4209.2,Debit Card,4
+404,2025-07-20,Fashion,Jacket,North,Returning,1,7410,8,6817.2,Credit Card,2
+405,2025-01-18,Fashion,Jacket,South,Returning,1,2539,7,2361.27,UPI,5
+406,2025-03-04,Home,Vacuum Cleaner,East,Returning,4,11586,16,38928.96,Debit Card,2
+407,2025-03-27,Fashion,T-Shirt,East,New,2,5684,0,11368.0,Cash on Delivery,2
+408,2025-02-15,Electronics,Wireless Headphones,South,New,5,70294,24,267117.2,Cash on Delivery,1
+409,2025-02-24,Sports,Cricket Bat,South,Returning,1,9487,25,7115.25,Credit Card,3
+410,2025-03-10,Sports,Cricket Bat,East,New,4,6568,23,20229.44,Cash on Delivery,4
+411,2025-06-15,Sports,Cricket Bat,West,Returning,5,9606,11,42746.7,Net Banking,5
+412,2025-08-21,Home,Coffee Maker,North,Returning,5,15725,11,69976.25,Credit Card,1
+413,2025-10-03,Sports,Cricket Bat,West,New,5,11485,30,40197.5,Net Banking,4
+414,2025-09-25,Sports,Running Shoes,North,New,5,2509,3,12168.65,Credit Card,2
+415,2025-07-18,Electronics,Smartphone,West,Returning,1,71618,20,57294.4,UPI,3
+416,2025-11-24,Home,Office Chair,North,Returning,1,7839,14,6741.54,Net Banking,4
+417,2025-04-21,Fashion,T-Shirt,North,New,5,833,2,4081.7,Credit Card,5
+418,2025-04-02,Beauty,Shampoo,West,New,2,4969,30,6956.6,Net Banking,3
+419,2025-12-03,Beauty,Face Wash,South,Returning,1,3589,10,3230.1,Debit Card,3
+420,2025-10-16,Sports,Cricket Bat,South,Returning,3,10668,7,29763.72,Net Banking,3
+421,2025-01-09,Fashion,Jacket,South,Returning,4,6449,19,20894.76,UPI,3
+422,2025-10-12,Home,Air Fryer,South,New,3,23600,16,59472.0,UPI,4
+423,2025-06-03,Fashion,Jeans,North,Returning,2,7787,8,14328.08,Net Banking,2
+424,2025-06-03,Electronics,Smartwatch,North,Returning,4,30662,20,98118.4,UPI,1
+425,2025-11-05,Fashion,Sneakers,North,Returning,4,7625,27,22265.0,UPI,3
+426,2025-04-24,Sports,Yoga Mat,South,New,3,8931,22,20898.54,Cash on Delivery,4
+427,2025-03-09,Sports,Football,East,New,5,7160,4,34368.0,Cash on Delivery,5
+428,2025-12-24,Electronics,Laptop,South,New,4,42413,24,128935.52,Cash on Delivery,5
+429,2025-02-06,Home,Vacuum Cleaner,East,Returning,4,19388,7,72123.36,Debit Card,5
+430,2025-11-01,Electronics,Wireless Headphones,North,Returning,4,63514,11,226109.84,Credit Card,3
+431,2025-07-11,Sports,Dumbbells,South,New,5,3971,21,15685.45,UPI,1
+432,2025-08-30,Home,Office Chair,North,Returning,2,1450,14,2494.0,Credit Card,5
+433,2025-03-14,Home,Air Fryer,North,Returning,5,9475,23,36478.75,Net Banking,5
+434,2025-12-02,Electronics,Smartwatch,North,New,2,15878,14,27310.16,Cash on Delivery,3
+435,2025-12-30,Fashion,T-Shirt,North,Returning,1,3666,16,3079.44,Cash on Delivery,5
+436,2025-05-07,Sports,Yoga Mat,East,Returning,2,1052,1,2082.96,Cash on Delivery,4
+437,2025-05-22,Home,Coffee Maker,North,Returning,3,12645,16,31865.4,Cash on Delivery,1
+438,2025-02-14,Sports,Cricket Bat,West,New,2,11463,4,22008.96,Cash on Delivery,2
+439,2025-04-16,Sports,Running Shoes,South,New,4,9583,4,36798.72,Credit Card,3
+440,2025-10-13,Sports,Running Shoes,North,New,4,5901,2,23131.92,Debit Card,2
+441,2025-04-07,Electronics,Smartwatch,North,New,4,61903,24,188185.12,Credit Card,1
+442,2025-07-03,Sports,Football,North,Returning,3,11961,0,35883.0,Credit Card,5
+443,2025-04-09,Sports,Dumbbells,South,New,3,2953,5,8416.05,Cash on Delivery,1
+444,2025-11-12,Fashion,Jacket,West,Returning,2,1041,27,1519.86,Cash on Delivery,2
+445,2025-10-20,Beauty,Face Wash,North,New,1,3528,30,2469.6,Cash on Delivery,4
+446,2025-09-22,Electronics,Smartphone,North,New,5,78499,12,345395.6,Debit Card,4
+447,2025-01-28,Beauty,Perfume,South,Returning,3,2711,29,5774.43,Cash on Delivery,1
+448,2025-01-13,Sports,Yoga Mat,South,Returning,2,5999,14,10318.28,Net Banking,2
+449,2025-02-28,Beauty,Face Cream,West,Returning,3,1643,2,4830.42,UPI,5
+450,2025-03-29,Beauty,Lipstick,East,New,5,3417,24,12984.6,Credit Card,2
+451,2025-04-03,Home,Coffee Maker,North,New,4,11142,20,35654.4,Credit Card,1
+452,2025-01-03,Sports,Cricket Bat,West,New,1,9604,25,7203.0,Credit Card,5
+453,2025-10-08,Beauty,Face Wash,East,New,4,353,28,1016.64,UPI,2
+454,2025-11-05,Home,Coffee Maker,East,Returning,3,5763,18,14176.98,UPI,1
+455,2025-08-22,Electronics,Bluetooth Speaker,East,New,2,29146,5,55377.4,UPI,3
+456,2025-08-30,Fashion,Sneakers,South,New,4,7408,9,26965.12,Debit Card,3
+457,2025-11-19,Sports,Dumbbells,North,Returning,5,2490,18,10209.0,Net Banking,3
+458,2025-10-16,Beauty,Lipstick,West,Returning,3,3198,19,7771.14,Cash on Delivery,2
+459,2025-03-02,Sports,Running Shoes,South,Returning,3,8316,20,19958.4,Cash on Delivery,1
+460,2025-02-04,Fashion,Sneakers,East,Returning,5,5747,8,26436.2,Net Banking,5
+461,2025-01-15,Fashion,T-Shirt,South,New,1,3744,30,2620.8,Debit Card,3
+462,2025-06-21,Beauty,Face Wash,West,Returning,1,4073,28,2932.56,UPI,5
+463,2025-03-18,Fashion,Backpack,East,New,3,2206,2,6485.64,Debit Card,4
+464,2025-06-11,Sports,Running Shoes,North,Returning,5,5750,22,22425.0,Cash on Delivery,1
+465,2025-02-27,Beauty,Shampoo,East,New,3,4601,5,13112.85,Credit Card,1
+466,2025-09-05,Beauty,Lipstick,East,Returning,1,1858,29,1319.18,Credit Card,1
+467,2025-06-09,Sports,Running Shoes,North,New,2,2597,0,5194.0,Debit Card,4
+468,2025-04-18,Electronics,Wireless Headphones,East,New,5,48957,28,176245.2,Credit Card,3
+469,2025-05-21,Fashion,Backpack,North,New,3,1463,5,4169.55,Net Banking,5
+470,2025-12-27,Sports,Yoga Mat,East,New,2,5140,4,9868.8,Credit Card,1
+471,2025-12-12,Fashion,Backpack,North,New,3,915,15,2333.25,Cash on Delivery,1
+472,2025-06-09,Electronics,Bluetooth Speaker,East,New,4,31459,11,111994.04,Net Banking,1
+473,2025-12-17,Beauty,Lipstick,West,Returning,2,1096,9,1994.72,Credit Card,2
+474,2025-09-07,Home,Office Chair,North,New,3,13847,14,35725.26,Cash on Delivery,1
+475,2025-03-07,Fashion,Jacket,North,Returning,4,6790,18,22271.2,UPI,3
+476,2025-05-05,Sports,Yoga Mat,South,Returning,3,4608,19,11197.44,Cash on Delivery,1
+477,2025-05-01,Fashion,Jeans,South,New,5,5146,22,20069.4,Net Banking,4
+478,2025-06-07,Electronics,Laptop,West,New,5,68674,5,326201.5,Net Banking,1
+479,2025-03-13,Sports,Dumbbells,North,New,3,2183,6,6156.06,Credit Card,4
+480,2025-12-14,Sports,Cricket Bat,East,Returning,4,5610,18,18400.8,Debit Card,1
+481,2025-07-09,Sports,Yoga Mat,North,New,5,5519,1,27319.05,Net Banking,3
+482,2025-12-31,Electronics,Smartwatch,West,Returning,1,38833,10,34949.7,Cash on Delivery,4
+483,2025-07-04,Sports,Running Shoes,West,New,2,7001,26,10361.48,Debit Card,2
+484,2025-03-11,Home,Coffee Maker,North,New,1,5718,13,4974.66,Cash on Delivery,4
+485,2025-08-19,Sports,Dumbbells,West,Returning,5,9744,26,36052.8,Credit Card,2
+486,2025-10-07,Beauty,Lipstick,East,New,1,4410,13,3836.7,UPI,5
+487,2025-05-24,Beauty,Perfume,West,New,1,1463,27,1067.99,Net Banking,5
+488,2025-11-10,Electronics,Smartphone,North,Returning,4,18234,9,66371.76,Net Banking,1
+489,2025-05-31,Beauty,Face Wash,East,New,5,3015,11,13416.75,UPI,5
+490,2025-12-03,Fashion,Backpack,East,New,3,4376,1,12996.72,Debit Card,4
+491,2025-05-21,Electronics,Smartphone,East,New,5,18074,8,83140.4,UPI,5
+492,2025-12-25,Home,Office Chair,South,Returning,2,13116,25,19674.0,Credit Card,5
+493,2025-07-31,Electronics,Smartwatch,West,New,1,27014,24,20530.64,Cash on Delivery,2
+494,2025-08-26,Home,Office Chair,West,Returning,3,22045,5,62828.25,Debit Card,4
+495,2025-08-11,Sports,Running Shoes,North,Returning,4,9390,27,27418.8,Cash on Delivery,4
+496,2025-11-30,Fashion,Backpack,East,Returning,1,5721,19,4634.01,Debit Card,3
+497,2025-04-10,Electronics,Smartwatch,East,New,5,59269,18,243002.9,Debit Card,5
+498,2025-08-17,Electronics,Wireless Headphones,East,New,1,9567,21,7557.93,Debit Card,3
+499,2025-03-04,Home,Coffee Maker,North,New,1,2863,20,2290.4,Net Banking,2
+500,2025-12-05,Beauty,Lipstick,North,Returning,2,2375,14,4085.0,Debit Card,4
+501,2025-06-20,Fashion,Sneakers,North,Returning,2,6866,12,12084.16,Debit Card,2
+502,2025-02-25,Beauty,Face Cream,South,Returning,4,1761,15,5987.4,Credit Card,5
+503,2025-05-09,Electronics,Bluetooth Speaker,West,New,3,21538,23,49752.78,Cash on Delivery,2
+504,2025-01-02,Electronics,Wireless Headphones,West,Returning,4,42922,18,140784.16,Cash on Delivery,4
+505,2025-10-02,Electronics,Laptop,East,Returning,2,8433,18,13830.12,Debit Card,4
+506,2025-04-14,Electronics,Wireless Headphones,South,New,3,78074,20,187377.6,Cash on Delivery,2
+507,2025-01-19,Fashion,Jacket,South,New,1,1195,4,1147.2,Net Banking,2
+508,2025-08-19,Beauty,Face Wash,North,New,1,4393,30,3075.1,Debit Card,1
+509,2025-12-14,Fashion,T-Shirt,South,New,4,7111,30,19910.8,UPI,1
+510,2025-01-08,Home,Vacuum Cleaner,South,New,1,21262,4,20411.52,Debit Card,1
+511,2025-11-12,Beauty,Lipstick,South,New,2,4372,25,6558.0,Credit Card,4
+512,2025-04-20,Fashion,Jacket,North,New,3,5218,10,14088.6,Debit Card,1
+513,2025-08-13,Electronics,Smartwatch,South,New,2,62415,5,118588.5,Credit Card,1
+514,2025-02-15,Sports,Dumbbells,East,Returning,2,818,5,1554.2,Cash on Delivery,2
+515,2025-12-21,Home,Air Fryer,North,New,3,15759,19,38294.37,Cash on Delivery,5
+516,2025-09-29,Electronics,Smartwatch,North,Returning,3,62891,3,183012.81,Net Banking,5
+517,2025-08-31,Home,Vacuum Cleaner,West,New,2,2738,21,4326.04,Credit Card,1
+518,2025-08-21,Electronics,Smartwatch,North,New,3,35471,25,79809.75,UPI,5
+519,2025-08-16,Home,Air Fryer,East,Returning,1,17872,23,13761.44,Credit Card,3
+520,2025-04-23,Home,Coffee Maker,North,Returning,3,4213,12,11122.32,Net Banking,4
+521,2025-03-11,Electronics,Bluetooth Speaker,West,New,2,36333,11,64672.74,Debit Card,3
+522,2025-02-26,Home,Table Lamp,West,Returning,2,23682,4,45469.44,Cash on Delivery,2
+523,2025-04-28,Fashion,Jeans,North,Returning,3,5509,17,13717.41,Net Banking,4
+524,2025-06-17,Home,Office Chair,West,New,4,10147,7,37746.84,Net Banking,2
+525,2025-09-29,Sports,Yoga Mat,West,Returning,4,1250,13,4350.0,UPI,4
+526,2025-07-03,Beauty,Shampoo,East,New,1,3631,4,500000.0,UPI,1
+527,2025-03-12,Beauty,Perfume,West,New,2,499,14,858.28,Debit Card,4
+528,2025-05-19,Electronics,Wireless Headphones,South,New,4,51634,24,156967.36,Net Banking,3
+529,2025-01-21,Electronics,Laptop,East,Returning,3,14758,19,35861.94,Credit Card,5
+530,2025-09-02,Electronics,Laptop,South,New,2,26141,20,41825.6,Debit Card,3
+531,2025-09-06,Fashion,Backpack,North,Returning,4,1019,14,3505.36,Net Banking,5
+532,2025-08-23,Fashion,Jacket,North,New,5,6178,28,22240.8,Cash on Delivery,2
+533,2025-04-15,Fashion,T-Shirt,North,Returning,1,1417,4,1360.32,Cash on Delivery,5
+534,2025-02-02,Home,Vacuum Cleaner,North,New,3,15544,6,43834.08,Net Banking,3
+535,2025-08-23,Beauty,Lipstick,East,New,3,4643,14,11978.94,Debit Card,2
+536,2025-05-26,Fashion,Jeans,West,New,4,6805,11,24225.8,Net Banking,2
+537,2025-03-01,Sports,Cricket Bat,North,Returning,2,3341,7,6214.26,Net Banking,2
+538,2025-06-26,Beauty,Perfume,South,Returning,3,584,10,1576.8,Cash on Delivery,5
+539,2025-08-23,Home,Office Chair,East,New,3,1816,30,3813.6,UPI,5
+540,2025-10-17,Sports,Cricket Bat,West,Returning,3,11626,4,33482.88,UPI,4
+541,2025-04-23,Electronics,Smartphone,West,Returning,5,23319,26,86280.3,UPI,3
+542,2025-02-12,Electronics,Laptop,West,New,2,77000,0,154000.0,Net Banking,4
+543,2025-08-07,Home,Vacuum Cleaner,East,Returning,3,2836,4,8167.68,Debit Card,1
+544,2025-08-16,Fashion,Sneakers,West,Returning,3,7662,6,21606.84,Debit Card,2
+545,2025-09-26,Beauty,Face Wash,East,New,2,2784,27,4064.64,Net Banking,4
+546,2025-10-18,Electronics,Wireless Headphones,South,New,4,43825,22,136734.0,Credit Card,4
+547,2025-08-26,Fashion,Backpack,South,New,4,7336,17,24355.52,UPI,2
+548,2025-09-09,Fashion,Sneakers,South,New,4,5955,5,22629.0,UPI,3
+549,2025-05-13,Beauty,Face Cream,West,New,5,4933,27,18005.45,Debit Card,5
+550,2025-12-21,Sports,Yoga Mat,South,Returning,3,5937,14,15317.46,Credit Card,1
+551,2025-02-09,Fashion,Sneakers,South,New,4,2874,20,9196.8,UPI,5
+552,2025-12-24,Home,Office Chair,East,New,3,23445,21,55564.65,Net Banking,5
+553,2025-06-24,Fashion,Jeans,South,New,1,2805,13,2440.35,Credit Card,2
+554,2025-08-24,Sports,Running Shoes,North,New,2,2567,13,4466.58,Credit Card,1
+555,2025-06-25,Beauty,Perfume,South,Returning,3,3920,16,9878.4,UPI,1
+556,2025-08-06,Home,Air Fryer,North,New,2,11073,2,21703.08,UPI,4
+557,2025-08-29,Beauty,Face Cream,North,Returning,2,4506,1,8921.88,UPI,1
+558,2025-06-29,Fashion,T-Shirt,North,New,1,2182,21,1723.78,Credit Card,3
+559,2025-02-04,Sports,Cricket Bat,North,New,3,8972,18,22071.12,Net Banking,2
+560,2025-09-16,Home,Table Lamp,West,Returning,2,1141,29,1620.22,Net Banking,2
+561,2025-07-28,Beauty,Face Cream,North,Returning,2,2055,7,3822.3,UPI,4
+562,2025-01-21,Electronics,Laptop,North,Returning,2,72987,23,112399.98,Cash on Delivery,1
+563,2025-07-28,Beauty,Perfume,East,Returning,4,3936,17,13067.52,Credit Card,1
+564,2025-09-25,Beauty,Perfume,North,New,2,1161,14,1996.92,Credit Card,4
+565,2025-11-01,Beauty,Lipstick,West,New,20,1930,6,1814.2,Credit Card,4
+566,2025-11-05,Beauty,Perfume,West,Returning,5,3217,21,12707.15,Net Banking,3
+567,2025-03-10,Home,Vacuum Cleaner,North,New,1,9214,20,7371.2,UPI,1
+568,2025-11-15,Beauty,Face Cream,North,New,2,2978,9,5419.96,Net Banking,4
+569,2025-10-04,Beauty,Shampoo,North,New,3,2443,10,6596.1,Cash on Delivery,1
+570,2025-10-13,Beauty,Face Wash,East,New,3,594,5,1692.9,Cash on Delivery,4
+571,2025-12-17,Home,Table Lamp,West,Returning,4,4584,17,15218.88,Net Banking,2
+572,2025-06-30,Sports,Yoga Mat,East,Returning,4,10807,21,34150.12,UPI,1
+573,2025-07-14,Sports,Yoga Mat,North,Returning,2,10942,10,19695.6,Debit Card,3
+574,2025-12-19,Beauty,Perfume,North,Returning,1,2856,2,2798.88,UPI,3
+575,2025-08-04,Home,Coffee Maker,East,New,5,2224,16,9340.8,Cash on Delivery,5
+576,2025-12-20,Electronics,Smartwatch,South,Returning,4,59157,3,229529.16,Cash on Delivery,5
+577,2025-02-08,Fashion,Jeans,South,Returning,5,4071,20,16284.0,Debit Card,1
+578,2025-10-31,Fashion,Backpack,East,Returning,4,6585,3,25549.8,UPI,5
+579,2025-06-04,Sports,Dumbbells,East,Returning,4,11374,26,33667.04,Net Banking,3
+580,2025-10-08,Home,Vacuum Cleaner,South,New,4,21478,24,65293.12,Net Banking,2
+581,2025-08-11,Sports,Dumbbells,North,New,2,10766,27,15718.36,Debit Card,4
+582,2025-04-15,Home,Air Fryer,West,Returning,2,15266,20,24425.6,Debit Card,2
+583,2025-05-06,Fashion,Backpack,East,Returning,2,1430,0,2860.0,Cash on Delivery,5
+584,2025-05-23,Beauty,Face Wash,South,New,1,1417,8,1303.64,Cash on Delivery,1
+585,2025-12-03,Electronics,Wireless Headphones,North,Returning,3,47056,21,111522.72,Credit Card,2
+586,2025-02-16,Electronics,Laptop,South,New,5,23812,15,101201.0,Debit Card,3
+587,2025-05-21,Sports,Dumbbells,West,Returning,2,3569,6,6709.72,Debit Card,5
+588,2025-09-01,Electronics,Bluetooth Speaker,South,Returning,5,57113,13,248441.55,Credit Card,3
+589,2025-01-28,Beauty,Perfume,South,Returning,3,585,25,1316.25,Net Banking,4
+590,2025-07-21,Fashion,Sneakers,East,Returning,1,7525,0,7525.0,UPI,2
+591,2025-02-11,Fashion,Jeans,West,Returning,2,3098,8,5700.32,Cash on Delivery,3
+592,2025-10-08,Beauty,Face Cream,East,Returning,2,3182,19,5154.84,UPI,1
+593,2025-02-12,Home,Vacuum Cleaner,North,New,2,14128,18,23169.92,Credit Card,5
+594,2025-12-18,Home,Office Chair,East,Returning,4,15794,5,60017.2,Credit Card,1
+595,2025-01-12,Beauty,Perfume,South,New,2,4972,0,9944.0,Cash on Delivery,2
+596,2025-07-08,Fashion,Jeans,South,New,1,4013,2,3932.74,UPI,5
+597,2025-05-17,Beauty,Face Wash,East,Returning,4,1964,30,5499.2,Cash on Delivery,2
+598,2025-07-29,Beauty,Shampoo,South,New,5,1851,5,8792.25,Debit Card,3
+599,2025-08-29,Home,Office Chair,South,Returning,4,13112,0,52448.0,Cash on Delivery,2
+600,2025-06-20,Beauty,Face Wash,South,Returning,5,4862,1,24066.9,Debit Card,5
+601,2025-12-10,Sports,Yoga Mat,East,New,1,5656,12,4977.28,Net Banking,1
+602,2025-02-15,Sports,Running Shoes,East,Returning,3,8369,4,24102.72,Credit Card,3
+603,2025-08-09,Electronics,Smartwatch,East,Returning,1,24760,29,17579.6,Net Banking,3
+604,2025-12-03,Sports,Cricket Bat,West,New,4,3178,17,10550.96,Credit Card,2
+605,2025-03-01,Electronics,Smartphone,West,New,2,12700,13,22098.0,Cash on Delivery,3
+606,2025-02-17,Sports,Dumbbells,South,Returning,4,2725,11,9701.0,Credit Card,2
+607,2025-08-02,Sports,Cricket Bat,North,New,5,10051,5,47742.25,Cash on Delivery,1
+608,2025-01-15,Fashion,T-Shirt,North,Returning,3,3560,4,10252.8,Cash on Delivery,4
+609,2025-10-19,Fashion,Backpack,South,New,1,5875,30,4112.5,UPI,3
+610,2025-04-02,Fashion,T-Shirt,South,Returning,1,3624,8,3334.08,UPI,1
+611,2025-09-09,Home,Air Fryer,West,Returning,4,10336,9,37623.04,Net Banking,2
+612,2025-05-18,Fashion,T-Shirt,West,New,3,4510,15,11500.5,Cash on Delivery,3
+613,2025-12-13,Sports,Running Shoes,South,New,4,6299,14,21668.56,Cash on Delivery,5
+614,2025-03-07,Sports,Yoga Mat,East,New,3,5621,4,16188.48,Net Banking,4
+615,2025-07-31,Fashion,Backpack,North,Returning,1,4705,13,4093.35,Net Banking,3
+616,2025-04-02,Fashion,Sneakers,South,Returning,5,633,14,2721.9,UPI,1
+617,2025-04-06,Beauty,Perfume,South,New,3,2471,30,5189.1,UPI,5
+618,2025-03-29,Fashion,T-Shirt,West,Returning,4,547,0,2188.0,Cash on Delivery,5
+619,2025-03-06,Beauty,Perfume,South,New,5,3535,2,17321.5,Credit Card,1
+620,2025-08-12,Electronics,Smartphone,South,New,1,35424,7,32944.32,Debit Card,4
+621,2025-09-06,Home,Vacuum Cleaner,West,New,4,4816,30,13484.8,Cash on Delivery,5
+622,2025-08-10,Home,Air Fryer,West,Returning,3,2668,20,6403.2,Net Banking,5
+623,2025-11-10,Sports,Cricket Bat,West,New,1,10383,23,7994.91,UPI,5
+624,2025-08-31,Electronics,Bluetooth Speaker,North,Returning,5,49399,13,214885.65,Net Banking,3
+625,2025-08-13,Beauty,Face Wash,South,New,1,1874,11,1667.86,Net Banking,3
+626,2025-12-11,Sports,Dumbbells,East,Returning,2,7529,26,11142.92,Credit Card,5
+627,2025-09-09,Home,Table Lamp,North,Returning,1,5230,19,4236.3,Cash on Delivery,3
+628,2025-03-23,Home,Air Fryer,South,New,5,1594,21,6296.3,UPI,3
+629,2025-06-24,Beauty,Face Cream,East,New,5,2135,8,9821.0,Net Banking,3
+630,2025-02-26,Home,Office Chair,North,New,5,24147,30,84514.5,Net Banking,1
+631,2025-05-30,Sports,Yoga Mat,West,Returning,2,3272,23,5038.88,UPI,2
+632,2025-08-31,Fashion,Sneakers,East,Returning,2,4097,7,7620.42,Net Banking,2
+633,2025-09-29,Electronics,Smartwatch,West,New,3,62396,24,142262.88,Credit Card,4
+634,2025-01-06,Beauty,Face Wash,North,New,4,543,4,2085.12,Debit Card,3
+635,2025-11-25,Beauty,Shampoo,South,New,4,603,29,1712.52,Net Banking,3
+636,2025-05-24,Beauty,Face Wash,South,Returning,5,2869,0,14345.0,Cash on Delivery,2
+637,2025-06-04,Sports,Football,North,New,5,3932,28,14155.2,Net Banking,3
+638,2025-06-09,Beauty,Shampoo,East,New,5,1060,17,4399.0,UPI,1
+639,2025-01-31,Sports,Football,East,Returning,3,8978,3,26125.98,Net Banking,3
+640,2025-05-01,Electronics,Wireless Headphones,South,Returning,1,66816,10,60134.4,Debit Card,3
+641,2025-04-09,Sports,Running Shoes,East,Returning,4,9161,18,30048.08,UPI,2
+642,2025-08-17,Beauty,Face Wash,North,Returning,1,1365,6,1283.1,Net Banking,4
+643,2025-08-14,Sports,Football,West,Returning,5,11127,13,48402.45,Credit Card,2
+644,2025-12-22,Sports,Running Shoes,South,Returning,4,9369,3,36351.72,Cash on Delivery,1
+645,2025-07-09,Home,Office Chair,East,New,3,20713,3,60274.83,Net Banking,2
+646,2025-03-15,Electronics,Smartwatch,South,Returning,3,57081,25,128432.25,UPI,3
+647,2025-01-23,Fashion,Jeans,West,Returning,2,1502,2,2943.92,Net Banking,3
+648,2025-11-22,Sports,Dumbbells,West,Returning,3,2969,16,7481.88,Cash on Delivery,2
+649,2025-01-24,Fashion,T-Shirt,West,Returning,5,2407,17,9989.05,UPI,2
+650,2025-11-13,Electronics,Laptop,North,New,3,24224,30,50870.4,Cash on Delivery,5
+651,2025-12-28,Electronics,Wireless Headphones,West,New,5,31559,26,116768.3,Net Banking,5
+652,2025-04-03,Fashion,Jacket,West,New,5,7561,13,32890.35,Net Banking,3
+653,2025-04-04,Beauty,Perfume,East,New,1,1677,4,1609.92,Credit Card,3
+654,2025-02-20,Beauty,Shampoo,East,New,1,779,12,685.52,Cash on Delivery,3
+655,2025-09-16,Fashion,Jacket,West,New,1,2462,16,2068.08,Debit Card,1
+656,2025-04-30,Fashion,Jacket,North,Returning,5,4466,20,17864.0,Net Banking,5
+657,2025-11-22,Electronics,Smartphone,South,New,5,24458,2,119844.2,Debit Card,5
+658,2025-08-26,Home,Air Fryer,East,New,5,19191,26,71006.7,UPI,1
+659,2025-10-27,Beauty,Perfume,East,New,5,3178,6,14936.6,Credit Card,5
+660,2025-10-12,Sports,Yoga Mat,East,Returning,3,2988,23,6902.28,Credit Card,5
+661,2025-06-14,Sports,Cricket Bat,East,New,3,4729,21,11207.73,Cash on Delivery,5
+662,2025-03-30,Fashion,T-Shirt,West,Returning,2,4403,21,6956.74,Cash on Delivery,5
+663,2025-07-12,Electronics,Wireless Headphones,East,Returning,5,12056,26,44607.2,Credit Card,1
+664,2025-05-24,Electronics,Bluetooth Speaker,East,New,3,33295,24,75912.6,UPI,5
+665,2025-12-27,Fashion,Jeans,South,New,2,801,28,1153.44,Credit Card,4
+666,2025-10-17,Electronics,Smartwatch,South,New,5,73578,21,290633.1,Net Banking,2
+667,2025-12-14,Electronics,Smartphone,North,Returning,3,37879,27,82955.01,Net Banking,4
+668,2025-12-15,Electronics,Bluetooth Speaker,West,Returning,1,50336,3,48825.92,Debit Card,5
+669,2025-07-20,Electronics,Smartphone,South,Returning,1,44429,0,44429.0,UPI,5
+670,2025-02-02,Electronics,Smartphone,North,New,4,17757,9,64635.48,Cash on Delivery,4
+671,2025-06-24,Electronics,Laptop,North,Returning,3,40821,30,85724.1,Net Banking,2
+672,2025-02-13,Electronics,Laptop,North,New,5,65478,3,317568.3,Cash on Delivery,3
+673,2025-12-13,Electronics,Smartphone,North,New,1,65923,3,63945.31,Debit Card,4
+674,2025-08-26,Beauty,Face Cream,West,New,5,386,12,1698.4,Debit Card,1
+675,2025-02-04,Beauty,Lipstick,South,New,3,400,22,936.0,Net Banking,3
+676,2025-03-07,Fashion,Jacket,East,Returning,4,2491,1,9864.36,Net Banking,3
+677,2025-05-30,Fashion,Backpack,East,New,5,4346,10,19557.0,Net Banking,5
+678,2025-04-11,Home,Coffee Maker,South,New,2,19332,11,34410.96,UPI,3
+679,2025-08-03,Home,Vacuum Cleaner,East,New,4,19953,9,72628.92,UPI,4
+680,2025-04-20,Electronics,Bluetooth Speaker,South,Returning,2,8484,19,13744.08,Debit Card,4
+681,2025-10-12,Home,Vacuum Cleaner,North,New,2,12888,0,25776.0,Debit Card,4
+682,2025-04-23,Home,Office Chair,East,New,3,1972,5,5620.2,Debit Card,5
+683,2025-12-13,Home,Air Fryer,South,Returning,2,6769,0,13538.0,UPI,3
+684,2025-09-27,Home,Table Lamp,West,New,4,13112,5,49825.6,UPI,2
+685,2025-08-08,Home,Air Fryer,South,New,2,13392,19,21695.04,Net Banking,5
+686,2025-05-24,Home,Office Chair,South,Returning,3,11737,25,26408.25,Credit Card,1
+687,2025-09-23,Beauty,Lipstick,West,New,1,4471,15,3800.35,Debit Card,3
+688,2025-10-26,Sports,Dumbbells,North,New,4,11154,29,31677.36,Credit Card,2
+689,2025-07-11,Beauty,Shampoo,East,New,4,3389,5,12878.2,Credit Card,1
+690,2025-11-15,Fashion,Jacket,East,Returning,5,5283,16,22188.6,Cash on Delivery,4
+691,2025-08-15,Beauty,Face Wash,South,Returning,3,3432,5,9781.2,UPI,3
+692,2025-04-27,Electronics,Smartwatch,North,New,5,75212,29,267002.6,UPI,3
+693,2025-12-16,Electronics,Laptop,East,New,2,51746,9,94177.72,Net Banking,2
+694,2025-07-27,Sports,Cricket Bat,North,Returning,1,7316,30,5121.2,Net Banking,2
+695,2025-10-10,Beauty,Shampoo,West,Returning,2,4525,25,6787.5,Debit Card,1
+696,2025-07-11,Fashion,Jeans,South,New,4,4093,0,16372.0,Debit Card,1
+697,2025-06-16,Beauty,Perfume,North,New,3,3604,9,9838.92,Credit Card,2
+698,2025-07-17,Fashion,Backpack,South,Returning,5,2172,17,9013.8,UPI,3
+699,2025-12-19,Sports,Dumbbells,West,New,3,3610,1,10721.7,Credit Card,2
+700,2025-01-30,Electronics,Bluetooth Speaker,East,New,3,34986,14,90263.88,Credit Card,3
+701,2025-02-05,Beauty,Face Wash,West,New,2,3727,23,5739.58,Credit Card,2
+702,2025-09-15,Fashion,Jacket,West,Returning,4,5211,6,19593.36,Credit Card,1
+703,2025-10-19,Home,Vacuum Cleaner,West,Returning,1,20819,10,18737.1,Cash on Delivery,5
+704,2025-03-31,Electronics,Wireless Headphones,West,New,3,67809,19,164775.87,Credit Card,5
+705,2025-01-23,Beauty,Face Wash,South,New,4,1082,22,3375.84,Debit Card,5
+706,2025-02-09,Fashion,T-Shirt,North,Returning,2,6741,11,11998.98,Cash on Delivery,4
+707,2025-12-22,Home,Table Lamp,West,Returning,2,2462,20,3939.2,Debit Card,4
+708,2025-08-26,Home,Vacuum Cleaner,West,Returning,1,9211,21,7276.69,UPI,1
+709,2025-01-10,Sports,Running Shoes,North,New,4,3343,5,12703.4,Debit Card,1
+710,2025-03-20,Sports,Dumbbells,West,Returning,2,11798,8,21708.32,Credit Card,2
+711,2025-12-04,Electronics,Laptop,North,Returning,2,65941,21,104186.78,Debit Card,4
+712,2025-05-03,Electronics,Laptop,South,New,1,14378,11,12796.42,UPI,4
+713,2025-02-19,Electronics,Wireless Headphones,South,New,3,33185,30,69688.5,UPI,4
+714,2025-10-05,Sports,Yoga Mat,West,Returning,3,10934,6,30833.88,UPI,2
+715,2025-01-07,Home,Coffee Maker,West,New,3,6689,10,18060.3,Cash on Delivery,2
+716,2025-11-03,Electronics,Smartwatch,West,New,5,56362,9,256447.1,Net Banking,5
+717,2025-12-22,Home,Table Lamp,South,Returning,1,21672,29,15387.12,Credit Card,3
+718,2025-11-24,Beauty,Face Cream,South,New,3,3977,16,10022.04,Credit Card,1
+719,2025-01-31,Sports,Yoga Mat,South,Returning,3,10854,2,31910.76,Cash on Delivery,3
+720,2025-08-16,Home,Air Fryer,East,New,4,22038,30,61706.4,Debit Card,3
+721,2025-04-16,Electronics,Laptop,North,New,4,45808,7,170405.76,Credit Card,5
+722,2025-09-09,Beauty,Lipstick,North,New,3,349,27,764.31,UPI,2
+723,2025-02-10,Home,Air Fryer,West,Returning,1,20419,16,17151.96,Debit Card,2
+724,2025-08-18,Home,Air Fryer,South,Returning,4,20852,18,68394.56,Cash on Delivery,1
+725,2025-08-10,Fashion,Jacket,South,Returning,4,4115,19,13332.6,UPI,4
+726,2025-08-26,Beauty,Face Cream,East,Returning,3,1739,12,4590.96,Debit Card,4
+727,2025-04-08,Sports,Football,North,New,4,3906,4,14999.04,Net Banking,3
+728,2025-10-29,Beauty,Face Wash,North,Returning,4,4310,20,13792.0,UPI,1
+729,2025-09-08,Beauty,Lipstick,East,New,2,3155,22,4921.8,Cash on Delivery,4
+730,2025-03-17,Home,Air Fryer,East,Returning,4,12842,20,41094.4,Credit Card,3
+731,2025-07-16,Home,Office Chair,West,New,5,1404,22,5475.6,Net Banking,2
+732,2025-07-15,Beauty,Shampoo,East,Returning,4,4401,21,13907.16,UPI,1
+733,2025-03-28,Sports,Cricket Bat,West,New,2,5747,0,11494.0,UPI,1
+734,2025-12-27,Beauty,Lipstick,South,New,4,1745,5,6631.0,Cash on Delivery,2
+735,2025-04-09,Sports,Yoga Mat,East,Returning,4,3693,25,11079.0,Cash on Delivery,5
+736,2025-06-25,Electronics,Smartphone,North,New,1,46420,2,45491.6,Cash on Delivery,4
+737,2025-09-25,Electronics,Wireless Headphones,North,Returning,1,42875,6,40302.5,Net Banking,5
+738,2025-06-25,Fashion,Jacket,East,New,4,4018,21,12696.88,Debit Card,4
+739,2025-12-24,Beauty,Lipstick,West,New,1,1120,14,963.2,UPI,5
+740,2025-12-05,Electronics,Laptop,South,New,3,40576,13,105903.36,Debit Card,1
+741,2025-11-10,Fashion,T-Shirt,North,Returning,3,5470,23,12635.7,Cash on Delivery,4
+742,2025-09-16,Electronics,Bluetooth Speaker,North,New,3,33569,25,75530.25,Cash on Delivery,1
+743,2025-05-04,Fashion,Backpack,South,New,4,1447,17,4804.04,Credit Card,1
+744,2025-05-12,Electronics,Bluetooth Speaker,West,New,1,29002,7,26971.86,Credit Card,5
+745,2025-07-13,Beauty,Face Cream,West,Returning,3,829,10,2238.3,Credit Card,2
+746,2025-04-07,Fashion,T-Shirt,North,Returning,3,1230,29,2619.9,Credit Card,3
+747,2025-07-18,Beauty,Lipstick,West,Returning,1,4687,27,3421.51,Debit Card,2
+748,2025-08-24,Sports,Football,East,New,5,9519,27,34744.35,Debit Card,2
+749,2025-06-08,Beauty,Face Wash,North,Returning,2,581,10,1045.8,Net Banking,4
+750,2025-04-18,Home,Vacuum Cleaner,South,New,3,2927,26,6497.94,Credit Card,4
+751,2025-08-31,Beauty,Perfume,East,Returning,2,3064,21,4841.12,Cash on Delivery,1
+752,2025-03-09,Sports,Cricket Bat,East,New,3,7151,3,20809.41,Debit Card,4
+753,2025-04-22,Home,Office Chair,South,New,2,23805,6,44753.4,Debit Card,5
+754,2025-07-02,Electronics,Smartphone,West,New,4,63982,3,248250.16,UPI,1
+755,2025-03-02,Sports,Cricket Bat,South,Returning,5,4714,1,23334.3,Cash on Delivery,3
+756,2025-12-01,Sports,Running Shoes,West,Returning,4,5209,20,16668.8,UPI,1
+757,2025-10-28,Electronics,Wireless Headphones,West,Returning,1,72122,0,72122.0,UPI,5
+758,2025-02-02,Home,Vacuum Cleaner,South,Returning,4,10776,10,38793.6,UPI,4
+759,2025-04-17,Sports,Football,North,New,5,11377,3,55178.45,Net Banking,2
+760,2025-12-01,Electronics,Laptop,South,New,4,49195,6,184973.2,Net Banking,3
+761,2025-12-03,Electronics,Wireless Headphones,North,New,30,74341,13,64676.67,Debit Card,1
+762,2025-06-30,Sports,Cricket Bat,South,New,5,5827,16,24473.4,UPI,2
+763,2025-07-03,Electronics,Smartphone,East,New,2,47283,18,77544.12,Net Banking,4
+764,2025-02-12,Electronics,Laptop,East,Returning,3,42167,14,108790.86,Credit Card,5
+765,2025-09-19,Home,Coffee Maker,South,Returning,3,24410,20,58584.0,Credit Card,3
+766,2025-12-17,Beauty,Face Wash,West,New,1,1320,3,1280.4,Debit Card,1
+767,2025-04-24,Fashion,Sneakers,West,New,3,2741,12,7236.24,UPI,2
+768,2025-05-25,Sports,Cricket Bat,East,New,5,10074,27,36770.1,UPI,2
+769,2025-07-26,Fashion,Jacket,West,New,2,6961,19,11276.82,Debit Card,1
+770,2025-11-24,Sports,Running Shoes,East,New,2,1566,29,2223.72,Net Banking,4
+771,2025-08-08,Beauty,Shampoo,South,Returning,4,2649,30,7417.2,UPI,3
+772,2025-10-22,Beauty,Perfume,North,New,1,2266,5,2152.7,Debit Card,5
+773,2025-12-17,Beauty,Face Cream,North,Returning,4,4229,16,14209.44,UPI,5
+774,2025-01-22,Home,Coffee Maker,West,New,4,12306,19,39871.44,Net Banking,2
+775,2025-07-14,Home,Coffee Maker,South,Returning,3,17832,15,45471.6,UPI,3
+776,2025-01-02,Home,Office Chair,West,New,1,10803,6,10154.82,Debit Card,5
+777,2025-06-18,Electronics,Bluetooth Speaker,East,Returning,5,71998,14,309591.4,UPI,1
+778,2025-02-13,Fashion,Jeans,South,Returning,4,1330,6,5000.8,UPI,4
+779,2025-08-08,Electronics,Smartphone,South,Returning,3,37634,11,100482.78,UPI,4
+780,2025-04-08,Beauty,Shampoo,East,New,2,3242,3,6289.48,Credit Card,4
+781,2025-03-02,Beauty,Perfume,West,Returning,1,4226,8,3887.92,Net Banking,4
+782,2025-02-25,Home,Table Lamp,North,New,4,24789,3,96181.32,Credit Card,3
+783,2025-01-05,Sports,Yoga Mat,West,Returning,2,7739,19,12537.18,Debit Card,3
+784,2025-05-24,Beauty,Face Cream,North,Returning,4,4488,7,16695.36,Credit Card,4
+785,2025-11-21,Home,Vacuum Cleaner,South,New,1,21024,20,16819.2,UPI,2
+786,2025-02-16,Beauty,Face Cream,North,Returning,3,444,6,1252.08,Cash on Delivery,5
+787,2025-11-26,Fashion,Jeans,North,Returning,2,4425,13,7699.5,UPI,3
+788,2025-01-01,Fashion,Sneakers,North,Returning,3,3120,1,9266.4,Credit Card,3
+789,2025-06-21,Beauty,Perfume,East,New,5,2366,11,10528.7,UPI,1
+790,2025-05-02,Sports,Running Shoes,East,New,3,10607,11,28320.69,Net Banking,4
+791,2025-08-17,Electronics,Wireless Headphones,North,New,2,23775,22,37089.0,Net Banking,5
+792,2025-04-09,Fashion,Sneakers,West,Returning,4,6404,4,650000.0,Net Banking,3
+793,2025-09-15,Fashion,Jacket,North,New,1,4455,29,3163.05,Net Banking,3
+794,2025-09-30,Home,Table Lamp,North,New,1,23734,21,18749.86,Cash on Delivery,5
+795,2025-03-23,Beauty,Lipstick,South,New,4,1995,0,7980.0,Net Banking,4
+796,2025-03-29,Sports,Football,South,New,3,9746,3,28360.86,Net Banking,2
+797,2025-04-18,Fashion,T-Shirt,North,New,2,2715,7,5049.9,Debit Card,5
+798,2025-11-10,Fashion,Sneakers,East,Returning,1,6415,28,4618.8,UPI,1
+799,2025-10-26,Fashion,Jeans,North,Returning,3,628,27,1375.32,Debit Card,5
+800,2025-07-22,Sports,Running Shoes,South,Returning,4,10229,20,32732.8,Credit Card,4
+801,2025-04-01,Fashion,Jeans,South,Returning,4,1986,26,5878.56,Credit Card,3
+802,2025-02-06,Electronics,Smartwatch,West,New,2,31295,4,60086.4,Cash on Delivery,4
+803,2025-02-26,Electronics,Laptop,North,New,2,9545,0,19090.0,Credit Card,2
+804,2025-06-23,Electronics,Smartwatch,North,New,2,9769,23,15044.26,Credit Card,4
+805,2025-10-06,Sports,Dumbbells,East,New,2,4694,1,9294.12,UPI,1
+806,2025-04-25,Electronics,Laptop,North,New,3,21443,0,64329.0,Cash on Delivery,4
+807,2025-02-26,Home,Table Lamp,South,New,3,23426,5,66764.1,Debit Card,3
+808,2025-04-02,Electronics,Laptop,West,Returning,3,23512,4,67714.56,Net Banking,2
+809,2025-09-13,Beauty,Shampoo,East,Returning,3,1151,29,2451.63,UPI,1
+810,2025-10-23,Home,Air Fryer,West,Returning,3,13799,3,40155.09,Credit Card,1
+811,2025-12-22,Fashion,Jeans,West,Returning,2,3115,15,5295.5,Credit Card,2
+812,2025-04-28,Beauty,Face Wash,West,New,5,4335,17,17990.25,Net Banking,4
+813,2025-01-09,Sports,Football,East,Returning,2,4030,27,5883.8,Credit Card,1
+814,2025-08-04,Electronics,Smartwatch,South,New,3,150000,29,55942.32,Credit Card,1
+815,2025-12-26,Home,Coffee Maker,North,New,2,1863,1,3688.74,Cash on Delivery,5
+816,2025-10-19,Home,Coffee Maker,West,New,2,5629,0,11258.0,Credit Card,4
+817,2025-11-27,Home,Office Chair,North,Returning,3,14484,25,32589.0,UPI,2
+818,2025-08-05,Electronics,Wireless Headphones,West,Returning,5,30751,26,113778.7,Net Banking,5
+819,2025-03-06,Fashion,Jeans,South,Returning,4,1253,30,3508.4,Net Banking,1
+820,2025-11-25,Home,Vacuum Cleaner,West,Returning,2,23689,20,37902.4,Credit Card,1
+821,2025-06-21,Fashion,Jacket,North,New,2,1355,19,2195.1,Debit Card,2
+822,2025-04-14,Sports,Yoga Mat,North,New,1,3775,17,3133.25,Debit Card,1
+823,2025-06-08,Sports,Football,North,Returning,1,2227,30,1558.9,Debit Card,4
+824,2025-06-19,Sports,Running Shoes,West,New,3,11754,3,34204.14,Net Banking,2
+825,2025-03-19,Electronics,Laptop,West,New,4,70515,5,267957.0,UPI,2
+826,2025-03-09,Home,Air Fryer,East,Returning,2,17918,14,30818.96,Debit Card,5
+827,2025-11-18,Beauty,Face Cream,West,New,4,914,18,2997.92,UPI,2
+828,2025-06-01,Fashion,Backpack,South,New,1,4225,29,2999.75,Debit Card,5
+829,2025-05-12,Fashion,Sneakers,West,New,1,6321,15,5372.85,UPI,5
+830,2025-09-20,Beauty,Face Cream,East,Returning,3,1356,11,3620.52,UPI,4
+831,2025-10-15,Sports,Dumbbells,North,New,3,4711,22,11023.74,UPI,3
+832,2025-02-17,Beauty,Shampoo,East,Returning,5,3480,21,13746.0,Cash on Delivery,5
+833,2025-07-25,Beauty,Face Cream,East,New,1,3551,6,3337.94,Debit Card,3
+834,2025-03-21,Sports,Dumbbells,West,New,2,1327,17,2202.82,Credit Card,3
+835,2025-04-20,Sports,Yoga Mat,North,New,5,7746,15,32920.5,UPI,4
+836,2025-06-02,Fashion,Sneakers,West,Returning,2,1067,2,2091.32,Net Banking,2
+837,2025-06-28,Fashion,Jeans,West,Returning,1,3301,6,3102.94,Cash on Delivery,5
+838,2025-12-08,Home,Vacuum Cleaner,South,Returning,3,1325,23,3060.75,Debit Card,1
+839,2025-01-02,Home,Vacuum Cleaner,West,New,2,11368,16,19098.24,Cash on Delivery,5
+840,2025-07-13,Electronics,Wireless Headphones,South,Returning,2,32596,19,52805.52,Credit Card,2
+841,2025-03-05,Sports,Yoga Mat,West,Returning,3,8926,26,19815.72,Cash on Delivery,4
+842,2025-04-01,Fashion,Sneakers,West,Returning,5,6767,29,24022.85,Debit Card,2
+843,2025-12-15,Sports,Football,West,Returning,2,11506,22,17949.36,Net Banking,1
+844,2025-11-16,Electronics,Wireless Headphones,North,Returning,1,10153,23,7817.81,Net Banking,5
+845,2025-02-28,Electronics,Smartwatch,South,Returning,4,35770,12,125910.4,UPI,3
+846,2025-05-18,Beauty,Face Wash,East,Returning,4,2134,9,7767.76,Cash on Delivery,2
+847,2025-11-04,Electronics,Bluetooth Speaker,East,Returning,1,10035,26,7425.9,Credit Card,5
+848,2025-10-23,Beauty,Shampoo,West,New,5,3522,25,13207.5,Cash on Delivery,2
+849,2025-03-02,Beauty,Perfume,West,Returning,5,1115,16,4683.0,Net Banking,2
+850,2025-10-31,Fashion,Jeans,South,New,25,4083,24,3103.08,Net Banking,5
+851,2025-12-01,Electronics,Laptop,South,Returning,4,11314,7,42088.08,Credit Card,5
+852,2025-11-23,Home,Vacuum Cleaner,North,New,3,10010,0,30030.0,Cash on Delivery,5
+853,2025-09-11,Electronics,Wireless Headphones,East,New,2,45022,2,88243.12,Cash on Delivery,1
+854,2025-08-03,Beauty,Face Cream,West,Returning,4,925,21,2923.0,Cash on Delivery,2
+855,2025-06-27,Home,Table Lamp,West,New,1,22615,10,20353.5,Credit Card,5
+856,2025-03-20,Fashion,T-Shirt,South,Returning,2,688,24,1045.76,UPI,2
+857,2025-09-04,Electronics,Smartwatch,South,New,2,36804,8,67719.36,Debit Card,5
+858,2025-04-12,Fashion,Jacket,East,Returning,4,3776,5,14348.8,UPI,5
+859,2025-11-02,Sports,Cricket Bat,East,Returning,2,8009,13,13935.66,Net Banking,1
+860,2025-02-02,Sports,Dumbbells,West,New,4,11066,26,32755.36,UPI,5
+861,2025-01-16,Fashion,Backpack,North,New,4,7272,12,25597.44,Debit Card,4
+862,2025-06-10,Home,Table Lamp,North,New,2,8051,4,15457.92,Debit Card,1
+863,2025-11-05,Fashion,Jeans,South,New,4,5100,9,18564.0,UPI,5
+864,2025-06-13,Fashion,Backpack,South,New,1,6694,26,4953.56,UPI,4
+865,2025-06-17,Beauty,Face Cream,West,New,3,4009,19,9741.87,Net Banking,1
+866,2025-10-01,Fashion,T-Shirt,North,Returning,5,2829,1,14003.55,UPI,1
+867,2025-10-12,Beauty,Face Cream,East,Returning,4,3132,2,12277.44,Net Banking,1
+868,2025-11-13,Beauty,Perfume,North,New,4,1294,30,3623.2,Credit Card,1
+869,2025-02-15,Electronics,Smartphone,South,Returning,1,50317,5,47801.15,Net Banking,1
+870,2025-12-19,Electronics,Smartwatch,West,Returning,1,22523,10,20270.7,Credit Card,2
+871,2025-07-31,Sports,Dumbbells,West,New,1,10270,28,7394.4,Net Banking,5
+872,2025-05-16,Home,Office Chair,East,New,4,10192,2,39952.64,Debit Card,5
+873,2025-04-21,Home,Air Fryer,West,Returning,1,17207,21,13593.53,Credit Card,4
+874,2025-08-21,Electronics,Smartwatch,South,New,2,77159,22,120368.04,Credit Card,2
+875,2025-05-23,Fashion,Jacket,West,New,4,6889,2,27004.88,Debit Card,5
+876,2025-05-17,Electronics,Smartphone,North,Returning,4,22047,5,83778.6,Net Banking,4
+877,2025-09-15,Fashion,Sneakers,West,Returning,1,4034,12,3549.92,UPI,4
+878,2025-04-07,Fashion,Sneakers,West,New,1,3633,9,3306.03,Net Banking,3
+879,2025-02-26,Sports,Football,South,New,4,11289,7,41995.08,UPI,1
+880,2025-11-14,Sports,Cricket Bat,West,Returning,2,4410,28,6350.4,Cash on Delivery,1
+881,2025-05-28,Home,Table Lamp,East,New,4,6604,20,21132.8,UPI,2
+882,2025-02-05,Sports,Football,South,New,4,5862,21,18523.92,Debit Card,4
+883,2025-02-09,Home,Coffee Maker,South,New,4,11946,28,34404.48,Net Banking,3
+884,2025-01-09,Beauty,Lipstick,East,New,1,1196,26,885.04,Net Banking,5
+885,2025-06-29,Home,Air Fryer,East,Returning,1,10981,15,9333.85,Debit Card,3
+886,2025-11-02,Beauty,Face Cream,West,New,3,4542,27,9946.98,Debit Card,5
+887,2025-05-06,Electronics,Smartphone,West,Returning,4,36869,0,147476.0,Credit Card,1
+888,2025-09-27,Home,Vacuum Cleaner,South,Returning,1,21541,30,15078.7,Debit Card,3
+889,2025-12-26,Beauty,Lipstick,East,New,4,636,16,2136.96,Cash on Delivery,4
+890,2025-03-18,Sports,Cricket Bat,East,New,3,8340,21,19765.8,Debit Card,4
+891,2025-10-31,Fashion,T-Shirt,North,New,3,835,26,1853.7,Cash on Delivery,3
+892,2025-05-26,Electronics,Bluetooth Speaker,South,New,3,8084,28,17461.44,Debit Card,2
+893,2025-07-01,Home,Vacuum Cleaner,South,Returning,5,10529,29,37377.95,Cash on Delivery,4
+894,2025-06-15,Electronics,Smartwatch,South,New,3,48728,28,105252.48,Debit Card,2
+895,2025-11-18,Beauty,Lipstick,West,New,2,2735,29,3883.7,Cash on Delivery,4
+896,2025-07-03,Electronics,Smartphone,West,Returning,5,65920,22,257088.0,Cash on Delivery,4
+897,2025-03-13,Beauty,Face Wash,East,New,4,3748,24,11393.92,Net Banking,5
+898,2025-07-21,Fashion,Jeans,South,Returning,5,7690,24,29222.0,UPI,4
+899,2025-02-19,Sports,Dumbbells,East,Returning,1,6163,19,4992.03,Debit Card,1
+900,2025-09-11,Electronics,Laptop,South,New,5,14949,17,62038.35,Credit Card,3
+901,2025-03-03,Fashion,T-Shirt,North,New,4,1050,19,3402.0,Credit Card,1
+902,2025-09-05,Beauty,Face Cream,South,New,5,1297,12,5706.8,Net Banking,3
+903,2025-12-03,Sports,Dumbbells,South,New,5,3727,4,17889.6,Net Banking,5
+904,2025-07-08,Home,Vacuum Cleaner,East,Returning,4,10484,15,35645.6,Cash on Delivery,1
+905,2025-07-19,Beauty,Face Wash,North,Returning,4,4044,18,13264.32,UPI,5
+906,2025-03-23,Beauty,Face Cream,East,New,3,4054,0,12162.0,Debit Card,5
+907,2025-10-16,Beauty,Lipstick,East,Returning,1,3182,23,2450.14,Credit Card,3
+908,2025-09-17,Fashion,Jacket,East,New,1,4364,22,3403.92,Debit Card,5
+909,2025-02-19,Sports,Cricket Bat,North,Returning,5,3307,7,15377.55,Cash on Delivery,3
+910,2025-02-02,Home,Air Fryer,North,Returning,1,24860,29,17650.6,UPI,1
+911,2025-03-10,Electronics,Bluetooth Speaker,South,New,3,11861,12,31313.04,Debit Card,4
+912,2025-10-26,Beauty,Perfume,North,New,2,4629,2,9072.84,Credit Card,1
+913,2025-12-16,Home,Coffee Maker,West,New,3,19621,5,55919.85,Credit Card,5
+914,2025-02-04,Beauty,Lipstick,West,Returning,3,4876,25,10971.0,Cash on Delivery,1
+915,2025-01-27,Sports,Yoga Mat,East,New,2,8870,7,16498.2,Credit Card,3
+916,2025-05-04,Fashion,Jacket,East,Returning,3,2859,18,7033.14,Net Banking,1
+917,2025-08-04,Sports,Yoga Mat,East,New,5,1228,10,5526.0,Debit Card,1
+918,2025-02-07,Home,Air Fryer,North,Returning,5,22736,15,96628.0,UPI,4
+919,2025-09-12,Sports,Football,South,Returning,1,2404,1,2379.96,Cash on Delivery,4
+920,2025-07-14,Fashion,Jeans,North,Returning,1,6837,19,5537.97,UPI,4
+921,2025-11-12,Beauty,Shampoo,East,Returning,4,1246,3,4834.48,Credit Card,3
+922,2025-10-02,Beauty,Face Cream,North,New,2,382,13,664.68,Credit Card,1
+923,2025-11-05,Electronics,Wireless Headphones,South,Returning,2,65482,11,116557.96,Credit Card,5
+924,2025-12-28,Beauty,Face Wash,East,New,1,4753,15,4040.05,Cash on Delivery,3
+925,2025-10-05,Fashion,Backpack,North,New,3,7815,22,18287.1,Debit Card,4
+926,2025-06-06,Sports,Dumbbells,South,New,3,9235,7,25765.65,Debit Card,2
+927,2025-05-23,Electronics,Smartphone,West,Returning,4,67475,8,248308.0,UPI,1
+928,2025-01-23,Fashion,Backpack,South,New,4,7567,14,26030.48,Cash on Delivery,2
+929,2025-11-08,Beauty,Lipstick,East,Returning,1,3149,29,2235.79,Net Banking,2
+930,2025-07-18,Electronics,Smartwatch,East,Returning,5,64895,17,269314.25,Cash on Delivery,5
+931,2025-01-08,Sports,Football,East,Returning,3,2860,29,6091.8,UPI,2
+932,2025-12-04,Sports,Cricket Bat,East,New,3,6626,8,18287.76,UPI,3
+933,2025-08-27,Sports,Cricket Bat,North,Returning,3,7907,0,23721.0,Cash on Delivery,5
+934,2025-02-02,Home,Vacuum Cleaner,West,New,1,10058,30,7040.6,Debit Card,3
+935,2025-01-26,Fashion,Jacket,South,New,2,1929,20,3086.4,UPI,2
+936,2025-05-13,Sports,Dumbbells,East,New,5,1696,30,5936.0,Debit Card,5
+937,2025-09-19,Electronics,Laptop,North,New,2,53839,3,104447.66,Credit Card,3
+938,2025-06-17,Sports,Cricket Bat,East,Returning,4,3044,0,12176.0,Cash on Delivery,3
+939,2025-03-18,Beauty,Perfume,North,New,5,665,29,2360.75,Net Banking,2
+940,2025-03-18,Fashion,Backpack,West,New,5,3603,23,13871.55,UPI,2
+941,2025-01-27,Sports,Football,West,Returning,5,9346,25,35047.5,Debit Card,3
+942,2025-06-11,Home,Office Chair,North,New,3,11770,14,30366.6,Cash on Delivery,4
+943,2025-11-06,Fashion,T-Shirt,South,Returning,3,7992,15,20379.6,Cash on Delivery,2
+944,2025-05-27,Sports,Running Shoes,East,Returning,5,10621,8,48856.6,UPI,1
+945,2025-08-21,Beauty,Face Wash,North,New,5,1922,28,6919.2,UPI,4
+946,2025-12-20,Fashion,Backpack,South,New,4,7622,0,30488.0,Credit Card,5
+947,2025-05-31,Sports,Dumbbells,North,Returning,4,4655,22,14523.6,Debit Card,5
+948,2025-07-29,Sports,Football,West,Returning,1,8054,29,5718.34,Debit Card,4
+949,2025-07-09,Home,Air Fryer,West,Returning,5,3745,18,15354.5,Debit Card,4
+950,2025-01-25,Home,Office Chair,West,Returning,5,4175,10,18787.5,Debit Card,4
+951,2025-10-22,Fashion,Jeans,East,New,2,2225,8,4094.0,Debit Card,3
+952,2025-05-13,Home,Coffee Maker,North,New,3,16946,9,46262.58,Debit Card,2
+953,2025-04-10,Electronics,Smartphone,North,Returning,5,74676,17,309905.4,UPI,3
+954,2025-08-21,Home,Table Lamp,East,New,5,24989,26,92459.3,UPI,4
+955,2025-02-10,Beauty,Face Wash,South,New,3,1254,25,2821.5,Debit Card,2
+956,2025-02-07,Sports,Cricket Bat,East,New,3,11711,24,26701.08,Cash on Delivery,1
+957,2025-10-28,Sports,Cricket Bat,West,New,2,4729,4,9079.68,Credit Card,3
+958,2025-02-15,Beauty,Shampoo,South,New,4,1379,20,4412.8,Cash on Delivery,1
+959,2025-05-15,Beauty,Lipstick,West,New,5,617,22,2406.3,Debit Card,4
+960,2025-11-19,Sports,Running Shoes,West,Returning,3,8731,25,19644.75,Net Banking,4
+961,2025-12-06,Fashion,T-Shirt,West,New,2,3937,7,7322.82,Credit Card,4
+962,2025-07-30,Fashion,T-Shirt,South,New,3,1549,19,3764.07,Debit Card,3
+963,2025-06-12,Sports,Running Shoes,West,Returning,4,4986,21,15755.76,Cash on Delivery,4
+964,2025-01-24,Beauty,Perfume,East,Returning,1,2093,20,1674.4,Cash on Delivery,2
+965,2025-10-04,Sports,Running Shoes,North,New,5,2817,19,11408.85,Cash on Delivery,1
+966,2025-10-02,Fashion,Sneakers,South,New,5,903,11,4018.35,Net Banking,4
+967,2025-05-08,Home,Table Lamp,North,New,2,11862,23,18267.48,UPI,5
+968,2025-04-28,Electronics,Laptop,South,New,4,71556,0,286224.0,Debit Card,1
+969,2025-12-27,Beauty,Face Wash,West,New,2,905,23,1393.7,UPI,5
+970,2025-09-20,Sports,Running Shoes,North,Returning,1,6003,13,5222.61,Debit Card,4
+971,2025-07-28,Home,Coffee Maker,East,Returning,3,13339,7,37215.81,Debit Card,5
+972,2025-10-07,Sports,Running Shoes,North,Returning,4,6806,24,20690.24,Credit Card,5
+973,2025-06-09,Electronics,Bluetooth Speaker,East,New,2,66600,20,106560.0,UPI,1
+974,2025-11-12,Sports,Running Shoes,West,New,2,3015,12,5306.4,UPI,4
+975,2025-11-03,Fashion,Jacket,West,New,3,799,18,1965.54,Debit Card,2
+976,2025-12-29,Sports,Dumbbells,West,New,5,5972,14,25679.6,UPI,4
+977,2025-08-13,Electronics,Bluetooth Speaker,North,New,2,9785,6,18395.8,Cash on Delivery,4
+978,2025-03-02,Home,Office Chair,West,Returning,4,18926,9,68890.64,Debit Card,5
+979,2025-11-11,Fashion,Backpack,East,Returning,3,2877,6,8113.14,Cash on Delivery,4
+980,2025-08-02,Home,Table Lamp,South,New,2,18182,10,32727.6,Cash on Delivery,1
+981,2025-02-18,Electronics,Smartwatch,North,Returning,2,34118,10,61412.4,Net Banking,2
+982,2025-05-26,Electronics,Smartwatch,West,Returning,5,37626,8,173079.6,Debit Card,5
+983,2025-03-20,Beauty,Perfume,North,New,5,1959,18,8031.9,Debit Card,2
+984,2025-10-31,Fashion,Backpack,East,Returning,1,5311,18,4355.02,Credit Card,2
+985,2025-01-01,Electronics,Smartphone,East,New,2,19971,15,33950.7,UPI,2
+986,2025-10-14,Sports,Dumbbells,West,Returning,4,2621,7,9750.12,Cash on Delivery,4
+987,2025-11-21,Fashion,Sneakers,East,New,5,1140,30,3990.0,Cash on Delivery,5
+988,2025-04-02,Beauty,Face Wash,North,Returning,3,3866,11,10322.22,Cash on Delivery,3
+989,2025-08-15,Beauty,Shampoo,East,New,5,1766,6,8300.2,UPI,5
+990,2025-01-18,Fashion,Sneakers,East,Returning,1,4618,8,4248.56,Cash on Delivery,1
+991,2025-08-31,Fashion,Sneakers,North,New,1,4356,5,4138.2,Debit Card,1
+992,2025-11-23,Sports,Running Shoes,North,Returning,2,1618,14,2782.96,UPI,5
+993,2025-10-28,Fashion,Jeans,East,New,5,7358,28,26488.8,Cash on Delivery,4
+994,2025-08-16,Electronics,Wireless Headphones,North,Returning,2,73735,5,140096.5,Net Banking,2
+995,2025-06-24,Sports,Dumbbells,West,New,2,6445,3,12503.3,Net Banking,4
+996,2025-11-17,Electronics,Wireless Headphones,North,New,1,31920,18,26174.4,UPI,2
+997,2025-01-28,Fashion,Jacket,West,Returning,1,7359,9,6696.69,Credit Card,3
+998,2025-04-13,Home,Office Chair,South,Returning,3,8404,28,18152.64,Debit Card,4
+999,2025-08-19,Fashion,T-Shirt,South,New,4,3478,16,11686.08,Net Banking,4
+1000,2025-12-16,Home,Office Chair,East,New,5,24009,25,90033.75,Debit Card,5
