@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Location,Customer_Type,Total_Orders,Total_Spend,Avg_Order_Value,Product_Category,Purchase_Frequency,Discount_Used,Customer_Rating,Age_Group
+CUST0001,56,Female,Jaipur,Returning,1,3248.46,3248.46,Fashion,Low,Yes,3.8,56-65
+CUST0002,46,Male,Jaipur,Returning,20,69426.0,3471.3,Home & Kitchen,Very High,Yes,3.6,46-55
+CUST0003,32,Female,Kolkata,Returning,17,97172.0,5716.0,Fashion,Very High,No,3.8,26-35
+CUST0004,60,Female,Hyderabad,Returning,12,40970.28,3414.19,Sports,High,No,4.3,56-65
+CUST0005,25,Male,Jaipur,New,15,57978.0,3865.2,Beauty,Very High,Yes,3.2,18-25
+CUST0006,38,Male,Jaipur,Returning,1,2281.58,2281.58,Beauty,Low,Yes,4.9,36-45
+CUST0007,56,Male,Lucknow,New,14,46191.46,3299.39,Home & Kitchen,High,Yes,4.3,56-65
+CUST0008,36,Female,Delhi,Returning,6,13227.12,2204.52,Beauty,Medium,Yes,3.7,36-45
+CUST0009,40,Male,Hyderabad,Returning,5,5244.85,1048.97,Fashion,Medium,No,4.4,36-45
+CUST0010,28,Male,Hyderabad,New,11,55284.46,5025.86,Fashion,High,Yes,4.7,26-35
+CUST0011,28,Male,Pune,Returning,4,22046.4,5511.6,Beauty,Low,No,3.8,26-35
+CUST0012,41,Female,Pune,New,13,66900.34,5146.18,Fashion,High,No,3.9,36-45
+CUST0013,53,Female,Jaipur,New,11,43738.31,3976.21,Electronics,High,Yes,4.8,46-55
+CUST0014,57,Female,Chennai,Returning,3,10045.17,3348.39,Electronics,Low,No,5.0,56-65
+CUST0015,41,Male,Pune,Returning,1,6975.0,6975.0,Electronics,Low,Yes,4.0,36-45
+CUST0016,20,Female,Jaipur,Returning,6,26358.66,4393.11,Sports,Medium,Yes,3.4,18-25
+CUST0017,39,Female,Ahmedabad,New,18,73689.48,4093.86,Home & Kitchen,Very High,Yes,3.7,36-45
+CUST0018,19,Female,Bengaluru,New,10,6923.2,692.32,Beauty,High,Yes,4.6,18-25
+CUST0019,41,Female,Bengaluru,New,5,15296.8,3059.36,Fashion,Medium,Yes,3.4,36-45
+CUST0020,61,Male,Hyderabad,New,10,33514.7,3351.47,Fashion,High,Yes,3.9,56-65
+CUST0021,47,Male,Chennai,Returning,12,41894.04,3491.17,Fashion,High,No,4.2,46-55
+CUST0022,55,Female,Lucknow,Returning,2,9702.58,4851.29,Beauty,Low,No,3.5,46-55
+CUST0023,19,Male,Delhi,Returning,13,58526.26,4502.02,Home & Kitchen,High,No,4.6,18-25
+CUST0024,38,Female,Pune,Returning,8,40474.32,5059.29,Sports,Medium,Yes,4.4,36-45
+CUST0025,50,Female,Ahmedabad,New,2,12473.24,6236.62,Beauty,Low,No,5.0,46-55
+CUST0026,29,Male,Jaipur,Returning,20,131947.8,6597.39,Home & Kitchen,Very High,No,4.4,26-35
+CUST0027,39,Female,Chennai,New,1,5885.92,5885.92,Home & Kitchen,Low,No,3.5,36-45
+CUST0028,61,Male,Hyderabad,New,5,38332.15,7666.43,Sports,Medium,No,4.3,56-65
+CUST0029,42,Male,Pune,Returning,9,5730.66,636.74,Beauty,Medium,No,4.5,36-45
+CUST0030,44,Female,Chennai,New,17,33461.61,1968.33,Electronics,Very High,Yes,4.6,36-45
+CUST0031,59,Female,Pune,New,9,5010.48,556.72,Home & Kitchen,Medium,No,3.6,56-65
+CUST0032,45,Male,Delhi,Returning,11,58916.66,5356.06,Beauty,High,Yes,3.5,36-45
+CUST0033,33,Male,Delhi,Returning,15,108528.45,7235.23,Beauty,Very High,No,3.4,26-35
+CUST0034,32,Female,Lucknow,Returning,6,13956.72,2326.12,Electronics,Medium,Yes,4.9,26-35
+CUST0035,64,Female,Bengaluru,New,3,22358.28,7452.76,Sports,Low,Yes,4.3,56-65
+CUST0036,61,Female,Mumbai,New,17,16184.17,952.01,Sports,Very High,Yes,3.5,56-65
+CUST0037,20,Male,Mumbai,Returning,5,37541.35,7508.27,Fashion,Medium,No,4.1,18-25
+CUST0038,54,Male,Pune,New,12,37646.04,3137.17,Sports,High,Yes,3.9,46-55
+CUST0039,24,Male,Lucknow,Returning,18,22691.88,1260.66,Electronics,Very High,Yes,3.5,18-25
+CUST0040,38,Female,Mumbai,New,14,58016.56,4144.04,Electronics,High,No,4.0,36-45
+CUST0041,26,Male,Hyderabad,Returning,11,26684.02,2425.82,Electronics,High,No,4.1,26-35
+CUST0042,56,Male,Mumbai,New,9,23728.95,2636.55,Electronics,Medium,Yes,5.0,56-65
+CUST0043,35,Female,Kolkata,Returning,2,5609.34,2804.67,Sports,Low,Yes,3.6,26-35
+CUST0044,21,Male,Jaipur,Returning,12,78272.28,6522.69,Electronics,High,No,3.1,18-25
+CUST0045,42,Female,Lucknow,Returning,3,13631.13,4543.71,Fashion,Low,No,3.4,36-45
+CUST0046,31,Female,Hyderabad,New,3,8504.43,2834.81,Electronics,Low,Yes,3.5,26-35
+CUST0047,26,Female,Chennai,Returning,1,5077.5,5077.5,Fashion,Low,No,3.8,26-35
+CUST0048,43,Male,Hyderabad,Returning,8,46969.04,5871.13,Electronics,Medium,Yes,3.4,36-45
+CUST0049,19,Male,Bengaluru,Returning,8,20357.44,2544.68,Home & Kitchen,Medium,No,4.5,18-25
+CUST0050,37,Female,Chennai,Returning,11,39617.82,3601.62,Electronics,High,No,3.4,36-45
+CUST0051,45,Female,Ahmedabad,New,9,12727.35,1414.15,Sports,Medium,Yes,4.0,36-45
+CUST0052,64,Female,Jaipur,New,5,9293.1,1858.62,Beauty,Medium,Yes,5.0,56-65
+CUST0053,24,Male,Jaipur,Returning,14,78517.32,5608.38,Electronics,High,No,4.3,18-25
+CUST0054,61,Female,Jaipur,New,3,5582.37,1860.79,Sports,Low,No,4.2,56-65
+CUST0055,25,Female,Jaipur,Returning,5,22193.65,4438.73,Electronics,Medium,Yes,5.0,18-25
+CUST0056,64,Female,Pune,Returning,5,29089.25,5817.85,Fashion,Medium,No,4.7,56-65
+CUST0057,52,Female,Jaipur,Returning,19,24730.02,1301.58,Electronics,Very High,No,4.3,46-55
+CUST0058,31,Female,Jaipur,Returning,14,66567.76,4754.84,Fashion,High,Yes,3.8,26-35
+CUST0059,34,Female,Jaipur,Returning,4,9696.88,2424.22,Home & Kitchen,Low,No,4.0,26-35
+CUST0060,53,Male,Lucknow,New,13,100385.35,7721.95,Beauty,High,No,4.0,46-55
+CUST0061,57,Male,Pune,New,10,41265.9,4126.59,Fashion,High,No,3.8,56-65
+CUST0062,21,Male,Delhi,Returning,18,117808.92,6544.94,Beauty,Very High,Yes,4.1,18-25
+CUST0063,19,Male,Hyderabad,New,8,37013.6,4626.7,Electronics,Medium,Yes,4.2,18-25
+CUST0064,23,Male,Hyderabad,New,8,6604.72,825.59,Beauty,Medium,Yes,3.3,18-25
+CUST0065,59,Male,Chennai,Returning,7,36740.48,5248.64,Fashion,Medium,No,4.9,56-65
+CUST0066,21,Male,Lucknow,Returning,8,61084.24,7635.53,Electronics,Medium,No,4.2,18-25
+CUST0067,46,Male,Kolkata,Returning,14,70169.26,5012.09,Electronics,High,No,3.9,46-55
+CUST0068,35,Female,Hyderabad,New,19,126234.48,6643.92,Electronics,Very High,No,4.1,26-35
+CUST0069,43,Female,Mumbai,New,6,42789.3,7131.55,Home & Kitchen,Medium,Yes,4.5,36-45
+CUST0070,61,Male,Kolkata,New,1,2210.6,2210.6,Sports,Low,No,3.2,56-65
+CUST0071,51,Female,Jaipur,Returning,15,31355.1,2090.34,Electronics,Very High,Yes,3.9,46-55
+CUST0072,27,Female,Jaipur,Returning,1,5082.36,5082.36,Beauty,Low,No,3.3,26-35
+CUST0073,53,Male,Pune,Returning,17,60906.07,3582.71,Home & Kitchen,Very High,Yes,5.0,46-55
+CUST0074,31,Male,Kolkata,Returning,1,6798.96,6798.96,Sports,Low,No,4.1,26-35
+CUST0075,48,Male,Mumbai,Returning,15,108752.55,7250.17,Fashion,Very High,No,3.4,46-55
+CUST0076,65,Female,Pune,Returning,2,6301.32,3150.66,Fashion,Low,No,5.0,56-65
+CUST0077,32,Female,Chennai,New,14,31871.42,2276.53,Sports,High,Yes,3.7,26-35
+CUST0078,25,Male,Kolkata,Returning,8,50831.52,6353.94,Home & Kitchen,Medium,Yes,3.9,18-25
+CUST0079,31,Male,Lucknow,Returning,8,20488.4,2561.05,Fashion,Medium,Yes,3.9,26-35
+CUST0080,40,Male,Jaipur,Returning,19,126722.59,6669.61,Electronics,Very High,No,3.5,36-45
+CUST0081,57,Male,Jaipur,Returning,7,25746.28,3678.04,Fashion,Medium,Yes,4.1,56-65
+CUST0082,38,Male,Bengaluru,Returning,19,104625.78,5506.62,Home & Kitchen,Very High,No,2.8,36-45
+CUST0083,33,Male,Pune,Returning,6,7299.06,1216.51,Beauty,Medium,Yes,4.6,26-35
+CUST0084,62,Female,Delhi,Returning,6,31073.64,5178.94,Electronics,Medium,Yes,3.4,56-65
+CUST0085,35,Female,Delhi,Returning,3,11664.78,3888.26,Home & Kitchen,Low,No,3.8,26-35
+CUST0086,64,Male,Pune,New,7,34296.92,4899.56,Home & Kitchen,Medium,No,4.4,56-65
+CUST0087,41,Female,Lucknow,New,19,33442.09,1760.11,Home & Kitchen,Very High,No,3.9,36-45
+CUST0088,43,Male,Ahmedabad,Returning,8,48212.4,6026.55,Beauty,Medium,No,3.9,36-45
+CUST0089,42,Male,Pune,Returning,10,69709.8,6970.98,Sports,High,Yes,3.4,36-45
+CUST0090,62,Male,Lucknow,New,20,42511.0,2125.55,Fashion,Very High,Yes,5.0,56-65
+CUST0091,58,Female,Chennai,Returning,15,18267.9,1217.86,Sports,Very High,Yes,4.3,56-65
+CUST0092,46,Female,Jaipur,New,15,10159.35,677.29,Electronics,Very High,Yes,3.4,46-55
+CUST0093,32,Female,Mumbai,New,1,5314.79,5314.79,Electronics,Low,No,4.1,26-35
+CUST0094,62,Male,Ahmedabad,Returning,20,101064.2,5053.21,Fashion,Very High,Yes,3.4,56-65
+CUST0095,18,Female,Kolkata,New,7,32201.61,4600.23,Electronics,Medium,Yes,4.9,18-25
+CUST0096,42,Male,Ahmedabad,New,4,8958.4,2239.6,Fashion,Low,Yes,4.1,36-45
+CUST0097,24,Female,Mumbai,New,6,20590.74,3431.79,Electronics,Medium,Yes,3.5,18-25
+CUST0098,26,Male,Bengaluru,Returning,1,4958.57,4958.57,Beauty,Low,Yes,4.4,26-35
+CUST0099,41,Male,Jaipur,Returning,5,21128.75,4225.75,Electronics,Medium,No,3.8,36-45
+CUST0100,18,Female,Delhi,Returning,1,7908.39,7908.39,Beauty,Low,No,3.3,18-25
+CUST0101,61,Female,Lucknow,Returning,4,6093.2,1523.3,Electronics,Low,No,4.2,56-65
+CUST0102,25,Male,Pune,New,2,11427.16,5713.58,Sports,Low,No,4.2,18-25
+CUST0103,41,Female,Pune,Returning,10,35323.9,3532.39,Beauty,High,Yes,4.6,36-45
+CUST0104,28,Male,Delhi,New,5,18557.5,3711.5,Electronics,Medium,No,4.0,26-35
+CUST0105,34,Female,Ahmedabad,Returning,10,58819.8,5881.98,Beauty,High,Yes,4.1,26-35
+CUST0106,25,Female,Jaipur,Returning,1,5693.27,5693.27,Home & Kitchen,Low,Yes,4.1,18-25
+CUST0107,52,Female,Hyderabad,Returning,6,47606.52,7934.42,Beauty,Medium,No,4.9,46-55
+CUST0108,52,Female,Lucknow,New,13,19018.48,1462.96,Home & Kitchen,High,Yes,3.8,46-55
+CUST0109,50,Female,Chennai,Returning,15,19212.3,1280.82,Home & Kitchen,Very High,No,4.3,46-55
+CUST0110,22,Male,Mumbai,New,4,23730.16,5932.54,Beauty,Low,Yes,4.3,18-25
+CUST0111,59,Female,Ahmedabad,New,13,62892.7,4837.9,Fashion,High,No,4.2,56-65
+CUST0112,56,Male,Kolkata,Returning,20,51124.0,2556.2,Electronics,Very High,Yes,3.8,56-65
+CUST0113,58,Male,Bengaluru,New,15,16434.75,1095.65,Sports,Very High,Yes,4.1,56-65
+CUST0114,45,Male,Pune,Returning,8,9139.52,1142.44,Fashion,Medium,No,3.9,36-45
+CUST0115,24,Male,Ahmedabad,New,5,36032.15,7206.43,Home & Kitchen,Medium,Yes,5.0,18-25
+CUST0116,26,Female,Bengaluru,New,15,29085.0,1939.0,Electronics,Very High,Yes,3.7,26-35
+CUST0117,25,Male,Mumbai,Returning,4,11701.16,2925.29,Home & Kitchen,Low,Yes,3.5,18-25
+CUST0118,29,Female,Pune,Returning,12,26399.04,2199.92,Sports,High,No,4.0,26-35
+CUST0119,51,Male,Pune,Returning,13,41112.11,3162.47,Fashion,High,No,4.0,46-55
+CUST0120,50,Male,Hyderabad,Returning,2,2041.36,1020.68,Fashion,Low,Yes,4.1,46-55
+CUST0121,65,Male,Ahmedabad,Returning,19,83466.05,4392.95,Beauty,Very High,No,3.7,56-65
+CUST0122,40,Male,Jaipur,New,19,19134.71,1007.09,Beauty,Very High,No,4.1,36-45
+CUST0123,41,Male,Delhi,Returning,4,26010.68,6502.67,Fashion,Low,No,4.1,36-45
+CUST0124,54,Female,Delhi,Returning,4,9011.36,2252.84,Fashion,Low,No,4.5,46-55
+CUST0125,52,Male,Chennai,Returning,11,50050.99,4550.09,Sports,High,Yes,4.1,46-55
+CUST0126,61,Female,Kolkata,Returning,5,35502.95,7100.59,Beauty,Medium,No,4.1,56-65
+CUST0127,57,Male,Bengaluru,Returning,20,107631.6,5381.58,Electronics,Very High,Yes,4.3,56-65
+CUST0128,39,Male,Ahmedabad,Returning,11,49468.98,4497.18,Electronics,High,Yes,4.5,36-45
+CUST0129,44,Female,Lucknow,Returning,10,29325.0,2932.5,Home & Kitchen,High,No,3.5,36-45
+CUST0130,52,Male,Kolkata,New,8,23980.08,2997.51,Fashion,Medium,No,3.3,46-55
+CUST0131,18,Male,Hyderabad,New,6,33126.9,5521.15,Fashion,Medium,Yes,4.9,18-25
+CUST0132,52,Male,Pune,Returning,6,47736.3,7956.05,Sports,Medium,Yes,4.4,46-55
+CUST0133,54,Male,Jaipur,New,8,43710.32,5463.79,Electronics,Medium,No,3.9,46-55
+CUST0134,64,Female,Ahmedabad,Returning,15,70250.7,4683.38,Beauty,Very High,Yes,4.0,56-65
+CUST0135,31,Male,Kolkata,Returning,14,83718.32,5979.88,Fashion,High,Yes,3.8,26-35
+CUST0136,20,Female,Kolkata,Returning,11,43879.44,3989.04,Beauty,High,Yes,4.1,18-25
+CUST0137,18,Female,Jaipur,New,12,11412.84,951.07,Beauty,High,Yes,3.5,18-25
+CUST0138,22,Male,Chennai,New,13,61323.99,4717.23,Electronics,High,No,4.5,18-25
+CUST0139,43,Female,Bengaluru,Returning,8,61457.52,7682.19,Home & Kitchen,Medium,Yes,4.1,36-45
+CUST0140,31,Male,Bengaluru,Returning,18,32665.86,1814.77,Electronics,Very High,No,4.1,26-35
+CUST0141,56,Female,Kolkata,Returning,1,5675.04,5675.04,Sports,Low,Yes,3.5,56-65
+CUST0142,44,Male,Mumbai,Returning,15,30105.0,2007.0,Sports,Very High,No,4.3,36-45
+CUST0143,26,Female,Kolkata,Returning,8,36149.68,4518.71,Fashion,Medium,No,3.5,26-35
+CUST0144,32,Male,Kolkata,Returning,11,13475.77,1225.07,Fashion,High,No,3.6,26-35
+CUST0145,32,Male,Jaipur,Returning,12,46533.36,3877.78,Fashion,High,No,4.0,26-35
+CUST0146,43,Female,Pune,New,12,74054.64,6171.22,Beauty,High,No,5.0,36-45
+CUST0147,59,Female,Jaipur,Returning,4,12427.16,3106.79,Fashion,Low,Yes,4.1,56-65
+CUST0148,30,Male,Ahmedabad,Returning,16,87789.44,5486.84,Fashion,Very High,No,2.6,26-35
+CUST0149,49,Male,Kolkata,Returning,4,25863.48,6465.87,Fashion,Low,No,3.6,46-55
+CUST0150,56,Female,Bengaluru,New,5,37269.15,7453.83,Electronics,Medium,Yes,4.4,56-65
+CUST0151,49,Female,Lucknow,Returning,5,11299.1,2259.82,Beauty,Medium,Yes,3.4,46-55
+CUST0152,21,Female,Bengaluru,Returning,8,27958.96,3494.87,Electronics,Medium,No,4.5,18-25
+CUST0153,47,Female,Delhi,Returning,10,16431.2,1643.12,Home & Kitchen,High,No,4.1,46-55
+CUST0154,54,Female,Chennai,New,17,135041.71,7943.63,Electronics,Very High,Yes,4.5,46-55
+CUST0155,40,Female,Hyderabad,Returning,9,67072.59,7452.51,Fashion,Medium,Yes,3.7,36-45
+CUST0156,56,Male,Ahmedabad,Returning,19,86443.92,4549.68,Home & Kitchen,Very High,No,3.6,56-65
+CUST0157,62,Male,Ahmedabad,New,14,95413.5,6815.25,Sports,High,Yes,4.3,56-65
+CUST0158,32,Female,Chennai,Returning,8,35257.44,4407.18,Beauty,Medium,No,4.0,26-35
+CUST0159,60,Female,Lucknow,Returning,9,46592.01,5176.89,Fashion,Medium,No,4.0,56-65
+CUST0160,46,Male,Hyderabad,Returning,11,12852.73,1168.43,Electronics,High,No,4.9,46-55
+CUST0161,53,Male,Pune,Returning,1,6164.53,6164.53,Sports,Low,Yes,4.3,46-55
+CUST0162,30,Female,Kolkata,New,14,20409.9,1457.85,Fashion,High,No,2.9,26-35
+CUST0163,49,Male,Hyderabad,New,5,33477.55,6695.51,Electronics,Medium,No,4.4,46-55
+CUST0164,24,Male,Lucknow,Returning,14,89112.94,6365.21,Sports,High,No,4.4,18-25
+CUST0165,39,Male,Mumbai,New,4,23262.36,5815.59,Beauty,Low,Yes,4.7,36-45
+CUST0166,45,Male,Delhi,New,1,771.2,771.2,Sports,Low,Yes,3.5,36-45
+CUST0167,19,Male,Hyderabad,New,19,52695.74,2773.46,Sports,Very High,No,4.2,18-25
+CUST0168,59,Male,Hyderabad,New,8,19786.72,2473.34,Sports,Medium,Yes,4.1,56-65
+CUST0169,62,Male,Delhi,Returning,15,48015.3,3201.02,Electronics,Very High,Yes,3.5,56-65
+CUST0170,23,Female,Kolkata,New,15,17359.8,1157.32,Electronics,Very High,Yes,4.5,18-25
+CUST0171,45,Male,Hyderabad,Returning,9,67744.62,7527.18,Home & Kitchen,Medium,No,3.9,36-45
+CUST0172,45,Female,Delhi,New,9,41881.68,4653.52,Home & Kitchen,Medium,Yes,4.6,36-45
+CUST0173,61,Female,Delhi,Returning,10,27914.3,2791.43,Fashion,High,Yes,3.6,56-65
+CUST0174,61,Male,Delhi,New,20,69547.2,3477.36,Fashion,Very High,Yes,3.2,56-65
+CUST0175,37,Female,Jaipur,Returning,9,34686.18,3854.02,Fashion,Medium,No,3.9,36-45
+CUST0176,47,Male,Lucknow,Returning,3,15013.38,5004.46,Home & Kitchen,Low,Yes,4.1,46-55
+CUST0177,28,Female,Jaipur,New,20,87352.0,4367.6,Electronics,Very High,Yes,3.7,26-35
+CUST0178,45,Male,Mumbai,Returning,11,81349.84,7395.44,Fashion,High,Yes,2.5,36-45
+CUST0179,42,Female,Pune,New,6,25363.38,4227.23,Home & Kitchen,Medium,No,4.2,36-45
+CUST0180,56,Female,Jaipur,Returning,2,15882.38,7941.19,Beauty,Low,Yes,4.2,56-65
+CUST0181,50,Male,Jaipur,New,7,48199.83,6885.69,Electronics,Medium,Yes,4.4,46-55
+CUST0182,18,Male,Lucknow,Returning,18,37148.94,2063.83,Home & Kitchen,Very High,Yes,3.8,18-25
+CUST0183,44,Female,Pune,New,2,14958.92,7479.46,Beauty,Low,No,3.8,36-45
+CUST0184,30,Female,Chennai,Returning,17,23336.75,1372.75,Fashion,Very High,No,4.8,26-35
+CUST0185,58,Male,Delhi,New,11,72939.57,6630.87,Electronics,High,No,3.1,56-65
+CUST0186,20,Female,Ahmedabad,New,12,40256.04,3354.67,Fashion,High,No,3.9,18-25
+CUST0187,56,Male,Pune,Returning,19,134611.39,7084.81,Fashion,Very High,Yes,4.1,56-65
+CUST0188,23,Female,Mumbai,Returning,7,49073.01,7010.43,Sports,Medium,No,4.3,18-25
+CUST0189,25,Male,Kolkata,New,20,130888.8,6544.44,Electronics,Very High,Yes,4.1,18-25
+CUST0190,44,Female,Mumbai,New,6,38551.38,6425.23,Home & Kitchen,Medium,Yes,3.5,36-45
+CUST0191,26,Male,Delhi,New,1,2785.09,2785.09,Electronics,Low,Yes,4.6,26-35
+CUST0192,54,Male,Pune,New,17,18817.13,1106.89,Fashion,Very High,Yes,4.0,46-55
+CUST0193,50,Male,Mumbai,New,11,38745.85,3522.35,Home & Kitchen,High,No,3.1,46-55
+CUST0194,59,Male,Mumbai,Returning,18,32425.74,1801.43,Fashion,Very High,Yes,4.1,56-65
+CUST0195,61,Male,Chennai,New,17,97106.21,5712.13,Fashion,Very High,No,4.3,56-65
+CUST0196,41,Male,Chennai,New,7,21670.25,3095.75,Electronics,Medium,Yes,5.0,36-45
+CUST0197,32,Female,Pune,Returning,17,132890.36,7817.08,Fashion,Very High,Yes,4.2,26-35
+CUST0198,49,Male,Delhi,Returning,20,106145.8,5307.29,Home & Kitchen,Very High,No,3.2,46-55
+CUST0199,49,Male,Jaipur,New,9,60017.4,6668.6,Fashion,Medium,No,3.2,46-55
+CUST0200,41,Male,Bengaluru,New,17,25396.98,1493.94,Sports,Very High,No,4.7,36-45
+CUST0201,58,Male,Hyderabad,Returning,20,139302.2,6965.11,Home & Kitchen,Very High,Yes,3.6,56-65
+CUST0202,29,Male,Ahmedabad,New,8,59365.44,7420.68,Fashion,Medium,Yes,3.1,26-35
+CUST0203,56,Male,Hyderabad,Returning,17,70600.32,4152.96,Electronics,Very High,No,4.6,56-65
+CUST0204,19,Male,Lucknow,New,7,35328.3,5046.9,Home & Kitchen,Medium,No,3.7,18-25
+CUST0205,20,Male,Chennai,Returning,1,6236.07,6236.07,Beauty,Low,Yes,4.5,18-25
+CUST0206,54,Female,Pune,New,13,23546.77,1811.29,Fashion,High,No,3.5,46-55
+CUST0207,34,Female,Hyderabad,Returning,19,81115.75,4269.25,Beauty,Very High,No,4.8,26-35
+CUST0208,19,Male,Delhi,Returning,19,66309.43,3489.97,Fashion,Very High,No,4.5,18-25
+CUST0209,19,Male,Ahmedabad,Returning,17,27162.6,1597.8,Beauty,Very High,No,3.6,18-25
+CUST0210,45,Female,Hyderabad,New,13,42334.63,3256.51,Electronics,High,No,3.1,36-45
+CUST0211,40,Male,Ahmedabad,New,16,16180.64,1011.29,Sports,Very High,Yes,5.0,36-45
+CUST0212,54,Female,Kolkata,New,8,5548.72,693.59,Home & Kitchen,Medium,Yes,3.9,46-55
+CUST0213,49,Male,Delhi,New,19,28761.25,1513.75,Fashion,Very High,No,3.6,46-55
+CUST0214,50,Female,Bengaluru,New,18,139020.48,7723.36,Fashion,Very High,Yes,4.8,46-55
+CUST0215,18,Female,Mumbai,Returning,1,4621.47,4621.47,Fashion,Low,Yes,4.5,18-25
+CUST0216,36,Female,Ahmedabad,Returning,14,108411.38,7743.67,Sports,High,Yes,4.7,36-45
+CUST0217,19,Female,Delhi,Returning,19,71130.87,3743.73,Fashion,Very High,Yes,3.9,18-25
+CUST0218,61,Male,Ahmedabad,Returning,15,42579.3,2838.62,Electronics,Very High,No,5.0,56-65
+CUST0219,43,Male,Ahmedabad,Returning,18,77329.08,4296.06,Home & Kitchen,Very High,No,3.3,36-45
+CUST0220,49,Female,Jaipur,New,2,7592.68,3796.34,Home & Kitchen,Low,Yes,3.7,46-55
+CUST0221,23,Female,Jaipur,Returning,17,21972.33,1292.49,Home & Kitchen,Very High,Yes,4.2,18-25
+CUST0222,49,Male,Delhi,New,18,95511.6,5306.2,Home & Kitchen,Very High,No,4.6,46-55
+CUST0223,21,Male,Jaipur,Returning,6,12721.74,2120.29,Fashion,Medium,No,4.4,18-25
+CUST0224,28,Male,Lucknow,Returning,19,97791.29,5146.91,Sports,Very High,No,4.0,26-35
+CUST0225,34,Male,Bengaluru,Returning,4,21506.04,5376.51,Fashion,Low,Yes,3.7,26-35
+CUST0226,55,Female,Pune,Returning,1,1640.19,1640.19,Electronics,Low,Yes,4.6,46-55
+CUST0227,41,Male,Delhi,New,8,7680.96,960.12,Beauty,Medium,Yes,4.4,36-45
+CUST0228,22,Male,Delhi,Returning,7,44489.97,6355.71,Home & Kitchen,Medium,No,3.5,18-25
+CUST0229,51,Male,Lucknow,Returning,3,11845.5,3948.5,Fashion,Low,No,3.5,46-55
+CUST0230,23,Male,Chennai,Returning,10,9362.3,936.23,Home & Kitchen,High,No,3.7,18-25
+CUST0231,39,Male,Chennai,Returning,10,79615.0,7961.5,Electronics,High,Yes,3.6,36-45
+CUST0232,28,Female,Jaipur,New,19,17733.65,933.35,Fashion,Very High,No,4.6,26-35
+CUST0233,65,Female,Pune,New,14,79978.64,5712.76,Sports,High,No,4.2,56-65
+CUST0234,33,Female,Jaipur,New,2,15755.18,7877.59,Electronics,Low,Yes,4.3,26-35
+CUST0235,50,Male,Kolkata,New,1,2293.85,2293.85,Fashion,Low,Yes,4.1,46-55
+CUST0236,26,Female,Kolkata,Returning,18,28203.66,1566.87,Beauty,Very High,Yes,4.1,26-35
+CUST0237,23,Female,Mumbai,Returning,7,9872.73,1410.39,Sports,Medium,Yes,3.1,18-25
+CUST0238,33,Female,Kolkata,Returning,8,22196.48,2774.56,Fashion,Medium,Yes,4.4,26-35
+CUST0239,46,Male,Chennai,Returning,1,1257.84,1257.84,Home & Kitchen,Low,Yes,3.7,46-55
+CUST0240,20,Male,Bengaluru,Returning,3,17073.63,5691.21,Home & Kitchen,Low,Yes,4.0,18-25
+CUST0241,37,Male,Kolkata,Returning,8,7737.52,967.19,Sports,Medium,Yes,3.7,36-45
+CUST0242,53,Male,Jaipur,New,15,64810.05,4320.67,Sports,Very High,Yes,4.1,46-55
+CUST0243,36,Male,Ahmedabad,Returning,5,39876.15,7975.23,Electronics,Medium,No,4.3,36-45
+CUST0244,43,Male,Delhi,New,3,19814.34,6604.78,Fashion,Low,No,3.4,36-45
+CUST0245,20,Male,Bengaluru,New,19,97168.85,5114.15,Fashion,Very High,No,4.1,18-25
+CUST0246,36,Female,Bengaluru,Returning,1,2796.9,2796.9,Beauty,Low,Yes,3.8,36-45
+CUST0247,37,Male,Jaipur,New,15,77688.3,5179.22,Home & Kitchen,Very High,No,4.7,36-45
+CUST0248,49,Male,Delhi,New,8,35622.48,4452.81,Home & Kitchen,Medium,Yes,3.4,46-55
+CUST0249,24,Female,Chennai,New,2,7391.26,3695.63,Sports,Low,No,3.4,18-25
+CUST0250,58,Female,Bengaluru,New,3,4440.99,1480.33,Electronics,Low,Yes,3.8,56-65
+CUST0251,50,Female,Mumbai,Returning,14,100093.42,7149.53,Fashion,High,No,3.5,46-55
+CUST0252,57,Female,Jaipur,New,14,54227.32,3873.38,Fashion,High,Yes,3.9,56-65
+CUST0253,56,Female,Bengaluru,New,11,21556.37,1959.67,Fashion,High,No,3.7,56-65
+CUST0254,35,Female,Pune,Returning,16,52131.2,3258.2,Electronics,Very High,Yes,4.0,26-35
+CUST0255,57,Male,Delhi,Returning,4,14423.88,3605.97,Electronics,Low,Yes,4.6,56-65
+CUST0256,18,Male,Kolkata,Returning,20,134130.6,6706.53,Beauty,Very High,Yes,4.0,18-25
+CUST0257,28,Male,Bengaluru,New,5,30010.55,6002.11,Sports,Medium,No,4.1,26-35
+CUST0258,45,Male,Jaipur,Returning,14,87777.06,6269.79,Home & Kitchen,High,No,3.4,36-45
+CUST0259,42,Male,Kolkata,Returning,16,9323.68,582.73,Home & Kitchen,Very High,No,3.9,36-45
+CUST0260,40,Female,Mumbai,Returning,18,65180.7,3621.15,Fashion,Very High,Yes,3.8,36-45
+CUST0261,48,Female,Kolkata,Returning,7,28770.56,4110.08,Beauty,Medium,Yes,4.4,46-55
+CUST0262,47,Female,Pune,Returning,10,6439.4,643.94,Beauty,High,No,3.6,46-55
+CUST0263,59,Male,Chennai,New,7,17140.2,2448.6,Home & Kitchen,Medium,Yes,3.5,56-65
+CUST0264,52,Female,Bengaluru,Returning,1,6202.17,6202.17,Electronics,Low,No,4.2,46-55
+CUST0265,24,Female,Hyderabad,Returning,19,29038.08,1528.32,Electronics,Very High,No,5.0,18-25
+CUST0266,33,Male,Hyderabad,Returning,16,72237.28,4514.83,Electronics,Very High,No,3.9,26-35
+CUST0267,43,Female,Kolkata,New,19,40166.19,2114.01,Home & Kitchen,Very High,Yes,4.1,36-45
+CUST0268,65,Male,Lucknow,New,4,2363.64,590.91,Beauty,Low,Yes,4.5,56-65
+CUST0269,19,Male,Delhi,New,18,41562.18,2309.01,Sports,Very High,Yes,4.3,18-25
+CUST0270,18,Female,Hyderabad,New,2,15638.1,7819.05,Fashion,Low,No,4.3,18-25
+CUST0271,65,Male,Lucknow,New,1,6511.53,6511.53,Beauty,Low,Yes,3.9,56-65
+CUST0272,29,Male,Hyderabad,Returning,15,115452.3,7696.82,Sports,Very High,Yes,4.0,26-35
+CUST0273,22,Female,Lucknow,Returning,5,20794.55,4158.91,Fashion,Medium,Yes,3.6,18-25
+CUST0274,54,Female,Delhi,Returning,20,26460.4,1323.02,Fashion,Very High,Yes,4.3,46-55
+CUST0275,49,Male,Ahmedabad,Returning,11,50706.7,4609.7,Sports,High,No,4.3,46-55
+CUST0276,26,Male,Hyderabad,Returning,10,39078.3,3907.83,Fashion,High,No,4.4,26-35
+CUST0277,58,Male,Pune,New,2,13665.36,6832.68,Sports,Low,Yes,3.7,56-65
+CUST0278,52,Female,Bengaluru,New,3,3706.86,1235.62,Sports,Low,Yes,4.5,46-55
+CUST0279,36,Male,Lucknow,New,12,49941.72,4161.81,Home & Kitchen,High,No,4.6,36-45
+CUST0280,65,Male,Bengaluru,Returning,20,32507.2,1625.36,Beauty,Very High,Yes,3.3,56-65
+CUST0281,33,Female,Jaipur,Returning,5,14675.35,2935.07,Beauty,Medium,No,3.8,26-35
+CUST0282,20,Female,Jaipur,New,5,30150.9,6030.18,Beauty,Medium,No,4.6,18-25
+CUST0283,37,Male,Delhi,Returning,6,24420.84,4070.14,Fashion,Medium,Yes,3.6,36-45
+CUST0284,41,Male,Lucknow,Returning,9,29872.44,3319.16,Electronics,Medium,Yes,4.3,36-45
+CUST0285,50,Female,Mumbai,Returning,2,6917.14,3458.57,Fashion,Low,No,4.0,46-55
+CUST0286,41,Male,Jaipur,Returning,12,47350.2,3945.85,Home & Kitchen,High,Yes,4.2,36-45
+CUST0287,28,Male,Delhi,Returning,3,19162.86,6387.62,Electronics,Low,Yes,4.0,26-35
+CUST0288,25,Female,Jaipur,New,20,143812.8,7190.64,Electronics,Very High,Yes,4.4,18-25
+CUST0289,53,Male,Jaipur,Returning,12,91980.12,7665.01,Electronics,High,Yes,3.4,46-55
+CUST0290,55,Female,Mumbai,New,17,108830.26,6401.78,Beauty,Very High,No,3.5,46-55
+CUST0291,57,Male,Hyderabad,Returning,10,28655.5,2865.55,Sports,High,No,4.8,56-65
+CUST0292,37,Male,Kolkata,Returning,14,79254.14,5661.01,Sports,High,No,5.0,36-45
+CUST0293,52,Male,Ahmedabad,New,17,64294.34,3782.02,Home & Kitchen,Very High,Yes,4.0,46-55
+CUST0294,65,Male,Jaipur,Returning,18,43380.54,2410.03,Sports,Very High,Yes,4.9,56-65
+CUST0295,42,Male,Jaipur,Returning,19,129324.26,6806.54,Beauty,Very High,No,3.6,36-45
+CUST0296,52,Male,Pune,New,17,13399.4,788.2,Home & Kitchen,Very High,Yes,3.7,46-55
+CUST0297,42,Female,Ahmedabad,Returning,14,101684.94,7263.21,Home & Kitchen,High,No,4.8,36-45
+CUST0298,46,Female,Mumbai,New,9,35649.72,3961.08,Electronics,Medium,Yes,4.4,46-55
+CUST0299,35,Female,Bengaluru,Returning,8,42232.08,5279.01,Sports,Medium,No,4.9,26-35
+CUST0300,63,Female,Lucknow,Returning,2,10890.3,5445.15,Fashion,Low,No,4.3,56-65
+CUST0301,35,Male,Jaipur,Returning,13,93773.94,7213.38,Fashion,High,Yes,3.4,26-35
+CUST0302,19,Female,Kolkata,Returning,7,36925.14,5275.02,Beauty,Medium,Yes,4.1,18-25
+CUST0303,52,Male,Lucknow,Returning,9,45940.5,5104.5,Fashion,Medium,Yes,4.7,46-55
+CUST0304,33,Female,Ahmedabad,Returning,11,10998.79,999.89,Fashion,High,Yes,3.9,26-35
+CUST0305,58,Female,Lucknow,New,14,61432.84,4388.06,Home & Kitchen,High,No,3.8,56-65
+CUST0306,53,Female,Hyderabad,Returning,4,6505.08,1626.27,Electronics,Low,No,4.3,46-55
+CUST0307,50,Female,Jaipur,New,13,78399.75,6030.75,Beauty,High,No,3.7,46-55
+CUST0308,21,Female,Lucknow,Returning,2,8683.32,4341.66,Home & Kitchen,Low,No,4.2,18-25
+CUST0309,50,Male,Bengaluru,New,5,28008.55,5601.71,Home & Kitchen,Medium,Yes,4.0,46-55
+CUST0310,31,Male,Bengaluru,New,11,8938.05,812.55,Home & Kitchen,High,Yes,3.7,26-35
+CUST0311,38,Female,Jaipur,Returning,6,6815.64,1135.94,Home & Kitchen,Medium,Yes,4.5,36-45
+CUST0312,65,Male,Chennai,New,18,105703.74,5872.43,Home & Kitchen,Very High,No,4.4,56-65
+CUST0313,37,Female,Bengaluru,New,10,10406.3,1040.63,Beauty,High,Yes,3.8,36-45
+CUST0314,25,Female,Lucknow,New,4,4137.72,1034.43,Beauty,Low,No,4.0,18-25
+CUST0315,24,Male,Delhi,New,9,5317.29,590.81,Beauty,Medium,Yes,3.9,18-25
+CUST0316,20,Female,Bengaluru,New,6,46042.56,7673.76,Sports,Medium,No,3.6,18-25
+CUST0317,34,Female,Ahmedabad,New,2,12062.62,6031.31,Electronics,Low,No,3.1,26-35
+CUST0318,50,Female,Chennai,Returning,17,53539.63,3149.39,Fashion,Very High,Yes,3.7,46-55
+CUST0319,65,Female,Lucknow,New,5,13620.1,2724.02,Sports,Medium,Yes,3.7,56-65
+CUST0320,29,Female,Mumbai,Returning,6,18736.62,3122.77,Fashion,Medium,No,4.1,26-35
+CUST0321,39,Female,Pune,New,12,75718.8,6309.9,Electronics,High,Yes,4.2,36-45
+CUST0322,39,Female,Mumbai,Returning,10,54602.8,5460.28,Home & Kitchen,High,Yes,3.6,36-45
+CUST0323,63,Male,Hyderabad,Returning,6,11333.82,1888.97,Electronics,Medium,No,4.2,56-65
+CUST0324,47,Male,Pune,New,8,14446.56,1805.82,Electronics,Medium,Yes,3.5,46-55
+CUST0325,55,Female,Hyderabad,Returning,2,2475.94,1237.97,Sports,Low,No,3.9,46-55
+CUST0326,55,Male,Pune,Returning,12,65427.24,5452.27,Home & Kitchen,High,No,3.7,46-55
+CUST0327,62,Female,Pune,Returning,13,81026.27,6232.79,Fashion,High,Yes,4.4,56-65
+CUST0328,25,Female,Delhi,Returning,7,17414.95,2487.85,Sports,Medium,Yes,4.1,18-25
+CUST0329,44,Male,Kolkata,New,10,6570.9,657.09,Sports,High,Yes,3.9,36-45
+CUST0330,44,Female,Ahmedabad,Returning,13,14511.77,1116.29,Fashion,High,No,3.7,36-45
+CUST0331,51,Female,Mumbai,Returning,17,131902.15,7758.95,Fashion,Very High,Yes,3.8,46-55
+CUST0332,38,Male,Bengaluru,Returning,14,38021.76,2715.84,Sports,High,No,5.0,36-45
+CUST0333,47,Male,Lucknow,New,2,12538.34,6269.17,Beauty,Low,Yes,3.7,46-55
+CUST0334,50,Male,Chennai,Returning,11,57034.78,5184.98,Beauty,High,Yes,4.3,46-55
+CUST0335,45,Male,Ahmedabad,Returning,1,3364.55,3364.55,Sports,Low,Yes,3.9,36-45
+CUST0336,64,Female,Hyderabad,New,19,38810.35,2042.65,Beauty,Very High,Yes,4.2,56-65
+CUST0337,50,Male,Delhi,New,4,5641.6,1410.4,Fashion,Low,Yes,4.5,46-55
+CUST0338,22,Female,Hyderabad,New,19,97139.4,5112.6,Beauty,Very High,No,3.8,18-25
+CUST0339,65,Male,Kolkata,Returning,11,69407.25,6309.75,Fashion,High,Yes,4.4,56-65
+CUST0340,36,Male,Chennai,Returning,8,42634.24,5329.28,Beauty,Medium,Yes,5.0,36-45
+CUST0341,21,Female,Delhi,Returning,11,49249.97,4477.27,Home & Kitchen,High,Yes,4.3,18-25
+CUST0342,52,Female,Hyderabad,Returning,4,3258.52,814.63,Electronics,Low,No,4.9,46-55
+CUST0343,34,Male,Kolkata,Returning,17,131982.39,7763.67,Home & Kitchen,Very High,Yes,4.3,26-35
+CUST0344,61,Male,Lucknow,New,7,45432.52,6490.36,Fashion,Medium,Yes,3.5,56-65
+CUST0345,45,Male,Lucknow,Returning,8,21569.36,2696.17,Fashion,Medium,No,4.2,36-45
+CUST0346,47,Male,Hyderabad,Returning,3,23549.34,7849.78,Home & Kitchen,Low,Yes,3.8,46-55
+CUST0347,46,Female,Ahmedabad,Returning,2,10028.22,5014.11,Fashion,Low,No,3.7,46-55
+CUST0348,63,Male,Chennai,Returning,15,73022.55,4868.17,Beauty,Very High,Yes,4.0,56-65
+CUST0349,23,Male,Jaipur,Returning,5,30552.75,6110.55,Electronics,Medium,Yes,3.9,18-25
+CUST0350,52,Male,Ahmedabad,Returning,1,6588.27,6588.27,Home & Kitchen,Low,No,3.4,46-55
+CUST0351,58,Female,Lucknow,Returning,4,21694.36,5423.59,Beauty,Low,Yes,5.0,56-65
+CUST0352,54,Female,Chennai,Returning,15,21910.8,1460.72,Beauty,Very High,No,4.4,46-55
+CUST0353,41,Male,Kolkata,Returning,20,60740.2,3037.01,Home & Kitchen,Very High,Yes,4.1,36-45
+CUST0354,46,Female,Delhi,New,19,141751.97,7460.63,Sports,Very High,No,4.0,46-55
+CUST0355,63,Male,Pune,New,3,6553.86,2184.62,Fashion,Low,No,4.7,56-65
+CUST0356,48,Male,Hyderabad,New,20,65825.0,3291.25,Electronics,Very High,Yes,5.0,46-55
+CUST0357,52,Female,Mumbai,Returning,11,41146.38,3740.58,Fashion,High,No,4.4,46-55
+CUST0358,50,Female,Chennai,New,17,64524.18,3795.54,Electronics,Very High,Yes,4.1,46-55
+CUST0359,38,Female,Bengaluru,New,13,66261.65,5097.05,Sports,High,No,4.8,36-45
+CUST0360,49,Female,Kolkata,New,11,83303.77,7573.07,Electronics,High,Yes,4.1,46-55
+CUST0361,40,Male,Jaipur,New,2,4610.4,2305.2,Beauty,Low,No,4.2,36-45
+CUST0362,50,Female,Pune,Returning,9,12701.34,1411.26,Beauty,Medium,Yes,4.6,46-55
+CUST0363,20,Male,Bengaluru,New,2,3962.06,1981.03,Electronics,Low,Yes,3.8,18-25
+CUST0364,35,Female,Jaipur,Returning,9,64367.46,7151.94,Home & Kitchen,Medium,No,2.9,26-35
+CUST0365,42,Male,Mumbai,Returning,9,48092.22,5343.58,Electronics,Medium,No,3.8,36-45
+CUST0366,59,Female,Lucknow,Returning,8,21154.4,2644.3,Home & Kitchen,Medium,Yes,4.4,56-65
+CUST0367,48,Male,Ahmedabad,New,17,112533.2,6619.6,Electronics,Very High,Yes,4.4,46-55
+CUST0368,20,Male,Hyderabad,Returning,1,6960.27,6960.27,Sports,Low,Yes,4.7,18-25
+CUST0369,57,Female,Delhi,Returning,11,75337.46,6848.86,Sports,High,Yes,3.8,56-65
+CUST0370,63,Male,Jaipur,Returning,8,59135.6,7391.95,Fashion,Medium,Yes,4.9,56-65
+CUST0371,41,Male,Pune,Returning,10,23918.1,2391.81,Electronics,High,No,4.1,36-45
+CUST0372,49,Male,Chennai,New,7,43139.67,6162.81,Beauty,Medium,Yes,4.3,46-55
+CUST0373,64,Male,Lucknow,New,3,11862.15,3954.05,Fashion,Low,No,4.5,56-65
+CUST0374,39,Male,Chennai,New,3,20444.97,6814.99,Sports,Low,No,3.2,36-45
+CUST0375,40,Male,Pune,Returning,18,107346.24,5963.68,Home & Kitchen,Very High,Yes,3.4,36-45
+CUST0376,19,Female,Chennai,New,5,31616.8,6323.36,Fashion,Medium,Yes,3.4,18-25
+CUST0377,44,Male,Jaipur,New,12,65054.52,5421.21,Sports,High,Yes,4.6,36-45
+CUST0378,59,Female,Kolkata,Returning,12,21968.64,1830.72,Home & Kitchen,High,Yes,3.8,56-65
+CUST0379,19,Female,Chennai,New,19,87166.3,4587.7,Sports,Very High,No,5.0,18-25
+CUST0380,43,Male,Ahmedabad,New,6,47310.12,7885.02,Sports,Medium,Yes,4.0,36-45
+CUST0381,34,Female,Mumbai,Returning,2,15060.82,7530.41,Electronics,Low,No,3.2,26-35
+CUST0382,57,Male,Delhi,New,12,9885.6,823.8,Electronics,High,Yes,3.6,56-65
+CUST0383,50,Female,Jaipur,Returning,19,32986.09,1736.11,Sports,Very High,Yes,4.1,46-55
+CUST0384,26,Male,Bengaluru,Returning,5,7439.85,1487.97,Sports,Medium,Yes,4.3,26-35
+CUST0385,60,Male,Pune,Returning,12,71338.2,5944.85,Electronics,High,Yes,3.5,56-65
+CUST0386,65,Female,Lucknow,Returning,17,112767.63,6633.39,Sports,Very High,Yes,4.3,56-65
+CUST0387,56,Female,Jaipur,Returning,17,35722.78,2101.34,Fashion,Very High,Yes,4.5,56-65
+CUST0388,46,Female,Kolkata,Returning,10,42939.0,4293.9,Fashion,High,No,3.6,46-55
+CUST0389,59,Male,Lucknow,Returning,17,115689.59,6805.27,Sports,Very High,No,5.0,56-65
+CUST0390,43,Female,Ahmedabad,Returning,15,89940.15,5996.01,Electronics,Very High,Yes,3.7,36-45
+CUST0391,52,Male,Pune,Returning,12,54801.36,4566.78,Sports,High,Yes,3.5,46-55
+CUST0392,42,Male,Lucknow,Returning,16,78841.76,4927.61,Electronics,Very High,Yes,3.2,36-45
+CUST0393,41,Male,Chennai,Returning,19,81941.3,4312.7,Home & Kitchen,Very High,Yes,4.7,36-45
+CUST0394,30,Female,Jaipur,New,8,21852.88,2731.61,Fashion,Medium,Yes,4.0,26-35
+CUST0395,24,Male,Mumbai,New,17,80540.22,4737.66,Home & Kitchen,Very High,Yes,3.7,18-25
+CUST0396,53,Male,Pune,New,5,28333.2,5666.64,Beauty,Medium,Yes,3.2,46-55
+CUST0397,62,Female,Hyderabad,Returning,16,112798.72,7049.92,Electronics,Very High,Yes,3.8,56-65
+CUST0398,37,Male,Ahmedabad,Returning,6,31633.14,5272.19,Home & Kitchen,Medium,Yes,5.0,36-45
+CUST0399,18,Male,Delhi,Returning,8,49667.28,6208.41,Fashion,Medium,Yes,2.8,18-25
+CUST0400,25,Male,Pune,New,18,30609.72,1700.54,Electronics,Very High,No,3.7,18-25
+CUST0401,63,Female,Kolkata,Returning,12,47540.16,3961.68,Beauty,High,Yes,5.0,56-65
+CUST0402,33,Male,Jaipur,New,15,8549.85,569.99,Fashion,Very High,Yes,4.7,26-35
+CUST0403,31,Male,Chennai,New,9,21150.81,2350.09,Home & Kitchen,Medium,No,3.7,26-35
+CUST0404,29,Female,Delhi,Returning,13,77329.98,5948.46,Home & Kitchen,High,No,4.1,26-35
+CUST0405,40,Female,Delhi,Returning,15,119078.55,7938.57,Home & Kitchen,Very High,No,4.3,36-45
+CUST0406,32,Male,Ahmedabad,Returning,10,12438.4,1243.84,Electronics,High,No,4.1,26-35
+CUST0407,45,Female,Lucknow,Returning,16,56179.36,3511.21,Fashion,Very High,Yes,5.0,36-45
+CUST0408,51,Female,Kolkata,New,7,45503.71,6500.53,Fashion,Medium,Yes,4.2,46-55
+CUST0409,19,Female,Lucknow,Returning,17,34514.59,2030.27,Beauty,Very High,No,4.6,18-25
+CUST0410,49,Male,Chennai,Returning,7,32641.98,4663.14,Sports,Medium,Yes,4.1,46-55
+CUST0411,40,Female,Delhi,New,14,83972.42,5998.03,Home & Kitchen,High,Yes,2.9,36-45
+CUST0412,39,Female,Kolkata,Returning,15,76798.35,5119.89,Electronics,Very High,No,3.3,36-45
+CUST0413,42,Male,Kolkata,Returning,7,13371.33,1910.19,Fashion,Medium,Yes,3.5,36-45
+CUST0414,39,Male,Bengaluru,Returning,9,28488.42,3165.38,Electronics,Medium,Yes,3.9,36-45
+CUST0415,39,Male,Jaipur,Returning,19,121190.36,6378.44,Electronics,Very High,Yes,5.0,36-45
+CUST0416,59,Male,Delhi,Returning,16,74507.2,4656.7,Fashion,Very High,Yes,4.2,56-65
+CUST0417,23,Female,Delhi,New,8,4313.76,539.22,Fashion,Medium,Yes,3.9,18-25
+CUST0418,32,Male,Kolkata,Returning,18,111733.74,6207.43,Electronics,Very High,No,4.7,26-35
+CUST0419,60,Male,Lucknow,New,18,13767.12,764.84,Electronics,Very High,No,3.2,56-65
+CUST0420,54,Female,Delhi,New,20,121860.0,6093.0,Electronics,Very High,Yes,3.7,46-55
+CUST0421,50,Male,Kolkata,New,7,14130.2,2018.6,Electronics,Medium,No,3.6,46-55
+CUST0422,25,Female,Delhi,Returning,3,23056.65,7685.55,Electronics,Low,Yes,4.2,18-25
+CUST0423,61,Male,Kolkata,Returning,18,58672.08,3259.56,Fashion,Very High,Yes,4.5,56-65
+CUST0424,61,Male,Bengaluru,New,10,29519.9,2951.99,Home & Kitchen,High,No,4.3,56-65
+CUST0425,22,Male,Jaipur,Returning,7,11316.62,1616.66,Electronics,Medium,No,4.3,18-25
+CUST0426,56,Male,Kolkata,Returning,17,47464.51,2792.03,Fashion,Very High,No,3.8,56-65
+CUST0427,21,Male,Delhi,New,14,99048.32,7074.88,Fashion,High,No,4.2,18-25
+CUST0428,23,Female,Chennai,New,3,23917.53,7972.51,Electronics,Low,No,3.5,18-25
+CUST0429,62,Female,Jaipur,Returning,12,39147.84,3262.32,Electronics,High,No,4.4,56-65
+CUST0430,49,Male,Bengaluru,New,13,50239.54,3864.58,Fashion,High,Yes,3.7,46-55
+CUST0431,47,Female,Kolkata,Returning,2,11831.06,5915.53,Beauty,Low,No,3.4,46-55
+CUST0432,64,Female,Chennai,New,3,21439.41,7146.47,Fashion,Low,No,4.0,56-65
+CUST0433,52,Female,Kolkata,Returning,5,24739.15,4947.83,Electronics,Medium,No,2.9,46-55
+CUST0434,57,Male,Lucknow,Returning,11,37800.84,3436.44,Sports,High,Yes,4.8,56-65
+CUST0435,33,Male,Delhi,Returning,8,28757.28,3594.66,Fashion,Medium,Yes,4.4,26-35
+CUST0436,30,Male,Pune,Returning,12,68605.68,5717.14,Fashion,High,No,4.2,26-35
+CUST0437,59,Female,Ahmedabad,Returning,7,3668.98,524.14,Sports,Medium,Yes,3.1,56-65
+CUST0438,47,Female,Mumbai,Returning,15,77203.8,5146.92,Beauty,Very High,No,3.6,46-55
+CUST0439,36,Male,Lucknow,Returning,17,53825.4,3166.2,Fashion,Very High,Yes,4.0,36-45
+CUST0440,34,Male,Chennai,New,4,25825.92,6456.48,Home & Kitchen,Low,Yes,3.9,26-35
+CUST0441,36,Female,Lucknow,Returning,13,15566.59,1197.43,Electronics,High,No,3.1,36-45
+CUST0442,45,Female,Hyderabad,New,18,88407.36,4911.52,Electronics,Very High,Yes,3.3,36-45
+CUST0443,43,Female,Kolkata,Returning,1,4107.3,4107.3,Home & Kitchen,Low,Yes,3.8,36-45
+CUST0444,54,Female,Kolkata,New,16,85079.04,5317.44,Electronics,Very High,No,3.3,46-55
+CUST0445,43,Male,Mumbai,Returning,13,12823.2,986.4,Fashion,High,No,4.8,36-45
+CUST0446,40,Female,Mumbai,New,10,48498.8,4849.88,Sports,High,Yes,4.3,36-45
+CUST0447,26,Female,Hyderabad,Returning,12,56533.56,4711.13,Sports,High,No,3.6,26-35
+CUST0448,29,Male,Delhi,Returning,2,9409.9,4704.95,Fashion,Low,Yes,4.6,26-35
+CUST0449,18,Female,Ahmedabad,Returning,3,15078.48,5026.16,Home & Kitchen,Low,Yes,4.5,18-25
+CUST0450,18,Female,Pune,Returning,10,55735.1,5573.51,Home & Kitchen,High,Yes,4.2,18-25
+CUST0451,64,Male,Pune,New,2,13074.84,6537.42,Sports,Low,No,4.0,56-65
+CUST0452,51,Female,Bengaluru,Returning,13,32807.58,2523.66,Fashion,High,Yes,3.8,46-55
+CUST0453,49,Female,Bengaluru,Returning,13,86942.31,6687.87,Electronics,High,Yes,3.7,46-55
+CUST0454,65,Female,Delhi,New,18,76264.56,4236.92,Electronics,Very High,Yes,3.3,56-65
+CUST0455,42,Male,Bengaluru,Returning,3,3233.82,1077.94,Fashion,Low,No,4.8,36-45
+CUST0456,57,Male,Bengaluru,New,7,6573.91,939.13,Fashion,Medium,Yes,3.7,56-65
+CUST0457,62,Female,Hyderabad,New,14,42095.06,3006.79,Beauty,High,No,4.0,56-65
+CUST0458,18,Male,Hyderabad,Returning,20,127734.6,6386.73,Beauty,Very High,No,3.5,18-25
+CUST0459,33,Female,Bengaluru,New,17,98729.37,5807.61,Fashion,Very High,Yes,3.9,26-35
+CUST0460,56,Female,Lucknow,Returning,12,76975.32,6414.61,Fashion,High,Yes,5.0,56-65
+CUST0461,22,Male,Jaipur,Returning,16,70072.32,4379.52,Electronics,Very High,Yes,3.6,18-25
+CUST0462,39,Male,Jaipur,New,12,45617.88,3801.49,Sports,High,No,4.8,36-45
+CUST0463,46,Male,Delhi,Returning,15,24088.35,1605.89,Sports,Very High,Yes,4.0,46-55
+CUST0464,20,Male,Pune,New,10,29614.5,2961.45,Sports,High,Yes,4.4,18-25
+CUST0465,29,Female,Mumbai,Returning,7,26286.05,3755.15,Sports,Medium,Yes,4.7,26-35
+CUST0466,43,Female,Delhi,New,20,23290.0,1164.5,Electronics,Very High,No,4.1,36-45
+CUST0467,33,Female,Bengaluru,New,5,10772.95,2154.59,Electronics,Medium,Yes,3.8,26-35
+CUST0468,54,Female,Hyderabad,Returning,1,4986.69,4986.69,Home & Kitchen,Low,Yes,3.9,46-55
+CUST0469,39,Male,Kolkata,Returning,17,102296.99,6017.47,Sports,Very High,No,3.9,36-45
+CUST0470,46,Female,Lucknow,Returning,3,23962.83,7987.61,Electronics,Low,No,5.0,46-55
+CUST0471,31,Female,Chennai,Returning,13,97478.55,7498.35,Electronics,High,No,3.2,26-35
+CUST0472,45,Female,Hyderabad,Returning,14,74469.36,5319.24,Beauty,High,Yes,3.0,36-45
+CUST0473,22,Female,Jaipur,Returning,18,65868.48,3659.36,Electronics,Very High,Yes,3.1,18-25
+CUST0474,64,Male,Hyderabad,Returning,4,21085.32,5271.33,Fashion,Low,Yes,3.5,56-65
+CUST0475,47,Female,Lucknow,New,18,115063.02,6392.39,Beauty,Very High,Yes,4.4,46-55
+CUST0476,63,Male,Mumbai,Returning,5,6937.6,1387.52,Fashion,Medium,Yes,4.4,56-65
+CUST0477,22,Male,Bengaluru,Returning,16,57188.64,3574.29,Electronics,Very High,No,3.7,18-25
+CUST0478,29,Male,Kolkata,New,1,6798.52,6798.52,Beauty,Low,Yes,4.0,26-35
+CUST0479,33,Female,Jaipur,Returning,14,47302.5,3378.75,Home & Kitchen,High,Yes,3.4,26-35
+CUST0480,43,Female,Jaipur,Returning,15,71835.6,4789.04,Sports,Very High,No,3.4,36-45
+CUST0481,43,Female,Ahmedabad,Returning,9,44174.43,4908.27,Fashion,Medium,Yes,4.3,36-45
+CUST0482,65,Female,Pune,Returning,15,28253.55,1883.57,Electronics,Very High,Yes,4.6,56-65
+CUST0483,38,Female,Mumbai,New,17,54685.09,3216.77,Beauty,Very High,Yes,3.7,36-45
+CUST0484,56,Female,Jaipur,New,4,12035.32,3008.83,Home & Kitchen,Low,Yes,4.9,56-65
+CUST0485,53,Male,Pune,New,12,8357.76,696.48,Electronics,High,No,4.5,46-55
+CUST0486,50,Male,Jaipur,Returning,5,3407.2,681.44,Beauty,Medium,Yes,4.9,46-55
+CUST0487,47,Male,Bengaluru,New,5,33688.65,6737.73,Electronics,Medium,Yes,3.8,46-55
+CUST0488,54,Female,Pune,Returning,11,28028.33,2548.03,Fashion,High,No,4.8,46-55
+CUST0489,40,Female,Lucknow,New,6,26313.54,4385.59,Electronics,Medium,No,5.0,36-45
+CUST0490,27,Male,Ahmedabad,New,7,19183.08,2740.44,Fashion,Medium,No,3.8,26-35
+CUST0491,22,Male,Bengaluru,Returning,14,105771.26,7555.09,Fashion,High,No,3.9,18-25
+CUST0492,53,Female,Lucknow,Returning,11,26892.03,2444.73,Home & Kitchen,High,Yes,3.5,46-55
+CUST0493,51,Male,Kolkata,New,13,48391.59,3722.43,Beauty,High,Yes,3.4,46-55
+CUST0494,48,Female,Mumbai,Returning,2,14090.96,7045.48,Sports,Low,Yes,3.4,46-55
+CUST0495,27,Female,Mumbai,Returning,7,47701.5,6814.5,Electronics,Medium,Yes,3.6,26-35
+CUST0496,36,Male,Chennai,New,20,37915.2,1895.76,Electronics,Very High,No,4.2,36-45
+CUST0497,49,Male,Chennai,New,4,26079.28,6519.82,Electronics,Low,No,3.6,46-55
+CUST0498,18,Female,Pune,Returning,8,31491.2,3936.4,Electronics,Medium,Yes,4.1,18-25
+CUST0499,22,Female,Mumbai,Returning,20,82445.4,4122.27,Home & Kitchen,Very High,Yes,4.1,18-25
+CUST0500,62,Female,Pune,New,19,28520.9,1501.1,Beauty,Very High,Yes,3.7,56-65
+CUST0501,21,Female,Chennai,Returning,13,14358.63,1104.51,Beauty,High,No,4.0,18-25
+CUST0502,33,Male,Kolkata,Returning,14,83433.56,5959.54,Fashion,High,No,3.7,26-35
+CUST0503,41,Male,Jaipur,Returning,10,42234.6,4223.46,Fashion,High,No,3.8,36-45
+CUST0504,33,Female,Lucknow,Returning,11,41540.18,3776.38,Home & Kitchen,High,No,3.6,26-35
+CUST0505,19,Female,Hyderabad,Returning,2,11942.62,5971.31,Electronics,Low,No,4.0,18-25
+CUST0506,45,Male,Pune,Returning,9,56172.15,6241.35,Home & Kitchen,Medium,No,3.7,36-45
+CUST0507,49,Female,Kolkata,Returning,17,28760.77,1691.81,Sports,Very High,No,3.4,46-55
+CUST0508,44,Female,Lucknow,Returning,3,15230.07,5076.69,Fashion,Low,Yes,4.3,36-45
+CUST0509,37,Male,Mumbai,Returning,6,9090.96,1515.16,Beauty,Medium,Yes,4.3,36-45
+CUST0510,41,Male,Jaipur,Returning,5,30676.55,6135.31,Home & Kitchen,Medium,Yes,4.6,36-45
+CUST0511,29,Female,Lucknow,New,5,27135.8,5427.16,Electronics,Medium,Yes,3.4,26-35
+CUST0512,52,Male,Ahmedabad,Returning,15,115119.15,7674.61,Home & Kitchen,Very High,No,3.7,46-55
+CUST0513,50,Male,Chennai,Returning,17,17292.23,1017.19,Fashion,Very High,Yes,4.1,46-55
+CUST0514,50,Male,Lucknow,Returning,9,8351.19,927.91,Electronics,Medium,No,3.7,46-55
+CUST0515,60,Female,Hyderabad,Returning,3,7849.2,2616.4,Home & Kitchen,Low,Yes,4.3,56-65
+CUST0516,54,Female,Kolkata,Returning,20,49255.8,2462.79,Sports,Very High,Yes,4.3,46-55
+CUST0517,29,Female,Jaipur,New,17,39989.78,2352.34,Fashion,Very High,No,4.3,26-35
+CUST0518,20,Male,Bengaluru,Returning,10,72969.1,7296.91,Fashion,High,Yes,4.8,18-25
+CUST0519,18,Female,Lucknow,Returning,3,7114.8,2371.6,Sports,Low,Yes,4.4,18-25
+CUST0520,50,Female,Delhi,New,18,45713.16,2539.62,Beauty,Very High,Yes,4.1,46-55
+CUST0521,57,Female,Hyderabad,New,18,111518.82,6195.49,Beauty,Very High,No,3.9,56-65
+CUST0522,27,Female,Hyderabad,Returning,17,65841.85,3873.05,Fashion,Very High,Yes,3.9,26-35
+CUST0523,60,Male,Delhi,New,3,18975.99,6325.33,Sports,Low,No,3.4,56-65
+CUST0524,61,Female,Ahmedabad,New,3,2970.75,990.25,Electronics,Low,No,3.0,56-65
+CUST0525,46,Male,Bengaluru,Returning,6,24940.68,4156.78,Home & Kitchen,Medium,No,4.3,46-55
+CUST0526,30,Female,Chennai,Returning,13,9777.3,752.1,Electronics,High,No,4.7,26-35
+CUST0527,29,Male,Kolkata,Returning,15,14548.5,969.9,Home & Kitchen,Very High,Yes,3.8,26-35
+CUST0528,48,Male,Jaipur,Returning,9,65684.52,7298.28,Fashion,Medium,Yes,4.9,46-55
+CUST0529,63,Male,Kolkata,New,4,6177.36,1544.34,Fashion,Low,No,3.9,56-65
+CUST0530,19,Female,Bengaluru,Returning,14,62904.24,4493.16,Fashion,High,Yes,2.9,18-25
+CUST0531,52,Male,Kolkata,Returning,5,17916.1,3583.22,Electronics,Medium,Yes,4.5,46-55
+CUST0532,40,Female,Delhi,Returning,2,6210.14,3105.07,Home & Kitchen,Low,Yes,3.7,36-45
+CUST0533,34,Male,Hyderabad,Returning,11,79736.25,7248.75,Sports,High,No,4.6,26-35
+CUST0534,43,Male,Kolkata,Returning,9,5973.12,663.68,Sports,Medium,Yes,3.3,36-45
+CUST0535,25,Female,Pune,Returning,3,16435.26,5478.42,Electronics,Low,Yes,4.2,18-25
+CUST0536,46,Male,Lucknow,Returning,9,69529.14,7725.46,Beauty,Medium,No,3.6,46-55
+CUST0537,43,Male,Bengaluru,Returning,3,14103.78,4701.26,Home & Kitchen,Low,No,4.1,36-45
+CUST0538,27,Female,Ahmedabad,Returning,2,15052.34,7526.17,Fashion,Low,Yes,4.4,26-35
+CUST0539,43,Male,Pune,Returning,12,10703.16,891.93,Electronics,High,Yes,4.3,36-45
+CUST0540,51,Male,Delhi,Returning,10,36409.5,3640.95,Beauty,High,No,4.0,46-55
+CUST0541,58,Male,Mumbai,Returning,9,22060.62,2451.18,Sports,Medium,No,3.2,56-65
+CUST0542,24,Female,Delhi,Returning,15,89717.4,5981.16,Home & Kitchen,Very High,No,4.4,18-25
+CUST0543,21,Female,Ahmedabad,Returning,8,62877.84,7859.73,Fashion,Medium,Yes,4.6,18-25
+CUST0544,62,Female,Ahmedabad,Returning,5,12119.9,2423.98,Home & Kitchen,Medium,Yes,3.4,56-65
+CUST0545,28,Female,Pune,Returning,11,59469.41,5406.31,Electronics,High,No,3.5,26-35
+CUST0546,46,Male,Lucknow,Returning,2,3971.46,1985.73,Beauty,Low,No,4.6,46-55
+CUST0547,53,Male,Bengaluru,Returning,15,71099.7,4739.98,Beauty,Very High,Yes,3.9,46-55
+CUST0548,42,Female,Chennai,Returning,6,23876.94,3979.49,Electronics,Medium,Yes,3.5,36-45
+CUST0549,38,Male,Hyderabad,Returning,8,62320.32,7790.04,Sports,Medium,No,4.1,36-45
+CUST0550,53,Male,Pune,Returning,5,25319.75,5063.95,Fashion,Medium,Yes,3.6,46-55
+CUST0551,27,Male,Ahmedabad,Returning,16,49940.8,3121.3,Sports,Very High,Yes,4.1,26-35
+CUST0552,54,Male,Mumbai,Returning,18,24402.96,1355.72,Fashion,Very High,Yes,3.8,46-55
+CUST0553,26,Female,Jaipur,Returning,6,9806.1,1634.35,Electronics,Medium,Yes,3.8,26-35
+CUST0554,41,Male,Ahmedabad,New,5,10949.4,2189.88,Fashion,Medium,Yes,4.6,36-45
+CUST0555,52,Male,Lucknow,Returning,16,38116.0,2382.25,Fashion,Very High,No,2.6,46-55
+CUST0556,52,Male,Lucknow,Returning,13,89435.06,6879.62,Electronics,High,Yes,4.3,46-55
+CUST0557,65,Female,Ahmedabad,Returning,5,23545.85,4709.17,Home & Kitchen,Medium,Yes,4.5,56-65
+CUST0558,53,Male,Lucknow,Returning,13,57530.59,4425.43,Home & Kitchen,High,Yes,3.7,46-55
+CUST0559,35,Male,Pune,Returning,17,23133.09,1360.77,Beauty,Very High,Yes,4.5,26-35
+CUST0560,56,Female,Ahmedabad,Returning,18,125118.9,6951.05,Electronics,Very High,Yes,3.5,56-65
+CUST0561,49,Female,Ahmedabad,Returning,8,47368.88,5921.11,Home & Kitchen,Medium,Yes,3.6,46-55
+CUST0562,41,Male,Bengaluru,Returning,13,13097.63,1007.51,Electronics,High,No,3.6,36-45
+CUST0563,40,Male,Hyderabad,Returning,19,110366.44,5808.76,Beauty,Very High,Yes,4.5,36-45
+CUST0564,49,Male,Mumbai,New,3,13729.62,4576.54,Electronics,Low,Yes,3.0,46-55
+CUST0565,54,Male,Lucknow,Returning,8,8903.52,1112.94,Sports,Medium,Yes,4.9,46-55
+CUST0566,29,Male,Bengaluru,Returning,2,7874.5,3937.25,Beauty,Low,Yes,3.8,26-35
+CUST0567,30,Male,Chennai,Returning,8,33081.76,4135.22,Home & Kitchen,Medium,No,4.3,26-35
+CUST0568,40,Male,Chennai,Returning,13,22663.03,1743.31,Fashion,High,Yes,4.3,36-45
+CUST0569,42,Male,Kolkata,Returning,13,98705.62,7592.74,Electronics,High,No,4.1,36-45
+CUST0570,52,Female,Pune,New,1,6874.82,6874.82,Fashion,Low,Yes,3.7,46-55
+CUST0571,58,Female,Pune,Returning,6,33106.02,5517.67,Sports,Medium,No,4.7,56-65
+CUST0572,47,Female,Delhi,New,19,75377.18,3967.22,Sports,Very High,Yes,3.7,46-55
+CUST0573,34,Male,Mumbai,Returning,16,57411.84,3588.24,Electronics,Very High,No,3.6,26-35
+CUST0574,37,Male,Ahmedabad,Returning,8,43058.4,5382.3,Home & Kitchen,Medium,Yes,4.5,36-45
+CUST0575,65,Female,Lucknow,Returning,1,4590.74,4590.74,Beauty,Low,Yes,4.1,56-65
+CUST0576,42,Male,Mumbai,Returning,16,15472.8,967.05,Home & Kitchen,Very High,No,4.7,36-45
+CUST0577,39,Male,Kolkata,New,9,39093.93,4343.77,Electronics,Medium,No,4.0,36-45
+CUST0578,30,Female,Delhi,New,13,85124.39,6548.03,Electronics,High,Yes,3.6,26-35
+CUST0579,36,Female,Bengaluru,Returning,11,43387.3,3944.3,Fashion,High,Yes,4.2,36-45
+CUST0580,53,Female,Mumbai,New,13,11565.71,889.67,Sports,High,Yes,3.8,46-55
+CUST0581,29,Male,Bengaluru,Returning,10,63970.9,6397.09,Fashion,High,No,3.7,26-35
+CUST0582,58,Male,Chennai,New,4,8040.92,2010.23,Home & Kitchen,Low,Yes,4.5,56-65
+CUST0583,36,Female,Lucknow,Returning,6,14637.96,2439.66,Sports,Medium,Yes,5.0,36-45
+CUST0584,29,Male,Kolkata,Returning,7,12147.1,1735.3,Home & Kitchen,Medium,No,3.9,26-35
+CUST0585,26,Female,Ahmedabad,New,5,14883.05,2976.61,Sports,Medium,No,3.5,26-35
+CUST0586,24,Female,Lucknow,Returning,11,67932.04,6175.64,Fashion,High,No,3.9,18-25
+CUST0587,45,Female,Hyderabad,New,13,57140.07,4395.39,Electronics,High,No,4.3,36-45
+CUST0588,31,Male,Pune,New,19,38695.59,2036.61,Sports,Very High,No,4.1,26-35
+CUST0589,48,Male,Kolkata,Returning,10,70837.3,7083.73,Fashion,High,Yes,4.7,46-55
+CUST0590,36,Female,Mumbai,Returning,10,70968.6,7096.86,Electronics,High,Yes,4.4,36-45
+CUST0591,64,Female,Lucknow,Returning,11,77322.74,7029.34,Fashion,High,No,3.4,56-65
+CUST0592,33,Female,Jaipur,New,7,16036.79,2290.97,Electronics,Medium,Yes,3.7,26-35
+CUST0593,22,Male,Pune,Returning,18,69917.4,3884.3,Fashion,Very High,No,3.2,18-25
+CUST0594,52,Male,Pune,New,4,31549.68,7887.42,Sports,Low,Yes,4.6,46-55
+CUST0595,29,Female,Jaipur,New,2,12580.18,6290.09,Sports,Low,Yes,2.9,26-35
+CUST0596,42,Female,Delhi,Returning,14,9852.64,703.76,Sports,High,No,3.3,36-45
+CUST0597,38,Female,Delhi,Returning,13,12857.39,989.03,Electronics,High,No,3.7,36-45
+CUST0598,53,Male,Jaipur,New,12,47753.88,3979.49,Fashion,High,Yes,4.3,46-55
+CUST0599,40,Female,Hyderabad,Returning,7,51234.05,7319.15,Electronics,Medium,No,3.7,36-45
+CUST0600,33,Female,Chennai,New,2,9080.52,4540.26,Sports,Low,No,3.8,26-35
+CUST0601,56,Female,Jaipur,Returning,13,55036.67,4233.59,Fashion,High,Yes,3.8,56-65
+CUST0602,62,Male,Chennai,New,14,18074.7,1291.05,Home & Kitchen,High,Yes,4.1,56-65
+CUST0603,59,Male,Lucknow,New,17,92239.45,5425.85,Beauty,Very High,No,3.3,56-65
+CUST0604,56,Female,Hyderabad,Returning,9,59991.93,6665.77,Fashion,Medium,No,3.5,56-65
+CUST0605,31,Male,Kolkata,Returning,17,57003.55,3353.15,Fashion,Very High,Yes,4.9,26-35
+CUST0606,48,Male,Chennai,Returning,8,50536.72,6317.09,Sports,Medium,No,4.2,46-55
+CUST0607,22,Female,Pune,New,2,15467.14,7733.57,Sports,Low,No,4.4,18-25
+CUST0608,52,Male,Lucknow,New,13,26367.25,2028.25,Fashion,High,Yes,4.0,46-55
+CUST0609,40,Female,Pune,Returning,3,13274.91,4424.97,Home & Kitchen,Low,No,3.9,36-45
+CUST0610,46,Male,Hyderabad,New,16,42456.48,2653.53,Sports,Very High,Yes,4.3,46-55
+CUST0611,60,Female,Chennai,Returning,6,38678.46,6446.41,Electronics,Medium,Yes,4.4,56-65
+CUST0612,28,Female,Bengaluru,New,19,91807.05,4831.95,Fashion,Very High,No,4.5,26-35
+CUST0613,35,Male,Hyderabad,Returning,7,36815.59,5259.37,Electronics,Medium,No,3.9,26-35
+CUST0614,64,Male,Hyderabad,Returning,10,64843.6,6484.36,Home & Kitchen,High,No,4.5,56-65
+CUST0615,29,Male,Bengaluru,New,9,31228.02,3469.78,Electronics,Medium,Yes,2.6,26-35
+CUST0616,26,Male,Lucknow,Returning,2,14726.36,7363.18,Fashion,Low,Yes,4.5,26-35
+CUST0617,27,Female,Chennai,Returning,15,67465.8,4497.72,Fashion,Very High,Yes,3.8,26-35
+CUST0618,61,Female,Chennai,New,5,8423.3,1684.66,Home & Kitchen,Medium,Yes,4.3,56-65
+CUST0619,34,Male,Pune,Returning,4,22876.96,5719.24,Sports,Low,Yes,3.6,26-35
+CUST0620,55,Male,Hyderabad,Returning,20,128989.2,6449.46,Beauty,Very High,Yes,3.3,46-55
+CUST0621,24,Male,Hyderabad,New,4,11502.84,2875.71,Sports,Low,Yes,4.2,18-25
+CUST0622,63,Female,Ahmedabad,Returning,18,124719.12,6928.84,Home & Kitchen,Very High,No,3.2,56-65
+CUST0623,30,Male,Kolkata,New,4,29184.28,7296.07,Electronics,Low,Yes,3.8,26-35
+CUST0624,57,Female,Hyderabad,Returning,17,43805.26,2576.78,Electronics,Very High,No,3.6,56-65
+CUST0625,59,Female,Mumbai,Returning,12,94516.92,7876.41,Sports,High,Yes,3.9,56-65
+CUST0626,26,Female,Kolkata,Returning,17,26440.78,1555.34,Fashion,Very High,Yes,4.4,26-35
+CUST0627,44,Male,Mumbai,Returning,10,20151.2,2015.12,Electronics,High,Yes,3.7,36-45
+CUST0628,19,Female,Chennai,Returning,1,1881.69,1881.69,Beauty,Low,Yes,4.2,18-25
+CUST0629,22,Male,Kolkata,Returning,18,129688.56,7204.92,Fashion,Very High,No,4.4,18-25
+CUST0630,46,Male,Hyderabad,New,18,97329.42,5407.19,Fashion,Very High,Yes,3.7,46-55
+CUST0631,54,Female,Bengaluru,Returning,14,22970.92,1640.78,Sports,High,No,3.7,46-55
+CUST0632,55,Female,Pune,New,15,57036.45,3802.43,Sports,Very High,No,4.8,46-55
+CUST0633,36,Male,Mumbai,Returning,12,61376.88,5114.74,Fashion,High,No,4.0,36-45
+CUST0634,25,Male,Kolkata,Returning,4,4503.92,1125.98,Sports,Low,Yes,4.3,18-25
+CUST0635,65,Male,Hyderabad,New,3,21354.36,7118.12,Home & Kitchen,Low,No,4.3,56-65
+CUST0636,62,Male,Kolkata,New,20,130540.6,6527.03,Beauty,Very High,Yes,3.3,56-65
+CUST0637,18,Male,Hyderabad,Returning,12,51468.6,4289.05,Electronics,High,Yes,3.6,18-25
+CUST0638,39,Male,Hyderabad,Returning,7,54274.15,7753.45,Electronics,Medium,No,4.2,36-45
+CUST0639,34,Male,Hyderabad,Returning,11,39965.31,3633.21,Home & Kitchen,High,No,2.9,26-35
+CUST0640,24,Female,Ahmedabad,Returning,1,7880.83,7880.83,Sports,Low,Yes,3.9,18-25
+CUST0641,42,Female,Pune,Returning,6,33056.4,5509.4,Home & Kitchen,Medium,Yes,3.5,36-45
+CUST0642,62,Female,Bengaluru,Returning,15,78900.45,5260.03,Electronics,Very High,Yes,4.6,56-65
+CUST0643,21,Male,Bengaluru,New,15,26169.9,1744.66,Electronics,Very High,Yes,4.2,18-25
+CUST0644,53,Female,Kolkata,New,19,135174.74,7114.46,Sports,Very High,Yes,4.7,46-55
+CUST0645,23,Female,Kolkata,Returning,11,40767.87,3706.17,Electronics,High,No,4.0,18-25
+CUST0646,48,Female,Hyderabad,Returning,2,3433.5,1716.75,Home & Kitchen,Low,No,3.9,46-55
+CUST0647,36,Female,Ahmedabad,New,14,8323.84,594.56,Electronics,High,No,3.8,36-45
+CUST0648,61,Female,Hyderabad,Returning,2,9396.34,4698.17,Electronics,Low,Yes,3.7,56-65
+CUST0649,56,Female,Ahmedabad,New,4,17822.0,4455.5,Beauty,Low,No,5.0,56-65
+CUST0650,44,Male,Hyderabad,Returning,17,100217.55,5895.15,Beauty,Very High,No,4.4,36-45
+CUST0651,27,Female,Mumbai,Returning,3,21530.82,7176.94,Fashion,Low,No,3.4,26-35
+CUST0652,43,Female,Mumbai,Returning,13,14242.15,1095.55,Electronics,High,Yes,5.0,36-45
+CUST0653,36,Female,Chennai,Returning,9,53875.98,5986.22,Beauty,Medium,Yes,3.8,36-45
+CUST0654,56,Female,Hyderabad,New,7,13339.13,1905.59,Electronics,Medium,Yes,4.2,56-65
+CUST0655,20,Male,Pune,Returning,15,104044.95,6936.33,Home & Kitchen,Very High,Yes,4.5,18-25
+CUST0656,62,Male,Chennai,Returning,11,73072.78,6642.98,Sports,High,No,3.2,56-65
+CUST0657,30,Female,Kolkata,Returning,20,91119.0,4555.95,Electronics,Very High,No,3.5,26-35
+CUST0658,45,Female,Lucknow,Returning,2,11653.64,5826.82,Sports,Low,Yes,4.9,36-45
+CUST0659,37,Female,Hyderabad,Returning,15,42864.45,2857.63,Electronics,Very High,Yes,3.9,36-45
+CUST0660,45,Male,Mumbai,Returning,14,56472.64,4033.76,Home & Kitchen,High,Yes,4.5,36-45
+CUST0661,25,Male,Lucknow,Returning,20,133245.6,6662.28,Fashion,Very High,Yes,3.8,18-25
+CUST0662,58,Female,Ahmedabad,New,11,43389.39,3944.49,Sports,High,Yes,3.9,56-65
+CUST0663,56,Female,Lucknow,New,3,9550.47,3183.49,Fashion,Low,No,5.0,56-65
+CUST0664,18,Female,Pune,Returning,17,71512.03,4206.59,Fashion,Very High,Yes,4.2,18-25
+CUST0665,20,Male,Hyderabad,New,12,80542.44,6711.87,Sports,High,No,3.8,18-25
+CUST0666,30,Female,Bengaluru,Returning,15,45210.9,3014.06,Home & Kitchen,Very High,Yes,3.6,26-35
+CUST0667,45,Male,Lucknow,New,16,28851.36,1803.21,Home & Kitchen,Very High,Yes,3.7,36-45
+CUST0668,42,Female,Bengaluru,Returning,5,29200.55,5840.11,Fashion,Medium,Yes,4.7,36-45
+CUST0669,50,Male,Ahmedabad,Returning,20,133896.8,6694.84,Beauty,Very High,No,4.4,46-55
+CUST0670,55,Male,Chennai,Returning,6,7528.68,1254.78,Electronics,Medium,Yes,3.4,46-55
+CUST0671,23,Female,Bengaluru,Returning,19,43682.14,2299.06,Electronics,Very High,No,4.0,18-25
+CUST0672,61,Female,Chennai,Returning,5,7823.95,1564.79,Home & Kitchen,Medium,Yes,4.0,56-65
+CUST0673,62,Male,Mumbai,Returning,3,9328.68,3109.56,Fashion,Low,No,4.2,56-65
+CUST0674,49,Female,Hyderabad,Returning,1,3877.63,3877.63,Sports,Low,No,3.7,46-55
+CUST0675,62,Male,Lucknow,New,6,36697.2,6116.2,Sports,Medium,Yes,4.6,56-65
+CUST0676,64,Male,Mumbai,Returning,15,80754.15,5383.61,Beauty,Very High,No,4.0,56-65
+CUST0677,38,Male,Mumbai,Returning,2,10313.92,5156.96,Beauty,Low,Yes,4.2,36-45
+CUST0678,33,Male,Jaipur,Returning,3,9428.43,3142.81,Home & Kitchen,Low,No,3.6,26-35
+CUST0679,38,Male,Delhi,New,17,115784.62,6810.86,Electronics,Very High,Yes,3.6,36-45
+CUST0680,28,Male,Pune,New,12,48415.8,4034.65,Beauty,High,Yes,5.0,26-35
+CUST0681,54,Male,Chennai,Returning,18,141179.22,7843.29,Electronics,Very High,No,5.0,46-55
+CUST0682,53,Female,Jaipur,Returning,15,78841.05,5256.07,Fashion,Very High,No,4.0,46-55
+CUST0683,52,Male,Delhi,New,12,17363.88,1446.99,Beauty,High,Yes,4.8,46-55
+CUST0684,36,Female,Pune,New,16,89141.28,5571.33,Home & Kitchen,Very High,No,4.7,36-45
+CUST0685,37,Male,Chennai,Returning,8,23506.24,2938.28,Sports,Medium,Yes,3.7,36-45
+CUST0686,35,Female,Hyderabad,Returning,14,79064.3,5647.45,Electronics,High,Yes,3.6,26-35
+CUST0687,64,Male,Pune,New,17,17379.27,1022.31,Home & Kitchen,Very High,No,4.4,56-65
+CUST0688,58,Male,Lucknow,Returning,8,14492.88,1811.61,Electronics,Medium,Yes,4.1,56-65
+CUST0689,31,Male,Mumbai,New,15,103770.45,6918.03,Home & Kitchen,Very High,Yes,3.8,26-35
+CUST0690,32,Male,Delhi,Returning,14,30853.9,2203.85,Beauty,High,No,4.4,26-35
+CUST0691,48,Male,Delhi,Returning,18,122000.58,6777.81,Home & Kitchen,Very High,Yes,3.2,46-55
+CUST0692,18,Female,Delhi,New,20,51891.4,2594.57,Fashion,Very High,No,4.1,18-25
+CUST0693,20,Female,Chennai,Returning,7,37251.27,5321.61,Electronics,Medium,Yes,3.3,18-25
+CUST0694,33,Female,Lucknow,Returning,3,17118.39,5706.13,Electronics,Low,Yes,3.3,26-35
+CUST0695,40,Female,Pune,Returning,12,52138.92,4344.91,Home & Kitchen,High,Yes,3.6,36-45
+CUST0696,28,Male,Mumbai,New,3,8369.49,2789.83,Sports,Low,No,4.2,26-35
+CUST0697,29,Male,Lucknow,New,20,41896.6,2094.83,Electronics,Very High,No,3.6,26-35
+CUST0698,27,Male,Jaipur,New,14,10484.88,748.92,Beauty,High,Yes,3.3,26-35
+CUST0699,49,Male,Hyderabad,Returning,15,41694.0,2779.6,Sports,Very High,Yes,4.3,46-55
+CUST0700,33,Male,Bengaluru,Returning,14,75582.08,5398.72,Home & Kitchen,High,No,4.8,26-35
+CUST0701,25,Female,Lucknow,Returning,7,52761.03,7537.29,Home & Kitchen,Medium,Yes,4.4,18-25
+CUST0702,55,Male,Jaipur,Returning,17,119578.51,7034.03,Beauty,Very High,No,5.0,46-55
+CUST0703,29,Male,Mumbai,Returning,12,74945.88,6245.49,Fashion,High,Yes,4.8,26-35
+CUST0704,41,Female,Bengaluru,Returning,20,128267.2,6413.36,Fashion,Very High,No,3.7,36-45
+CUST0705,45,Female,Bengaluru,New,4,21949.56,5487.39,Electronics,Low,Yes,4.3,36-45
+CUST0706,25,Male,Lucknow,New,9,22069.35,2452.15,Sports,Medium,No,3.9,18-25
+CUST0707,45,Female,Delhi,Returning,6,43823.76,7303.96,Sports,Medium,No,4.6,36-45
+CUST0708,53,Female,Kolkata,New,16,88487.84,5530.49,Beauty,Very High,Yes,3.9,46-55
+CUST0709,43,Male,Mumbai,New,2,9406.6,4703.3,Electronics,Low,Yes,3.6,36-45
+CUST0710,25,Male,Delhi,Returning,8,10659.36,1332.42,Fashion,Medium,No,4.8,18-25
+CUST0711,45,Male,Mumbai,Returning,11,42382.12,3852.92,Electronics,High,No,4.2,36-45
+CUST0712,45,Female,Kolkata,New,13,51384.97,3952.69,Electronics,High,Yes,3.6,36-45
+CUST0713,54,Female,Hyderabad,Returning,17,118731.91,6984.23,Home & Kitchen,Very High,Yes,3.7,46-55
+CUST0714,58,Male,Kolkata,Returning,8,36798.88,4599.86,Sports,Medium,No,3.6,56-65
+CUST0715,53,Male,Ahmedabad,Returning,18,60354.0,3353.0,Sports,Very High,Yes,3.4,46-55
+CUST0716,44,Female,Lucknow,New,18,140868.0,7826.0,Beauty,Very High,No,3.7,36-45
+CUST0717,34,Male,Lucknow,New,14,18625.6,1330.4,Electronics,High,Yes,4.2,26-35
+CUST0718,26,Male,Jaipur,Returning,15,55036.65,3669.11,Fashion,Very High,No,4.0,26-35
+CUST0719,50,Female,Delhi,Returning,6,4891.14,815.19,Fashion,Medium,No,3.8,46-55
+CUST0720,37,Female,Jaipur,Returning,11,66542.08,6049.28,Beauty,High,No,4.8,36-45
+CUST0721,30,Female,Ahmedabad,Returning,13,96012.41,7385.57,Beauty,High,Yes,2.9,26-35
+CUST0722,45,Female,Kolkata,New,1,2600.28,2600.28,Fashion,Low,No,4.2,36-45
+CUST0723,65,Female,Lucknow,New,6,41625.36,6937.56,Fashion,Medium,Yes,3.9,56-65
+CUST0724,46,Male,Chennai,Returning,9,24224.76,2691.64,Electronics,Medium,No,3.5,46-55
+CUST0725,30,Female,Kolkata,New,8,58646.24,7330.78,Fashion,Medium,Yes,4.2,26-35
+CUST0726,63,Male,Kolkata,New,11,67701.81,6154.71,Fashion,High,Yes,3.9,56-65
+CUST0727,52,Female,Ahmedabad,Returning,19,124199.2,6536.8,Electronics,Very High,No,4.7,46-55
+CUST0728,23,Male,Hyderabad,New,9,5715.45,635.05,Fashion,Medium,Yes,4.5,18-25
+CUST0729,35,Female,Mumbai,New,17,131258.36,7721.08,Sports,Very High,No,5.0,26-35
+CUST0730,22,Male,Ahmedabad,Returning,12,71400.36,5950.03,Home & Kitchen,High,No,3.7,18-25
+CUST0731,64,Male,Mumbai,New,14,38998.82,2785.63,Electronics,High,No,4.8,56-65
+CUST0732,42,Male,Lucknow,New,15,100806.9,6720.46,Electronics,Very High,Yes,3.4,36-45
+CUST0733,19,Male,Ahmedabad,Returning,16,41782.56,2611.41,Home & Kitchen,Very High,Yes,3.9,18-25
+CUST0734,27,Female,Mumbai,Returning,20,140913.0,7045.65,Fashion,Very High,No,3.7,26-35
+CUST0735,47,Female,Jaipur,New,1,1344.35,1344.35,Fashion,Low,Yes,4.3,46-55
+CUST0736,62,Male,Ahmedabad,Returning,10,57776.4,5777.64,Home & Kitchen,High,Yes,4.3,56-65
+CUST0737,22,Male,Lucknow,Returning,8,36441.92,4555.24,Home & Kitchen,Medium,Yes,3.5,18-25
+CUST0738,50,Male,Ahmedabad,Returning,18,22032.18,1224.01,Beauty,Very High,Yes,4.4,46-55
+CUST0739,18,Male,Lucknow,Returning,1,2314.2,2314.2,Fashion,Low,No,3.8,18-25
+CUST0740,35,Male,Ahmedabad,Returning,2,1186.06,593.03,Beauty,Low,Yes,3.6,26-35
+CUST0741,49,Female,Mumbai,Returning,1,4015.76,4015.76,Fashion,Low,Yes,4.0,46-55
+CUST0742,64,Male,Hyderabad,New,1,2759.49,2759.49,Electronics,Low,Yes,3.2,56-65
+CUST0743,28,Male,Pune,New,9,44889.12,4987.68,Home & Kitchen,Medium,Yes,4.5,26-35
+CUST0744,38,Male,Mumbai,Returning,13,35480.64,2729.28,Home & Kitchen,High,Yes,4.0,36-45
+CUST0745,43,Male,Delhi,Returning,1,2749.39,2749.39,Sports,Low,Yes,4.0,36-45
+CUST0746,42,Male,Bengaluru,New,13,78961.35,6073.95,Beauty,High,Yes,4.0,36-45
+CUST0747,39,Female,Hyderabad,Returning,20,17221.4,861.07,Sports,Very High,No,4.9,36-45
+CUST0748,44,Male,Jaipur,Returning,7,50901.97,7271.71,Sports,Medium,Yes,4.8,36-45
+CUST0749,30,Male,Kolkata,Returning,2,13783.96,6891.98,Home & Kitchen,Low,Yes,4.7,26-35
+CUST0750,50,Male,Mumbai,New,6,33051.24,5508.54,Home & Kitchen,Medium,Yes,4.0,46-55
+CUST0751,51,Male,Ahmedabad,Returning,7,34644.12,4949.16,Home & Kitchen,Medium,Yes,3.4,46-55
+CUST0752,58,Male,Mumbai,New,14,100691.78,7192.27,Sports,High,No,4.0,56-65
+CUST0753,52,Female,Chennai,New,18,34019.64,1889.98,Beauty,Very High,Yes,4.2,46-55
+CUST0754,18,Female,Hyderabad,Returning,15,16384.05,1092.27,Electronics,Very High,Yes,4.4,18-25
+CUST0755,38,Female,Pune,New,2,4592.66,2296.33,Beauty,Low,Yes,4.2,36-45
+CUST0756,65,Male,Jaipur,New,10,64593.4,6459.34,Electronics,High,No,3.4,56-65
+CUST0757,23,Male,Chennai,Returning,12,9120.36,760.03,Fashion,High,Yes,3.7,18-25
+CUST0758,45,Female,Lucknow,New,17,82807.85,4871.05,Electronics,Very High,No,3.7,36-45
+CUST0759,34,Female,Chennai,New,8,63726.24,7965.78,Beauty,Medium,Yes,4.3,26-35
+CUST0760,22,Female,Mumbai,New,11,76094.92,6917.72,Sports,High,No,4.3,18-25
+CUST0761,48,Male,Jaipur,Returning,3,13232.52,4410.84,Fashion,Low,No,4.4,46-55
+CUST0762,22,Male,Mumbai,Returning,6,5863.86,977.31,Electronics,Medium,Yes,4.2,18-25
+CUST0763,55,Male,Lucknow,Returning,9,60617.7,6735.3,Fashion,Medium,Yes,2.9,46-55
+CUST0764,20,Female,Kolkata,Returning,6,29954.04,4992.34,Beauty,Medium,Yes,3.1,18-25
+CUST0765,40,Female,Jaipur,Returning,9,12258.0,1362.0,Fashion,Medium,Yes,3.9,36-45
+CUST0766,54,Female,Kolkata,Returning,7,8427.51,1203.93,Fashion,Medium,Yes,4.1,46-55
+CUST0767,54,Male,Hyderabad,New,9,65899.8,7322.2,Electronics,Medium,Yes,4.7,46-55
+CUST0768,27,Female,Hyderabad,New,18,99342.0,5519.0,Home & Kitchen,Very High,Yes,4.0,26-35
+CUST0769,27,Male,Kolkata,Returning,12,80635.8,6719.65,Fashion,High,No,3.5,26-35
+CUST0770,36,Male,Hyderabad,Returning,8,56738.72,7092.34,Beauty,Medium,Yes,4.4,36-45
+CUST0771,34,Male,Jaipur,Returning,8,38306.32,4788.29,Electronics,Medium,Yes,4.0,26-35
+CUST0772,38,Female,Ahmedabad,Returning,18,78855.3,4380.85,Home & Kitchen,Very High,Yes,3.8,36-45
+CUST0773,31,Male,Delhi,Returning,20,74564.2,3728.21,Fashion,Very High,No,3.1,26-35
+CUST0774,26,Male,Hyderabad,Returning,15,43156.5,2877.1,Home & Kitchen,Very High,Yes,4.0,26-35
+CUST0775,63,Female,Hyderabad,Returning,7,26316.29,3759.47,Fashion,Medium,No,4.1,56-65
+CUST0776,18,Male,Mumbai,Returning,11,69345.1,6304.1,Beauty,High,Yes,3.5,18-25
+CUST0777,62,Male,Kolkata,Returning,20,100288.6,5014.43,Sports,Very High,Yes,4.4,56-65
+CUST0778,30,Male,Bengaluru,Returning,16,115102.72,7193.92,Sports,Very High,Yes,4.4,26-35
+CUST0779,21,Male,Pune,Returning,4,15301.4,3825.35,Home & Kitchen,Low,Yes,4.0,18-25
+CUST0780,18,Female,Chennai,New,6,30319.02,5053.17,Fashion,Medium,No,4.0,18-25
+CUST0781,57,Male,Hyderabad,New,3,15704.43,5234.81,Beauty,Low,No,4.5,56-65
+CUST0782,49,Male,Chennai,Returning,9,44439.57,4937.73,Beauty,Medium,Yes,4.2,46-55
+CUST0783,51,Female,Jaipur,Returning,10,57697.5,5769.75,Electronics,High,No,3.6,46-55
+CUST0784,45,Female,Bengaluru,Returning,14,31930.5,2280.75,Beauty,High,Yes,3.9,36-45
+CUST0785,48,Female,Pune,New,11,47770.03,4342.73,Fashion,High,No,4.3,46-55
+CUST0786,25,Male,Kolkata,Returning,18,23070.42,1281.69,Electronics,Very High,No,2.9,18-25
+CUST0787,56,Male,Delhi,Returning,12,40605.96,3383.83,Fashion,High,Yes,3.5,56-65
+CUST0788,43,Female,Pune,Returning,12,49890.0,4157.5,Fashion,High,Yes,4.4,36-45
+CUST0789,51,Female,Pune,Returning,13,70091.84,5391.68,Home & Kitchen,High,Yes,4.7,46-55
+CUST0790,20,Female,Delhi,New,13,99176.74,7628.98,Fashion,High,No,4.6,18-25
+CUST0791,29,Female,Ahmedabad,Returning,19,95092.72,5004.88,Electronics,Very High,Yes,4.5,26-35
+CUST0792,18,Female,Kolkata,Returning,19,115462.05,6076.95,Electronics,Very High,No,4.1,18-25
+CUST0793,61,Male,Mumbai,Returning,14,60158.0,4297.0,Home & Kitchen,High,No,3.4,56-65
+CUST0794,22,Male,Chennai,Returning,4,21023.12,5255.78,Beauty,Low,Yes,3.9,18-25
+CUST0795,47,Female,Hyderabad,Returning,13,13415.87,1031.99,Fashion,High,Yes,2.9,46-55
+CUST0796,47,Male,Pune,New,8,19263.52,2407.94,Electronics,Medium,No,4.7,46-55
+CUST0797,34,Male,Jaipur,Returning,19,61064.1,3213.9,Electronics,Very High,Yes,3.6,26-35
+CUST0798,65,Female,Delhi,Returning,12,48524.4,4043.7,Sports,High,No,3.7,56-65
+CUST0799,64,Female,Chennai,Returning,18,15162.66,842.37,Home & Kitchen,Very High,Yes,4.6,56-65
+CUST0800,40,Male,Bengaluru,New,6,9301.08,1550.18,Fashion,Medium,Yes,3.1,36-45
+CUST0801,32,Male,Delhi,New,18,46369.98,2576.11,Electronics,Very High,Yes,3.3,26-35
+CUST0802,54,Male,Bengaluru,New,19,147943.5,7786.5,Beauty,Very High,No,4.1,46-55
+CUST0803,38,Female,Kolkata,New,5,14925.5,2985.1,Home & Kitchen,Medium,Yes,4.3,36-45
+CUST0804,31,Female,Pune,New,9,37037.79,4115.31,Electronics,Medium,No,4.0,26-35
+CUST0805,19,Male,Jaipur,Returning,3,5912.19,1970.73,Electronics,Low,Yes,4.0,18-25
+CUST0806,28,Male,Hyderabad,New,10,50808.5,5080.85,Fashion,High,No,4.7,26-35
+CUST0807,56,Female,Bengaluru,New,19,49497.28,2605.12,Sports,Very High,No,4.3,56-65
+CUST0808,55,Male,Chennai,Returning,3,6157.32,2052.44,Sports,Low,Yes,4.3,46-55
+CUST0809,51,Female,Ahmedabad,New,15,65614.35,4374.29,Home & Kitchen,Very High,No,4.4,46-55
+CUST0810,55,Female,Kolkata,New,1,541.29,541.29,Beauty,Low,Yes,3.8,46-55
+CUST0811,51,Male,Ahmedabad,New,7,3902.36,557.48,Electronics,Medium,Yes,5.0,46-55
+CUST0812,35,Female,Kolkata,New,12,25716.24,2143.02,Home & Kitchen,High,Yes,2.7,26-35
+CUST0813,47,Male,Mumbai,Returning,17,13181.97,775.41,Home & Kitchen,Very High,No,4.8,46-55
+CUST0814,32,Male,Chennai,New,20,26203.8,1310.19,Electronics,Very High,No,4.5,26-35
+CUST0815,44,Female,Ahmedabad,Returning,5,15207.25,3041.45,Sports,Medium,Yes,4.1,36-45
+CUST0816,51,Male,Jaipur,Returning,4,26077.56,6519.39,Electronics,Low,Yes,4.0,46-55
+CUST0817,55,Female,Pune,Returning,12,57484.32,4790.36,Fashion,High,No,3.9,46-55
+CUST0818,50,Female,Delhi,Returning,20,86900.2,4345.01,Home & Kitchen,Very High,Yes,4.6,46-55
+CUST0819,41,Male,Hyderabad,Returning,18,48621.06,2701.17,Home & Kitchen,Very High,No,4.0,36-45
+CUST0820,32,Male,Pune,Returning,17,127298.55,7488.15,Beauty,Very High,Yes,3.6,26-35
+CUST0821,47,Male,Pune,New,19,66074.59,3477.61,Electronics,Very High,No,4.5,46-55
+CUST0822,59,Male,Kolkata,Returning,9,10378.8,1153.2,Sports,Medium,No,4.9,56-65
+CUST0823,34,Male,Jaipur,Returning,4,20512.0,5128.0,Home & Kitchen,Low,No,2.9,26-35
+CUST0824,22,Male,Kolkata,New,2,2707.58,1353.79,Home & Kitchen,Low,No,5.0,18-25
+CUST0825,46,Male,Lucknow,New,4,12356.68,3089.17,Sports,Low,Yes,3.4,46-55
+CUST0826,21,Female,Bengaluru,Returning,2,8611.18,4305.59,Beauty,Low,Yes,3.5,18-25
+CUST0827,27,Female,Hyderabad,Returning,15,105850.05,7056.67,Electronics,Very High,Yes,3.3,26-35
+CUST0828,34,Female,Bengaluru,New,2,8403.2,4201.6,Beauty,Low,No,4.0,26-35
+CUST0829,27,Male,Delhi,Returning,4,23067.76,5766.94,Electronics,Low,No,3.3,26-35
+CUST0830,34,Male,Lucknow,New,6,47676.78,7946.13,Electronics,Medium,No,3.4,26-35
+CUST0831,37,Female,Chennai,Returning,7,10403.19,1486.17,Fashion,Medium,Yes,3.6,36-45
+CUST0832,41,Male,Delhi,New,10,25604.9,2560.49,Sports,High,Yes,4.1,36-45
+CUST0833,22,Male,Delhi,New,19,65727.08,3459.32,Electronics,Very High,Yes,4.1,18-25
+CUST0834,51,Female,Mumbai,Returning,19,69610.49,3663.71,Beauty,Very High,No,4.7,46-55
+CUST0835,23,Female,Hyderabad,Returning,12,42991.92,3582.66,Electronics,High,Yes,4.7,18-25
+CUST0836,19,Female,Kolkata,Returning,3,21921.24,7307.08,Beauty,Low,Yes,4.6,18-25
+CUST0837,30,Male,Jaipur,Returning,13,76118.12,5855.24,Home & Kitchen,High,No,3.9,26-35
+CUST0838,60,Female,Bengaluru,New,18,91067.22,5059.29,Beauty,Very High,No,3.0,56-65
+CUST0839,60,Female,Delhi,Returning,8,22562.4,2820.3,Electronics,Medium,Yes,3.0,56-65
+CUST0840,65,Female,Bengaluru,New,15,100176.45,6678.43,Beauty,Very High,Yes,4.6,56-65
+CUST0841,28,Female,Bengaluru,Returning,1,7662.95,7662.95,Sports,Low,No,4.5,26-35
+CUST0842,64,Female,Chennai,New,3,19976.97,6658.99,Home & Kitchen,Low,Yes,3.7,56-65
+CUST0843,40,Male,Hyderabad,Returning,8,4093.92,511.74,Home & Kitchen,Medium,No,3.2,36-45
+CUST0844,33,Male,Hyderabad,Returning,4,21092.04,5273.01,Sports,Low,Yes,3.4,26-35
+CUST0845,48,Female,Ahmedabad,Returning,16,14136.32,883.52,Electronics,Very High,No,4.1,46-55
+CUST0846,28,Female,Pune,Returning,10,24320.5,2432.05,Beauty,High,Yes,4.1,26-35
+CUST0847,33,Female,Hyderabad,New,12,11357.28,946.44,Sports,High,Yes,4.6,26-35
+CUST0848,25,Male,Bengaluru,Returning,14,70398.58,5028.47,Electronics,High,No,3.8,18-25
+CUST0849,21,Male,Kolkata,Returning,14,79091.88,5649.42,Fashion,High,No,3.9,18-25
+CUST0850,57,Female,Bengaluru,New,2,2717.32,1358.66,Electronics,Low,Yes,4.6,56-65
+CUST0851,21,Female,Kolkata,Returning,5,16893.95,3378.79,Home & Kitchen,Medium,No,2.8,18-25
+CUST0852,42,Female,Ahmedabad,New,5,19608.85,3921.77,Home & Kitchen,Medium,Yes,4.2,36-45
+CUST0853,20,Female,Kolkata,Returning,6,19607.4,3267.9,Fashion,Medium,No,3.8,18-25
+CUST0854,49,Female,Hyderabad,Returning,13,18299.97,1407.69,Fashion,High,No,4.4,46-55
+CUST0855,20,Female,Chennai,Returning,9,32778.99,3642.11,Fashion,Medium,Yes,4.3,18-25
+CUST0856,44,Female,Kolkata,New,15,92007.6,6133.84,Fashion,Very High,No,3.6,36-45
+CUST0857,46,Female,Bengaluru,New,14,14455.84,1032.56,Electronics,High,Yes,3.7,46-55
+CUST0858,49,Female,Jaipur,Returning,7,7709.45,1101.35,Sports,Medium,Yes,2.7,46-55
+CUST0859,36,Male,Hyderabad,New,20,63215.6,3160.78,Electronics,Very High,No,4.4,36-45
+CUST0860,38,Male,Jaipur,New,2,15125.88,7562.94,Sports,Low,No,4.1,36-45
+CUST0861,22,Female,Lucknow,Returning,7,38600.03,5514.29,Home & Kitchen,Medium,Yes,4.8,18-25
+CUST0862,35,Male,Lucknow,Returning,6,33540.12,5590.02,Fashion,Medium,Yes,3.8,26-35
+CUST0863,45,Male,Bengaluru,Returning,17,54644.8,3214.4,Beauty,Very High,Yes,4.5,36-45
+CUST0864,59,Male,Lucknow,Returning,2,9904.92,4952.46,Home & Kitchen,Low,No,3.4,56-65
+CUST0865,39,Male,Pune,New,3,1727.94,575.98,Home & Kitchen,Low,Yes,2.5,36-45
+CUST0866,38,Male,Ahmedabad,Returning,5,26353.6,5270.72,Electronics,Medium,Yes,3.9,36-45
+CUST0867,23,Male,Hyderabad,New,5,36748.25,7349.65,Fashion,Medium,Yes,3.7,18-25
+CUST0868,18,Female,Jaipur,Returning,1,5094.3,5094.3,Fashion,Low,Yes,3.4,18-25
+CUST0869,22,Male,Bengaluru,Returning,8,56421.92,7052.74,Electronics,Medium,Yes,4.5,18-25
+CUST0870,58,Male,Pune,Returning,12,71157.6,5929.8,Fashion,High,Yes,4.7,56-65
+CUST0871,29,Male,Bengaluru,New,4,5616.76,1404.19,Electronics,Low,Yes,4.1,26-35
+CUST0872,43,Female,Pune,Returning,13,94489.2,7268.4,Fashion,High,Yes,3.9,36-45
+CUST0873,63,Male,Lucknow,Returning,15,14974.95,998.33,Electronics,Very High,No,4.0,56-65
+CUST0874,51,Female,Lucknow,New,11,49552.36,4504.76,Electronics,High,Yes,3.6,46-55
+CUST0875,31,Female,Kolkata,Returning,10,15660.3,1566.03,Electronics,High,No,4.3,26-35
+CUST0876,43,Female,Mumbai,Returning,3,1763.4,587.8,Sports,Low,No,3.2,36-45
+CUST0877,62,Male,Bengaluru,Returning,14,51313.64,3665.26,Electronics,High,No,3.4,56-65
+CUST0878,44,Female,Kolkata,New,16,43404.96,2712.81,Home & Kitchen,Very High,No,3.6,36-45
+CUST0879,26,Male,Hyderabad,New,10,41450.0,4145.0,Electronics,High,Yes,4.3,26-35
+CUST0880,43,Female,Kolkata,New,10,48290.0,4829.0,Sports,High,Yes,3.8,36-45
+CUST0881,64,Female,Delhi,Returning,12,9936.48,828.04,Electronics,High,Yes,4.7,56-65
+CUST0882,39,Male,Lucknow,New,9,12802.68,1422.52,Sports,Medium,Yes,4.4,36-45
+CUST0883,64,Male,Delhi,New,1,4689.82,4689.82,Home & Kitchen,Low,No,3.6,56-65
+CUST0884,47,Male,Bengaluru,Returning,5,15368.8,3073.76,Electronics,Medium,No,4.3,46-55
+CUST0885,60,Female,Jaipur,Returning,20,119376.0,5968.8,Sports,Very High,No,3.8,56-65
+CUST0886,65,Male,Jaipur,New,8,43137.52,5392.19,Home & Kitchen,Medium,Yes,4.3,56-65
+CUST0887,34,Female,Hyderabad,New,11,75262.33,6842.03,Fashion,High,No,4.5,26-35
+CUST0888,43,Male,Kolkata,Returning,12,68324.4,5693.7,Beauty,High,Yes,4.6,36-45
+CUST0889,53,Female,Jaipur,New,1,3724.48,3724.48,Sports,Low,Yes,4.1,46-55
+CUST0890,18,Female,Pune,Returning,20,110945.0,5547.25,Home & Kitchen,Very High,Yes,4.9,18-25
+CUST0891,25,Female,Pune,Returning,11,28218.96,2565.36,Fashion,High,No,4.2,18-25
+CUST0892,52,Female,Hyderabad,Returning,5,13986.75,2797.35,Beauty,Medium,Yes,4.1,46-55
+CUST0893,32,Male,Ahmedabad,Returning,15,96260.85,6417.39,Beauty,Very High,No,3.8,26-35
+CUST0894,64,Male,Lucknow,Returning,5,19240.75,3848.15,Sports,Medium,No,3.7,56-65
+CUST0895,39,Female,Kolkata,Returning,12,77854.2,6487.85,Beauty,High,No,4.2,36-45
+CUST0896,31,Male,Bengaluru,New,5,33340.85,6668.17,Fashion,Medium,Yes,4.1,26-35
+CUST0897,43,Male,Chennai,Returning,17,117839.24,6931.72,Sports,Very High,No,4.1,36-45
+CUST0898,45,Male,Chennai,Returning,17,125370.92,7374.76,Electronics,Very High,No,4.3,36-45
+CUST0899,40,Male,Chennai,New,12,44788.68,3732.39,Fashion,High,Yes,4.1,36-45
+CUST0900,31,Male,Jaipur,New,15,43372.5,2891.5,Home & Kitchen,Very High,Yes,5.0,26-35
+CUST0901,41,Female,Ahmedabad,New,15,72997.35,4866.49,Home & Kitchen,Very High,Yes,3.7,36-45
+CUST0902,19,Male,Ahmedabad,Returning,6,19702.74,3283.79,Electronics,Medium,Yes,4.2,18-25
+CUST0903,62,Female,Kolkata,New,12,60096.72,5008.06,Beauty,High,Yes,3.9,56-65
+CUST0904,43,Male,Kolkata,New,20,115837.8,5791.89,Fashion,Very High,No,2.6,36-45
+CUST0905,31,Female,Ahmedabad,Returning,18,101934.72,5663.04,Fashion,Very High,Yes,3.9,26-35
+CUST0906,24,Male,Hyderabad,Returning,14,46328.1,3309.15,Beauty,High,Yes,3.5,18-25
+CUST0907,20,Female,Kolkata,New,2,3502.9,1751.45,Fashion,Low,No,4.0,18-25
+CUST0908,64,Female,Hyderabad,Returning,9,33560.73,3728.97,Electronics,Medium,Yes,4.0,56-65
+CUST0909,40,Male,Delhi,Returning,5,7847.3,1569.46,Electronics,Medium,No,4.2,36-45
+CUST0910,63,Female,Pune,Returning,20,143514.6,7175.73,Sports,Very High,Yes,3.7,56-65
+CUST0911,60,Female,Lucknow,Returning,1,3094.08,3094.08,Electronics,Low,Yes,3.8,56-65
+CUST0912,64,Female,Kolkata,New,3,4975.35,1658.45,Fashion,Low,Yes,4.4,56-65
+CUST0913,62,Female,Ahmedabad,New,6,4145.16,690.86,Home & Kitchen,Medium,Yes,3.6,56-65
+CUST0914,35,Male,Pune,Returning,5,26718.35,5343.67,Home & Kitchen,Medium,Yes,3.0,26-35
+CUST0915,55,Female,Pune,New,5,26383.85,5276.77,Electronics,Medium,No,4.1,46-55
+CUST0916,52,Male,Mumbai,New,1,3054.53,3054.53,Home & Kitchen,Low,Yes,4.6,46-55
+CUST0917,32,Male,Ahmedabad,Returning,17,17643.28,1037.84,Fashion,Very High,No,4.4,26-35
+CUST0918,42,Female,Lucknow,New,19,67872.18,3572.22,Sports,Very High,Yes,4.1,36-45
+CUST0919,54,Male,Ahmedabad,Returning,14,39677.82,2834.13,Electronics,High,Yes,4.7,46-55
+CUST0920,45,Female,Kolkata,New,12,66940.8,5578.4,Fashion,High,No,4.6,36-45
+CUST0921,27,Female,Bengaluru,Returning,10,50433.4,5043.34,Fashion,High,Yes,3.8,26-35
+CUST0922,56,Female,Delhi,Returning,20,64689.0,3234.45,Fashion,Very High,No,4.1,56-65
+CUST0923,34,Female,Hyderabad,Returning,18,38415.42,2134.19,Home & Kitchen,Very High,No,4.2,26-35
+CUST0924,56,Male,Bengaluru,New,11,87012.97,7910.27,Electronics,High,No,4.0,56-65
+CUST0925,39,Male,Delhi,Returning,2,7810.02,3905.01,Fashion,Low,Yes,4.6,36-45
+CUST0926,43,Male,Bengaluru,Returning,18,101917.08,5662.06,Beauty,Very High,No,3.9,36-45
+CUST0927,61,Male,Hyderabad,Returning,7,10879.05,1554.15,Home & Kitchen,Medium,No,3.7,56-65
+CUST0928,42,Male,Jaipur,Returning,15,62128.8,4141.92,Fashion,Very High,No,2.6,36-45
+CUST0929,34,Male,Ahmedabad,Returning,11,7771.83,706.53,Electronics,High,Yes,3.6,26-35
+CUST0930,30,Female,Bengaluru,Returning,18,77236.38,4290.91,Electronics,Very High,Yes,3.3,26-35
+CUST0931,37,Female,Kolkata,Returning,12,92761.56,7730.13,Electronics,High,Yes,4.0,36-45
+CUST0932,42,Male,Lucknow,Returning,6,20289.3,3381.55,Electronics,Medium,Yes,3.3,36-45
+CUST0933,21,Female,Chennai,New,20,15849.4,792.47,Home & Kitchen,Very High,Yes,4.3,18-25
+CUST0934,27,Male,Kolkata,Returning,13,9518.21,732.17,Sports,High,Yes,4.6,26-35
+CUST0935,20,Male,Hyderabad,Returning,20,68198.0,3409.9,Fashion,Very High,No,4.0,18-25
+CUST0936,58,Female,Lucknow,Returning,16,27203.04,1700.19,Fashion,Very High,No,3.5,56-65
+CUST0937,62,Female,Kolkata,Returning,18,12152.52,675.14,Electronics,Very High,No,4.2,56-65
+CUST0938,35,Female,Pune,Returning,10,61716.0,6171.6,Fashion,High,Yes,5.0,26-35
+CUST0939,64,Male,Ahmedabad,Returning,8,31511.36,3938.92,Electronics,Medium,Yes,4.9,56-65
+CUST0940,53,Female,Lucknow,New,18,48048.12,2669.34,Sports,Very High,No,3.2,46-55
+CUST0941,64,Female,Pune,New,1,7250.62,7250.62,Beauty,Low,No,3.2,56-65
+CUST0942,39,Female,Kolkata,Returning,8,10968.32,1371.04,Sports,Medium,No,3.1,36-45
+CUST0943,51,Female,Delhi,Returning,6,46016.34,7669.39,Sports,Medium,No,3.4,46-55
+CUST0944,64,Female,Mumbai,New,5,14273.75,2854.75,Home & Kitchen,Medium,Yes,4.1,56-65
+CUST0945,25,Female,Delhi,New,15,107445.45,7163.03,Home & Kitchen,Very High,No,3.7,18-25
+CUST0946,57,Female,Ahmedabad,New,15,75331.05,5022.07,Electronics,Very High,Yes,3.5,56-65
+CUST0947,61,Female,Lucknow,Returning,2,13400.62,6700.31,Fashion,Low,Yes,4.6,56-65
+CUST0948,36,Female,Lucknow,New,1,7880.1,7880.1,Sports,Low,No,4.3,36-45
+CUST0949,59,Male,Ahmedabad,Returning,11,29293.44,2663.04,Electronics,High,Yes,3.1,56-65
+CUST0950,58,Female,Pune,Returning,10,77085.2,7708.52,Sports,High,Yes,4.5,56-65
+CUST0951,54,Male,Mumbai,Returning,18,61579.98,3421.11,Fashion,Very High,Yes,4.3,46-55
+CUST0952,23,Male,Kolkata,Returning,18,61044.12,3391.34,Sports,Very High,Yes,4.3,18-25
+CUST0953,43,Female,Hyderabad,Returning,17,51899.3,3052.9,Sports,Very High,No,3.7,36-45
+CUST0954,51,Female,Delhi,New,8,36484.48,4560.56,Beauty,Medium,Yes,3.9,46-55
+CUST0955,62,Female,Delhi,Returning,15,24841.35,1656.09,Home & Kitchen,Very High,Yes,2.9,56-65
+CUST0956,23,Male,Chennai,Returning,8,37222.72,4652.84,Fashion,Medium,Yes,4.5,18-25
+CUST0957,54,Female,Mumbai,Returning,17,77567.43,4562.79,Sports,Very High,Yes,3.5,46-55
+CUST0958,50,Male,Hyderabad,New,12,74571.12,6214.26,Sports,High,Yes,3.5,46-55
+CUST0959,39,Female,Delhi,New,8,54018.96,6752.37,Beauty,Medium,No,3.5,36-45
+CUST0960,38,Female,Hyderabad,New,14,53246.34,3803.31,Home & Kitchen,High,Yes,5.0,36-45
+CUST0961,23,Female,Kolkata,Returning,4,11070.0,2767.5,Home & Kitchen,Low,No,3.6,18-25
+CUST0962,23,Female,Lucknow,Returning,1,2445.01,2445.01,Sports,Low,No,4.5,18-25
+CUST0963,65,Female,Hyderabad,New,1,1959.68,1959.68,Home & Kitchen,Low,No,4.0,56-65
+CUST0964,21,Female,Delhi,Returning,19,17714.84,932.36,Beauty,Very High,Yes,3.5,18-25
+CUST0965,47,Male,Pune,New,16,49093.76,3068.36,Home & Kitchen,Very High,Yes,3.4,46-55
+CUST0966,28,Male,Mumbai,New,14,35376.04,2526.86,Electronics,High,No,3.7,26-35
+CUST0967,47,Female,Ahmedabad,Returning,16,123970.08,7748.13,Fashion,Very High,Yes,4.0,46-55
+CUST0968,48,Female,Bengaluru,New,5,23414.1,4682.82,Fashion,Medium,No,4.3,46-55
+CUST0969,41,Male,Jaipur,Returning,9,27941.22,3104.58,Electronics,Medium,No,3.7,36-45
+CUST0970,26,Female,Jaipur,Returning,2,9707.02,4853.51,Electronics,Low,No,3.7,26-35
+CUST0971,20,Male,Bengaluru,Returning,18,27791.64,1543.98,Home & Kitchen,Very High,No,3.5,18-25
+CUST0972,48,Male,Hyderabad,New,6,22981.98,3830.33,Electronics,Medium,Yes,3.3,46-55
+CUST0973,57,Female,Mumbai,Returning,9,46770.84,5196.76,Fashion,Medium,Yes,3.3,56-65
+CUST0974,54,Female,Hyderabad,Returning,1,4166.73,4166.73,Beauty,Low,No,4.5,46-55
+CUST0975,53,Female,Ahmedabad,Returning,9,31620.06,3513.34,Sports,Medium,Yes,3.7,46-55
+CUST0976,41,Male,Mumbai,New,16,127261.76,7953.86,Beauty,Very High,Yes,3.8,36-45
+CUST0977,48,Male,Bengaluru,New,13,92330.68,7102.36,Sports,High,No,3.6,46-55
+CUST0978,23,Female,Hyderabad,New,9,46579.86,5175.54,Beauty,Medium,No,3.8,18-25
+CUST0979,19,Female,Chennai,New,13,62014.29,4770.33,Fashion,High,No,4.2,18-25
+CUST0980,37,Male,Delhi,Returning,9,46394.55,5154.95,Beauty,Medium,No,3.7,36-45
+CUST0981,45,Female,Pune,Returning,11,22108.24,2009.84,Beauty,High,Yes,4.1,36-45
+CUST0982,28,Male,Lucknow,Returning,4,13854.12,3463.53,Fashion,Low,No,4.8,26-35
+CUST0983,21,Female,Pune,New,2,1591.9,795.95,Electronics,Low,No,3.5,18-25
+CUST0984,32,Female,Ahmedabad,Returning,6,24399.6,4066.6,Beauty,Medium,No,3.8,26-35
+CUST0985,23,Male,Hyderabad,New,14,64017.52,4572.68,Electronics,High,Yes,4.4,18-25
+CUST0986,47,Male,Kolkata,Returning,4,8832.48,2208.12,Home & Kitchen,Low,Yes,4.8,46-55
+CUST0987,55,Female,Mumbai,Returning,6,46381.32,7730.22,Electronics,Medium,No,3.3,46-55
+CUST0988,19,Female,Hyderabad,Returning,19,139097.29,7320.91,Home & Kitchen,Very High,Yes,3.1,18-25
+CUST0989,32,Female,Mumbai,Returning,6,35496.42,5916.07,Home & Kitchen,Medium,Yes,4.0,26-35
+CUST0990,28,Female,Lucknow,New,2,9000.8,4500.4,Electronics,Low,No,3.9,26-35
+CUST0991,25,Female,Chennai,Returning,18,126445.86,7024.77,Fashion,Very High,Yes,4.4,18-25
+CUST0992,43,Female,Pune,Returning,13,19238.57,1479.89,Home & Kitchen,High,Yes,4.3,36-45
+CUST0993,62,Female,Delhi,Returning,9,57859.38,6428.82,Sports,Medium,Yes,4.0,56-65
+CUST0994,61,Male,Lucknow,Returning,19,27287.04,1436.16,Sports,Very High,Yes,4.6,56-65
+CUST0995,22,Male,Lucknow,Returning,13,83935.54,6456.58,Home & Kitchen,High,No,3.6,18-25
+CUST0996,23,Male,Pune,New,11,28250.86,2568.26,Beauty,High,Yes,4.1,18-25
+CUST0997,43,Female,Lucknow,Returning,1,7078.18,7078.18,Fashion,Low,Yes,3.3,36-45
+CUST0998,21,Male,Kolkata,New,7,53062.24,7580.32,Fashion,Medium,No,4.0,18-25
+CUST0999,36,Female,Kolkata,Returning,15,24239.55,1615.97,Electronics,Very High,No,3.2,36-45
+CUST1000,37,Female,Jaipur,Returning,1,3970.07,3970.07,Home & Kitchen,Low,No,3.4,36-45
